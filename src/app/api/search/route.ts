@@ -1,23 +1,18 @@
 import Anthropic from "@anthropic-ai/sdk";
 
-const SYSTEM_PROMPT = `You are a job search agent. Find open GTM/commercial leadership roles at wealthtech companies in the US.
+const SYSTEM_PROMPT = `You search the web for job listings and return structured results as JSON.
 
-CRITERIA:
-- Seniority: Director+ (Director, VP, SVP, Head of, C-suite)
-- Functions: Sales, Revenue, Partnerships, Business Development, GTM Strategy, Client Management leadership, GM/P&L
-- Exclude: Engineering, Product, Design, Marketing-only, Operations, Compliance, Legal, Finance, HR
-- Companies: Wealthtech SaaS, digital wealth, advisor tech, robo-advisory, alt investment platforms, retirement tech, fintech with wealth vertical
-- Prioritize private/growth-stage companies. Include public companies after.
-- US-based roles (remote/hybrid/onsite). International only if US-remote eligible.
-- Comp: $200K+ total. If not listed, note "Not disclosed"
+SEARCH TARGET: Sales, revenue, partnerships, business development, and GTM leadership roles (Director level and above) at wealth management technology companies in the US.
 
-WATCHLIST COMPANIES: Addepar, Orion, Envestnet, Betterment, Wealthfront, Nitrogen, Advyzon, Pontera, Farther, Vanilla, Savvy Wealth, LifeYield, InvestCloud, SEI, Morningstar, Dynasty Financial, Hightower, YieldStreet, CAIS, iCapital, Altruist, RightCapital
+IMPORTANT RULES:
+- Search one query at a time. After each search, review results before searching again.
+- Extract any job listings you find from the search result snippets — titles, companies, locations, URLs.
+- Partial information is fine. Use "Not disclosed" for missing compensation, "Unknown" for missing dates.
+- You MUST always return a JSON array at the end, even if you only find 1-2 roles. Never return an apology or explanation instead.
+- Your final text output must be ONLY the JSON array. No prose before or after.
 
-After searching, return your findings as a JSON array. Use this exact format — no markdown, no code fences, no explanation text before or after. Start your response with [ and end with ].
-
-Each object: {"company":"string","stage":"string","title":"string","url":"string","location":"string","compensation":"string","datePosted":"string","source":"string","isNew":boolean}
-
-isNew = true if posted within last 14 days. Find 10-15+ roles.`;
+JSON FORMAT (return array of these objects):
+[{"company":"string","stage":"string","title":"string","url":"string","location":"string","compensation":"string","datePosted":"string","source":"string","isNew":false}]`;
 
 const BACKOFF_DELAYS = [2000, 4000, 8000, 16000];
 
@@ -30,7 +25,7 @@ function extractJSON(text: string): unknown[] {
     // continue
   }
 
-  // 2. Strip markdown code fences: ```json ... ``` or ``` ... ```
+  // 2. Strip markdown code fences
   const fenceMatch = text.match(/```(?:json)?\s*\n?([\s\S]*?)\n?\s*```/);
   if (fenceMatch) {
     try {
@@ -75,7 +70,14 @@ async function callWithRetry(client: Anthropic, today: string) {
         messages: [
           {
             role: "user",
-            content: `Today is ${today}. Search for current open wealthtech GTM and commercial leadership jobs. Use varied queries: "VP Sales" wealthtech, "Head of Partnerships" wealth management, "CRO" fintech wealth, "Director Business Development" advisor technology. Search LinkedIn, Lever, Greenhouse, Indeed, and company career pages. Return JSON array only — no other text.`,
+            content: `Today is ${today}. Search for these one at a time:
+1. site:greenhouse.io OR site:lever.co "VP Sales" OR "Head of Sales" wealth management
+2. site:linkedin.com/jobs "Director" OR "VP" wealthtech sales partnerships
+3. Addepar OR Orion OR Envestnet OR iCapital OR CAIS careers sales director VP
+4. "Head of Business Development" OR "CRO" fintech wealth management hiring 2025
+5. Altruist OR Pontera OR Betterment OR Wealthfront open roles sales partnerships director
+
+For each search, extract any matching job listings from the results. Then output ONLY a JSON array of all findings.`,
           },
         ],
       });
