@@ -25,14 +25,14 @@ async function callWithRetry(client: Anthropic, today: string) {
   for (let attempt = 0; attempt <= BACKOFF_DELAYS.length; attempt++) {
     try {
       return await client.messages.create({
-        model: "claude-sonnet-4-20250514",
-        max_tokens: 16000,
+        model: "claude-haiku-4-5-20251001",
+        max_tokens: 4096,
         system: SYSTEM_PROMPT,
         tools: [
           {
             type: "web_search_20250305",
             name: "web_search",
-            max_uses: 15,
+            max_uses: 10,
           },
         ],
         messages: [
