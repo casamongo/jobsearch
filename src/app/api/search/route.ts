@@ -13,11 +13,48 @@ CRITERIA:
 
 WATCHLIST COMPANIES: Addepar, Orion, Envestnet, Betterment, Wealthfront, Nitrogen, Advyzon, Pontera, Farther, Vanilla, Savvy Wealth, LifeYield, InvestCloud, SEI, Morningstar, Dynasty Financial, Hightower, YieldStreet, CAIS, iCapital, Altruist, RightCapital
 
-OUTPUT: Return ONLY a JSON array (no other text) with objects having these fields:
-{"company":"string","stage":"string","title":"string","url":"string","location":"string","compensation":"string","datePosted":"string","source":"string","isNew":boolean}
+After searching, return your findings as a JSON array. Use this exact format — no markdown, no code fences, no explanation text before or after. Start your response with [ and end with ].
+
+Each object: {"company":"string","stage":"string","title":"string","url":"string","location":"string","compensation":"string","datePosted":"string","source":"string","isNew":boolean}
+
 isNew = true if posted within last 14 days. Find 10-15+ roles.`;
 
 const BACKOFF_DELAYS = [2000, 4000, 8000, 16000];
+
+function extractJSON(text: string): unknown[] {
+  // 1. Try direct parse
+  try {
+    const parsed = JSON.parse(text);
+    if (Array.isArray(parsed)) return parsed;
+  } catch {
+    // continue
+  }
+
+  // 2. Strip markdown code fences: ```json ... ``` or ``` ... ```
+  const fenceMatch = text.match(/```(?:json)?\s*\n?([\s\S]*?)\n?\s*```/);
+  if (fenceMatch) {
+    try {
+      const parsed = JSON.parse(fenceMatch[1]);
+      if (Array.isArray(parsed)) return parsed;
+    } catch {
+      // continue
+    }
+  }
+
+  // 3. Find first [ ... last ] in text
+  const start = text.indexOf("[");
+  const end = text.lastIndexOf("]");
+  if (start !== -1 && end > start) {
+    try {
+      const parsed = JSON.parse(text.slice(start, end + 1));
+      if (Array.isArray(parsed)) return parsed;
+    } catch {
+      // continue
+    }
+  }
+
+  return [];
+}
 
 async function callWithRetry(client: Anthropic, today: string) {
   let lastError: unknown;
@@ -38,7 +75,7 @@ async function callWithRetry(client: Anthropic, today: string) {
         messages: [
           {
             role: "user",
-            content: `Today is ${today}. Search for current open wealthtech GTM and commercial leadership jobs. Use varied queries: "VP Sales" wealthtech, "Head of Partnerships" wealth management, "CRO" fintech wealth, "Director Business Development" advisor technology. Search LinkedIn, Lever, Greenhouse, Indeed, and company career pages. Return JSON array only.`,
+            content: `Today is ${today}. Search for current open wealthtech GTM and commercial leadership jobs. Use varied queries: "VP Sales" wealthtech, "Head of Partnerships" wealth management, "CRO" fintech wealth, "Director Business Development" advisor technology. Search LinkedIn, Lever, Greenhouse, Indeed, and company career pages. Return JSON array only — no other text.`,
           },
         ],
       });
@@ -65,24 +102,27 @@ export async function POST() {
   try {
     const response = await callWithRetry(client, today);
 
+    // Collect all text blocks
     let resultText = "";
+    const blockTypes: string[] = [];
     for (const block of response.content) {
+      blockTypes.push(block.type);
       if (block.type === "text") {
         resultText += block.text;
       }
     }
 
-    let jobs = [];
-    try {
-      jobs = JSON.parse(resultText);
-    } catch {
-      const jsonMatch = resultText.match(/\[[\s\S]*\]/);
-      if (jsonMatch) {
-        jobs = JSON.parse(jsonMatch[0]);
-      }
-    }
+    const jobs = extractJSON(resultText);
 
-    return Response.json({ jobs, raw: resultText });
+    return Response.json({
+      jobs,
+      debug: {
+        stopReason: response.stop_reason,
+        blockTypes,
+        textLength: resultText.length,
+        rawPreview: resultText.slice(0, 500),
+      },
+    });
   } catch (error: unknown) {
     console.error("Search error:", error);
     const message =
