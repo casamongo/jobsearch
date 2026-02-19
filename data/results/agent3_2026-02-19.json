@@ -1,0 +1,66 @@
+{
+  "roles": [],
+  "queries_run": [
+    {
+      "query": "site:linkedin.com/jobs \"VP Sales\" OR \"Head of Sales\" fintech wealth management",
+      "results_found": 0
+    },
+    {
+      "query": "site:linkedin.com/jobs \"Director\" OR \"VP\" wealthtech sales partnerships",
+      "results_found": 0
+    },
+    {
+      "query": "site:linkedin.com/jobs \"Chief Revenue Officer\" fintech OR \"investment technology\"",
+      "results_found": 0
+    },
+    {
+      "query": "site:linkedin.com/jobs \"Head of Business Development\" financial technology wealth",
+      "results_found": 0
+    },
+    {
+      "query": "site:linkedin.com/jobs \"VP GTM\" OR \"Head of GTM\" fintech",
+      "results_found": 2
+    },
+    {
+      "query": "site:linkedin.com/jobs \"Director Partnerships\" OR \"Head of Partnerships\" fintech wealth",
+      "results_found": 0
+    },
+    {
+      "query": "site:linkedin.com/jobs \"VP Sales\" \"portfolio management\" OR \"financial planning\" OR \"investment platform\"",
+      "results_found": 0
+    },
+    {
+      "query": "\"Head of Sales\" OR \"VP Sales\" OR \"CRO\" fintech wealth management job posting",
+      "results_found": 0
+    },
+    {
+      "query": "\"Director\" OR \"VP\" partnerships \"alternative investments\" OR \"private markets\"",
+      "results_found": 1
+    },
+    {
+      "query": "site:wellfound.com \"VP\" OR \"Director\" OR \"Head\" sales fintech wealth",
+      "results_found": 0
+    },
+    {
+      "query": "Addepar careers \"VP\" OR \"Director\" OR \"Head\" sales revenue partnerships",
+      "results_found": 0
+    },
+    {
+      "query": "site:linkedin.com/jobs iCapital director OR VP sales partnerships",
+      "results_found": 3
+    },
+    {
+      "query": "Vestwell careers \"Director\" OR \"VP\" sales business development",
+      "results_found": 2
+    },
+    {
+      "query": "GeoWealth careers director VP head sales partnerships",
+      "results_found": 0
+    },
+    {
+      "query": "site:linkedin.com/jobs Alpaca \"VP\" OR \"Director\" sales partnerships growth",
+      "results_found": 1
+    }
+  ],
+  "notes": "Search results returned primarily aggregated job board listings and general company information rather than specific, currently-open Director+ GTM roles at wealth/investment fintech companies. The searches identified that these companies exist and are hiring, but specific role URLs with full details (title, compensation, date posted) could not be reliably extracted from the search results. LinkedIn's job search pages show summaries but do not provide direct access to individual job posting details without clicking through, and the specific job view pages returned 'cannot provide description' errors. To complete this search effectively would require: (1) Direct access to company career pages with active listings, (2) LinkedIn Jobs API access, or (3) Manual clicking through to individual job postings. The queries executed align with the search strategy outlined in the instructions, but the limitation is in the search result accessibility rather than search methodology."
+}
