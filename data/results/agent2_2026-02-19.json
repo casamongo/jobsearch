@@ -1,0 +1,234 @@
+{
+  "roles": [
+    {
+      "company": "Addepar",
+      "stage": "Growth",
+      "title": "Head of Client Success - Core & Strategic",
+      "url": "https://job-boards.greenhouse.io/addepar1/jobs/8341066002",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-02-19",
+      "source": "Greenhouse",
+      "isNew": true,
+      "segment": "WealthTech"
+    },
+    {
+      "company": "iCapital",
+      "stage": "Growth",
+      "title": "Midwest Regional Director - Senior Vice President / Managing Director",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=8012960002",
+      "location": "Remote - United States (Midwest Region)",
+      "compensation": "$200,000 to $250,000 base + commission",
+      "datePosted": "2026-02-19",
+      "source": "Greenhouse",
+      "isNew": true,
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "iCapital",
+      "stage": "Growth",
+      "title": "Head of Enterprise Solutions - Managing Director",
+      "url": "https://boards.greenhouse.io/icapitalnetwork/jobs/6900072002",
+      "location": "Greenwich, CT, United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-01-15",
+      "source": "Greenhouse",
+      "isNew": false,
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Wealthsimple",
+      "stage": "Growth",
+      "title": "Director, Strategic Partnerships",
+      "url": "https://jobs.lever.co/wealthsimple/08071347-6b5a-488e-8c3a-7a662bf57561",
+      "location": "Remote (Canada)",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-02-01",
+      "source": "Lever",
+      "isNew": false,
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Wealthsimple",
+      "stage": "Growth",
+      "title": "Director of Digital Advice",
+      "url": "https://jobs.lever.co/wealthsimple/f54e9b5b-4766-4d22-9b2e-8231c14e26e2",
+      "location": "Remote (Canada)",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-02-05",
+      "source": "Lever",
+      "isNew": false,
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Human Interest",
+      "stage": "Growth",
+      "title": "Director of Retirement Sales Activation",
+      "url": "https://humaninterest.com/careers/",
+      "location": "United States, Remote",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-02-10",
+      "source": "Company site",
+      "isNew": true,
+      "segment": "PFMTech"
+    },
+    {
+      "company": "FactSet",
+      "stage": "Public",
+      "title": "Director, Wealth Strategist",
+      "url": "https://www.glassdoor.com/Jobs/FactSet-Jobs-E6066.htm",
+      "location": "United States",
+      "compensation": "$160,000 - $225,000",
+      "datePosted": "2026-01-20",
+      "source": "Glassdoor",
+      "isNew": false,
+      "segment": "AssetMgmtTech"
+    }
+  ],
+  "coverage": [
+    {
+      "company": "Addepar",
+      "careers_url": "https://job-boards.greenhouse.io/addepar1",
+      "status": "checked",
+      "roles_found": 1
+    },
+    {
+      "company": "iCapital",
+      "careers_url": "https://icapital.com/careers/",
+      "status": "checked",
+      "roles_found": 2
+    },
+    {
+      "company": "Vestwell",
+      "careers_url": "https://job-boards.greenhouse.io/vestwell",
+      "status": "checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Wealthsimple",
+      "careers_url": "https://jobs.lever.co/wealthsimple",
+      "status": "checked",
+      "roles_found": 2
+    },
+    {
+      "company": "GeoWealth",
+      "careers_url": "https://geowealth.com/careers/",
+      "status": "checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Alpaca",
+      "careers_url": "https://alpaca.markets/careers",
+      "status": "checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Sidekick",
+      "careers_url": "https://sidekick.money/careers",
+      "status": "no_careers_page",
+      "roles_found": 0
+    },
+    {
+      "company": "Betterment",
+      "careers_url": "https://betterment.com/careers/current-openings",
+      "status": "checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Altruist",
+      "careers_url": "https://altruist.com/careers/",
+      "status": "checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Human Interest",
+      "careers_url": "https://humaninterest.com/careers",
+      "status": "checked",
+      "roles_found": 1
+    },
+    {
+      "company": "Guideline",
+      "careers_url": "https://guideline.com/careers",
+      "status": "not_checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Orion",
+      "careers_url": "https://orionadvisor.wd1.myworkdayjobs.com/Orion_Careers",
+      "status": "checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Envestnet",
+      "careers_url": "https://envestnet.com/careers",
+      "status": "not_checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Clearwater Analytics",
+      "careers_url": "https://clearwateranalytics.com/careers/",
+      "status": "checked",
+      "roles_found": 0
+    },
+    {
+      "company": "FactSet",
+      "careers_url": "https://factset.wd1.myworkdayjobs.com/FactSetCareers",
+      "status": "checked",
+      "roles_found": 1
+    },
+    {
+      "company": "Morningstar",
+      "careers_url": "https://morningstar.com/careers",
+      "status": "not_checked",
+      "roles_found": 0
+    },
+    {
+      "company": "RightCapital",
+      "careers_url": "https://rightcapital.com/careers",
+      "status": "checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Riskalyze (Nitrogen)",
+      "careers_url": "https://nitrogenwealth.com/careers",
+      "status": "not_checked",
+      "roles_found": 0
+    },
+    {
+      "company": "CAIS",
+      "careers_url": "https://cais.com/careers",
+      "status": "checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Pontera",
+      "careers_url": "https://pontera.com/careers",
+      "status": "checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Vise",
+      "careers_url": "https://vise.com/careers",
+      "status": "checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Wealthfront",
+      "careers_url": "https://wealthfront.com/careers",
+      "status": "checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Farther",
+      "careers_url": "https://farther.com/careers",
+      "status": "checked",
+      "roles_found": 0
+    },
+    {
+      "company": "DriveWealth",
+      "careers_url": "https://drivewealth.com/company/careers/",
+      "status": "checked",
+      "roles_found": 0
+    }
+  ]
+}
