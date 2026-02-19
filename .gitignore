@@ -15,6 +15,10 @@
 # debug
 npm-debug.log*
 
+# python
+__pycache__/
+*.pyc
+
 # misc
 .DS_Store
 *.tsbuildinfo

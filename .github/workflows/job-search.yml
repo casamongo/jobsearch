@@ -1,0 +1,67 @@
+name: Job Search — Multi-Agent
+
+on:
+  schedule:
+    # Every day at 8am ET (1pm UTC)
+    - cron: "0 13 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (no API calls or email)"
+        required: false
+        default: "false"
+        type: boolean
+      agent1_only:
+        description: "Run Agent 1 only (company research)"
+        required: false
+        default: "false"
+        type: boolean
+      no_email:
+        description: "Skip email notification"
+        required: false
+        default: "false"
+        type: boolean
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run orchestrator
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
+          SENDGRID_FROM_EMAIL: ${{ secrets.SENDGRID_FROM_EMAIL }}
+          SENDGRID_TO_EMAIL: ${{ secrets.SENDGRID_TO_EMAIL }}
+        run: |
+          FLAGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            FLAGS="$FLAGS --dry-run"
+          fi
+          if [ "${{ inputs.agent1_only }}" = "true" ]; then
+            FLAGS="$FLAGS --agent1-only"
+          fi
+          if [ "${{ inputs.no_email }}" = "true" ]; then
+            FLAGS="$FLAGS --no-email"
+          fi
+          python orchestrator.py $FLAGS
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Update job search data — $(date +%Y-%m-%d)"
+          git push
