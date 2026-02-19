@@ -14,16 +14,25 @@ interface Job {
   isNew: boolean;
 }
 
+interface DebugInfo {
+  stopReason: string;
+  blockTypes: string[];
+  textLength: number;
+  rawPreview: string;
+}
+
 export default function Home() {
   const [jobs, setJobs] = useState<Job[]>([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [searched, setSearched] = useState(false);
+  const [debug, setDebug] = useState<DebugInfo | null>(null);
 
   async function handleSearch() {
     setLoading(true);
     setError(null);
     setJobs([]);
+    setDebug(null);
 
     try {
       const res = await fetch("/api/search", { method: "POST" });
@@ -34,6 +43,7 @@ export default function Home() {
       }
 
       setJobs(data.jobs || []);
+      setDebug(data.debug || null);
       setSearched(true);
     } catch (err: unknown) {
       const message =
@@ -277,7 +287,7 @@ export default function Home() {
 
         {/* No results after search */}
         {!loading && searched && jobs.length === 0 && !error && (
-          <div className="flex flex-col items-center justify-center py-24 text-center">
+          <div className="flex flex-col items-center justify-center py-16 text-center">
             <div className="bg-amber-100 rounded-full p-4 mb-4">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -293,12 +303,38 @@ export default function Home() {
               </svg>
             </div>
             <h2 className="text-lg font-semibold text-slate-900">
-              No Results Found
+              No Results Parsed
             </h2>
             <p className="mt-2 text-slate-500 max-w-md">
-              The search completed but no matching roles were found. Try
-              searching again.
+              The search completed but no roles could be extracted. See debug
+              info below.
             </p>
+            {debug && (
+              <div className="mt-6 w-full max-w-2xl text-left bg-white border border-slate-200 rounded-lg p-4">
+                <h3 className="text-sm font-semibold text-slate-700 mb-2">
+                  Debug Info
+                </h3>
+                <dl className="text-xs text-slate-600 space-y-1">
+                  <div>
+                    <dt className="font-medium inline">Stop Reason:</dt>{" "}
+                    <dd className="inline">{debug.stopReason}</dd>
+                  </div>
+                  <div>
+                    <dt className="font-medium inline">Content Blocks:</dt>{" "}
+                    <dd className="inline">{debug.blockTypes.join(", ")}</dd>
+                  </div>
+                  <div>
+                    <dt className="font-medium inline">Text Length:</dt>{" "}
+                    <dd className="inline">{debug.textLength} chars</dd>
+                  </div>
+                </dl>
+                {debug.rawPreview && (
+                  <pre className="mt-3 p-3 bg-slate-50 rounded text-xs text-slate-700 overflow-x-auto whitespace-pre-wrap break-words max-h-64 overflow-y-auto">
+                    {debug.rawPreview}
+                  </pre>
+                )}
+              </div>
+            )}
           </div>
         )}
       </main>
