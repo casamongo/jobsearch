@@ -104,6 +104,18 @@ def find_new_roles(merged: list, seen: dict) -> tuple[list, list]:
     return new_roles, existing_roles
 
 
+def _is_startup(stage: str) -> str:
+    """Return 'Yes' or 'No' based on company stage."""
+    stage_lower = stage.lower() if stage else ""
+    startup_signals = ["seed", "series a", "series b", "series c", "series d", "growth", "early", "pre-seed"]
+    non_startup_signals = ["public", "ipo"]
+    if any(s in stage_lower for s in non_startup_signals):
+        return "No"
+    if any(s in stage_lower for s in startup_signals):
+        return "Yes"
+    return "Unknown"
+
+
 def update_tracker(new_roles: list, date: str):
     """Append new roles to the markdown tracker."""
     tracker_path = DATA_DIR / "tracker.md"
@@ -111,8 +123,8 @@ def update_tracker(new_roles: list, date: str):
     if not tracker_path.exists():
         with open(tracker_path, "w") as f:
             f.write("# Job Search Tracker\n\n")
-            f.write("| # | Company | Stage | Title | Location | Comp | Date Posted | Source | Segment | Found |\n")
-            f.write("|---|---------|-------|-------|----------|------|-------------|--------|---------|-------|\n")
+            f.write("| # | Company | Startup? | Role Name | Location | Date Posted |\n")
+            f.write("|---|---------|----------|-----------|----------|-------------|\n")
 
     with open(tracker_path, "a") as f:
         f.write(f"\n## {date} — {len(new_roles)} new roles\n\n")
@@ -120,17 +132,15 @@ def update_tracker(new_roles: list, date: str):
             title = role.get("title", "?")
             url = role.get("url", "")
             title_cell = f"[{title}]({url})" if url else title
+            stage = role.get("stage", "Unknown")
+            is_startup = _is_startup(stage)
             f.write(
                 f"| {i} "
                 f"| {role.get('company', '?')} "
-                f"| {role.get('stage', '?')} "
+                f"| {is_startup} "
                 f"| {title_cell} "
                 f"| {role.get('location', '?')} "
-                f"| {role.get('compensation', 'Not disclosed')} "
-                f"| {role.get('datePosted', '?')} "
-                f"| {role.get('source', '?')} "
-                f"| {role.get('segment', '?')} "
-                f"| {date} |\n"
+                f"| {role.get('datePosted', '?')} |\n"
             )
 
     print(f"Tracker updated: {len(new_roles)} new roles appended")
@@ -338,20 +348,21 @@ def run_orchestrator(
 
     # ── Display matching roles ──
     if merged:
-        print("\n" + "=" * 60)
+        print("\n" + "=" * 80)
         print("MATCHING ROLES")
-        print("=" * 60)
+        print("=" * 80)
+        # Table header
+        print(f"  {'#':<4} {'Company':<30} {'Startup?':<10} {'Role Name':<40} {'Location':<25} {'Date Posted':<12}")
+        print(f"  {'—'*4} {'—'*30} {'—'*10} {'—'*40} {'—'*25} {'—'*12}")
         for i, role in enumerate(merged, 1):
-            new_tag = " ✦ NEW" if role.get("isNew") else ""
-            print(f"\n  {i}. {role.get('title', '?')}{new_tag}")
-            print(f"     Company:  {role.get('company', '?')} ({role.get('stage', '?')})")
-            print(f"     Location: {role.get('location', '?')}")
-            print(f"     Comp:     {role.get('compensation', 'Not disclosed')}")
-            print(f"     Source:   {role.get('source', '?')}")
-            print(f"     Segment:  {role.get('segment', '?')}")
-            url = role.get("url", "")
-            if url:
-                print(f"     Link:     {url}")
+            company = role.get('company', '?')[:28]
+            startup = _is_startup(role.get('stage', 'Unknown'))
+            title = role.get('title', '?')[:38]
+            location = role.get('location', '?')[:23]
+            date_posted = role.get('datePosted', '?')[:12]
+            new_tag = " *" if role.get("isNew") else ""
+            title_display = f"{title}{new_tag}"
+            print(f"  {i:<4} {company:<30} {startup:<10} {title_display:<42} {location:<25} {date_posted:<12}")
 
     # ── Summary ──
     print("\n" + "=" * 60)

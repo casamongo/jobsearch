@@ -44,6 +44,11 @@ BROAD_QUERIES = [
     ('"Head of Sales" retirement OR "401k" technology', "United States"),
     ('"VP Business Development" "asset management" technology', "United States"),
     ('"CRO" OR "Chief Revenue Officer" "investment management"', "United States"),
+    # Technology companies seeking wealth management experience
+    ('"wealth management" experience "VP" OR "Director" OR "Head" technology company', "United States"),
+    ('"wealth management" OR "financial advisor" experience sales technology platform', "United States"),
+    ('"RIA" OR "registered investment advisor" experience director OR VP technology', "United States"),
+    ('"asset management" experience "Head of Sales" OR "VP Sales" SaaS OR technology OR platform', "United States"),
 ]
 
 # Seniority keywords to filter relevant roles
@@ -149,6 +154,20 @@ def is_fintech_relevant(company: str, known_companies: set) -> bool:
 
     # No signal either way — exclude (conservative approach for broad searches)
     return False
+
+
+def is_wealth_experience_relevant(title: str) -> bool:
+    """Check if a job title/context indicates wealth management experience is required.
+
+    Used for the broader tech-company queries where the company itself may not
+    be fintech but the role requires wealth management domain expertise.
+    """
+    title_lower = title.lower()
+    wealth_signals = [
+        "wealth", "financial advisor", "ria", "registered investment",
+        "asset management", "investment", "portfolio", "fiduciary",
+    ]
+    return any(kw in title_lower for kw in wealth_signals)
 
 
 def human_delay(min_s=DELAY_MIN, max_s=DELAY_MAX):
@@ -352,13 +371,26 @@ def run(dry_run: bool = False, input_file: str = None, headed: bool = False) -> 
         page = context.new_page()
 
         # ── Broad keyword searches ──
+        # Queries at index >= WEALTH_TECH_QUERY_START are "tech companies requiring
+        # wealth management experience" — they use a different relevance filter.
+        WEALTH_TECH_QUERY_START = 10
+
         print(f"\nRunning {len(BROAD_QUERIES)} broad keyword searches...")
         for i, (keywords, location) in enumerate(BROAD_QUERIES, 1):
             print(f"  [{i}/{len(BROAD_QUERIES)}] {keywords[:60]}...")
 
             raw_jobs = search_linkedin(page, keywords, location)
             matching = [j for j in raw_jobs if matches_criteria(j["title"])]
-            relevant = [j for j in matching if is_fintech_relevant(j["company"], known_companies)]
+
+            # For wealth-mgmt-at-tech-companies queries, accept any company
+            # as long as the role title signals wealth management relevance
+            is_wealth_tech_query = (i - 1) >= WEALTH_TECH_QUERY_START
+            if is_wealth_tech_query:
+                relevant = [j for j in matching
+                            if is_wealth_experience_relevant(j["title"])
+                            or is_fintech_relevant(j["company"], known_companies)]
+            else:
+                relevant = [j for j in matching if is_fintech_relevant(j["company"], known_companies)]
 
             queries_log.append({
                 "query": keywords,
@@ -379,7 +411,7 @@ def run(dry_run: bool = False, input_file: str = None, headed: bool = False) -> 
                         "compensation": "Not disclosed",
                         "datePosted": job["datePosted"],
                         "source": "LinkedIn",
-                        "segment": "Unknown",
+                        "segment": "WealthTech (cross-industry)" if is_wealth_tech_query else "Unknown",
                     })
 
             skipped = len(matching) - len(relevant)

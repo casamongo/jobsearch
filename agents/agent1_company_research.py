@@ -47,7 +47,7 @@ def build_user_message() -> str:
 
 Research the fintech market (wealth tech, investment tech, asset management tech, personal financial management tech) and produce a ranked list of companies likely hiring for GTM leadership roles right now.
 
-Start with the Known Companies Watchlist in the skill reference, then search for additional companies with strong hiring signals. Aim for 30+ companies total.
+Start with the Known Companies Watchlist in the skill reference, then search for additional companies with strong hiring signals. Aim for 60+ companies total.
 
 Return ONLY the JSON array as specified in the output format. No other text."""
 
@@ -78,7 +78,7 @@ def run(dry_run: bool = False) -> list:
             {
                 "type": "web_search_20250305",
                 "name": "web_search",
-                "max_uses": 10,
+                "max_uses": 20,
             }
         ],
         "messages": [
