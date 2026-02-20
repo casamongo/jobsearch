@@ -1,0 +1,96 @@
+{
+  "date": "2026-02-20",
+  "companies_researched": 41,
+  "agent2_roles": 7,
+  "agent3_roles": 0,
+  "merged_unique": 7,
+  "new_roles": 7,
+  "previously_seen": 0,
+  "total_seen_all_time": 7,
+  "roles": [
+    {
+      "company": "Addepar",
+      "stage": "Growth",
+      "title": "Head of Client Success - Core & Strategic",
+      "url": "https://job-boards.greenhouse.io/addepar1/jobs/8341066002",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-02-19",
+      "source": "Greenhouse",
+      "isNew": true,
+      "segment": "WealthTech"
+    },
+    {
+      "company": "iCapital",
+      "stage": "Growth",
+      "title": "Midwest Regional Director - Senior Vice President / Managing Director",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=8012960002",
+      "location": "Remote - United States (Midwest Region)",
+      "compensation": "$200,000 to $250,000 base + commission",
+      "datePosted": "2026-02-19",
+      "source": "Greenhouse",
+      "isNew": true,
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "iCapital",
+      "stage": "Growth",
+      "title": "Head of Enterprise Solutions - Managing Director",
+      "url": "https://boards.greenhouse.io/icapitalnetwork/jobs/6900072002",
+      "location": "Greenwich, CT, United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-01-15",
+      "source": "Greenhouse",
+      "isNew": true,
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Wealthsimple",
+      "stage": "Growth",
+      "title": "Director, Strategic Partnerships",
+      "url": "https://jobs.lever.co/wealthsimple/08071347-6b5a-488e-8c3a-7a662bf57561",
+      "location": "Remote (Canada)",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-02-01",
+      "source": "Lever",
+      "isNew": true,
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Wealthsimple",
+      "stage": "Growth",
+      "title": "Director of Digital Advice",
+      "url": "https://jobs.lever.co/wealthsimple/f54e9b5b-4766-4d22-9b2e-8231c14e26e2",
+      "location": "Remote (Canada)",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-02-05",
+      "source": "Lever",
+      "isNew": true,
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Human Interest",
+      "stage": "Growth",
+      "title": "Director of Retirement Sales Activation",
+      "url": "https://humaninterest.com/careers/",
+      "location": "United States, Remote",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-02-10",
+      "source": "Company site",
+      "isNew": true,
+      "segment": "PFMTech"
+    },
+    {
+      "company": "FactSet",
+      "stage": "Public",
+      "title": "Director, Wealth Strategist",
+      "url": "https://www.glassdoor.com/Jobs/FactSet-Jobs-E6066.htm",
+      "location": "United States",
+      "compensation": "$160,000 - $225,000",
+      "datePosted": "2026-01-20",
+      "source": "Glassdoor",
+      "isNew": true,
+      "segment": "AssetMgmtTech"
+    }
+  ]
+}
