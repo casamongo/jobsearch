@@ -17,6 +17,7 @@ import argparse
 import json
 import os
 import sys
+import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from pathlib import Path
@@ -270,9 +271,31 @@ def run_orchestrator(
             print("\n── Agent 1 only mode — stopping here ──")
             return
 
+        # Wait for rate limit to reset before launching parallel agents
+        if not skip_agent1:
+            print("\n[Orchestrator] Waiting 60s for rate limit reset before launching Agents 2 & 3...")
+            time.sleep(60)
+
         # ── Step 2: Agents 2 & 3 in parallel ──
         from agents.agent2_career_pages import run as run_agent2
         from agents.agent3_linkedin_search import run as run_agent3
+
+        def run_agent2_with_retry(dry_run=False):
+            """Run Agent 2 with retry logic for rate limits."""
+            max_retries = 3
+            for attempt in range(max_retries):
+                try:
+                    return run_agent2(dry_run=dry_run)
+                except Exception as e:
+                    is_rate_limit = "rate_limit" in str(e).lower() or "429" in str(e)
+                    if is_rate_limit and attempt < max_retries - 1:
+                        wait = 30 * (attempt + 1)  # 30s, 60s, 90s
+                        print(f"[Agent 2] Rate limited, waiting {wait}s (attempt {attempt+1}/{max_retries})...")
+                        time.sleep(wait)
+                    else:
+                        print(f"[Agent 2] Failed after {attempt+1} attempts: {e}")
+                        return {"roles": [], "coverage": []}
+            return {"roles": [], "coverage": []}
 
         print("\n── Step 2: Agents 2 & 3 (parallel) ──")
 
@@ -284,7 +307,7 @@ def run_orchestrator(
             run_agent3(dry_run=True)
         else:
             with ThreadPoolExecutor(max_workers=2) as executor:
-                future2 = executor.submit(run_agent2, dry_run=False)
+                future2 = executor.submit(run_agent2_with_retry, dry_run=False)
                 future3 = executor.submit(run_agent3, dry_run=False)
 
                 for future in as_completed([future2, future3]):
