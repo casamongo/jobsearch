@@ -1,1 +1,51 @@
-{}
+{
+  "addepar|head of client success - core & strategic": {
+    "company": "Addepar",
+    "title": "Head of Client Success - Core & Strategic",
+    "first_seen": "2026-02-20",
+    "url": "https://job-boards.greenhouse.io/addepar1/jobs/8341066002",
+    "segment": "WealthTech"
+  },
+  "icapital|midwest regional director - senior vice president / managing director": {
+    "company": "iCapital",
+    "title": "Midwest Regional Director - Senior Vice President / Managing Director",
+    "first_seen": "2026-02-20",
+    "url": "https://boards.greenhouse.io/embed/job_app?token=8012960002",
+    "segment": "InvestmentTech"
+  },
+  "icapital|head of enterprise solutions - managing director": {
+    "company": "iCapital",
+    "title": "Head of Enterprise Solutions - Managing Director",
+    "first_seen": "2026-02-20",
+    "url": "https://boards.greenhouse.io/icapitalnetwork/jobs/6900072002",
+    "segment": "InvestmentTech"
+  },
+  "wealthsimple|director, strategic partnerships": {
+    "company": "Wealthsimple",
+    "title": "Director, Strategic Partnerships",
+    "first_seen": "2026-02-20",
+    "url": "https://jobs.lever.co/wealthsimple/08071347-6b5a-488e-8c3a-7a662bf57561",
+    "segment": "WealthTech"
+  },
+  "wealthsimple|director of digital advice": {
+    "company": "Wealthsimple",
+    "title": "Director of Digital Advice",
+    "first_seen": "2026-02-20",
+    "url": "https://jobs.lever.co/wealthsimple/f54e9b5b-4766-4d22-9b2e-8231c14e26e2",
+    "segment": "WealthTech"
+  },
+  "human interest|director of retirement sales activation": {
+    "company": "Human Interest",
+    "title": "Director of Retirement Sales Activation",
+    "first_seen": "2026-02-20",
+    "url": "https://humaninterest.com/careers/",
+    "segment": "PFMTech"
+  },
+  "factset|director, wealth strategist": {
+    "company": "FactSet",
+    "title": "Director, Wealth Strategist",
+    "first_seen": "2026-02-20",
+    "url": "https://www.glassdoor.com/Jobs/FactSet-Jobs-E6066.htm",
+    "segment": "AssetMgmtTech"
+  }
+}

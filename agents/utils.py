@@ -6,8 +6,13 @@ import time
 from datetime import datetime
 from pathlib import Path
 
+from dotenv import load_dotenv
+
 # Resolve paths relative to the repo root (one level up from agents/)
 REPO_ROOT = Path(__file__).resolve().parent.parent
+
+# Load .env from repo root
+load_dotenv(REPO_ROOT / ".env")
 PROMPTS_DIR = REPO_ROOT / "prompts"
 DATA_DIR = REPO_ROOT / "data"
 RESULTS_DIR = DATA_DIR / "results"

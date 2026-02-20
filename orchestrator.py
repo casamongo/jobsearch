@@ -21,7 +21,20 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from pathlib import Path
 
-from agents.utils import DATA_DIR, RESULTS_DIR, save_results, today
+from agents.utils import DATA_DIR, RESULTS_DIR, save_results, load_results, today
+
+
+def find_latest_results(agent_name: str):
+    """Find and load the most recent results file for an agent."""
+    pattern = f"{agent_name}_*.json"
+    files = sorted(RESULTS_DIR.glob(pattern), reverse=True)
+    for f in files:
+        with open(f) as fh:
+            data = json.load(fh)
+        date_str = f.stem.replace(f"{agent_name}_", "")
+        print(f"  Found {f.name} ({date_str})")
+        return data, date_str
+    return None, None
 
 
 def load_seen_roles() -> dict:
@@ -192,55 +205,80 @@ def run_orchestrator(
     agent1_only: bool = False,
     skip_agent1: bool = False,
     no_email: bool = False,
+    merge_only: bool = False,
 ):
     date = today()
     print("=" * 60)
     print("MULTI-AGENT JOB SEARCH ORCHESTRATOR")
     print(f"Date: {date}")
-    print(f"Options: dry_run={dry_run}, agent1_only={agent1_only}, skip_agent1={skip_agent1}, no_email={no_email}")
+    print(f"Options: dry_run={dry_run}, agent1_only={agent1_only}, skip_agent1={skip_agent1}, no_email={no_email}, merge_only={merge_only}")
     print("=" * 60)
 
-    # ── Step 1: Agent 1 — Company Research ──
-    from agents.agent1_company_research import run as run_agent1
+    from agents.utils import load_results
 
-    if skip_agent1:
-        from agents.utils import load_results
-        companies = load_results("agent1") or []
-        print(f"\nSkipping Agent 1. Loaded {len(companies)} companies from existing results.")
+    if merge_only:
+        # Load all existing results from disk — skip running any agents
+        print("\nMerge-only mode. Loading existing results...")
+
+        companies = load_results("agent1", date)
+        if not companies:
+            companies, _ = find_latest_results("agent1")
+            companies = companies or []
+        print(f"  Agent 1: {len(companies)} companies")
+
+        agent2_result = load_results("agent2", date)
+        if not agent2_result:
+            agent2_result, _ = find_latest_results("agent2")
+        agent2_result = agent2_result or {"roles": [], "coverage": []}
+
+        agent3_result = load_results("agent3", date)
+        if not agent3_result:
+            agent3_result, _ = find_latest_results("agent3")
+        agent3_result = agent3_result or {"roles": [], "queries_run": []}
+
+        print(f"  Agent 2: {len(agent2_result.get('roles', []))} roles")
+        print(f"  Agent 3: {len(agent3_result.get('roles', []))} roles")
     else:
-        print("\n── Step 1: Agent 1 — Company Research ──")
-        companies = run_agent1(dry_run=dry_run)
+        # ── Step 1: Agent 1 — Company Research ──
+        from agents.agent1_company_research import run as run_agent1
 
-    if agent1_only:
-        print("\n── Agent 1 only mode — stopping here ──")
-        return
+        if skip_agent1:
+            companies = load_results("agent1") or []
+            print(f"\nSkipping Agent 1. Loaded {len(companies)} companies from existing results.")
+        else:
+            print("\n── Step 1: Agent 1 — Company Research ──")
+            companies = run_agent1(dry_run=dry_run)
 
-    # ── Step 2: Agents 2 & 3 in parallel ──
-    from agents.agent2_career_pages import run as run_agent2
-    from agents.agent3_linkedin_search import run as run_agent3
+        if agent1_only:
+            print("\n── Agent 1 only mode — stopping here ──")
+            return
 
-    print("\n── Step 2: Agents 2 & 3 (parallel) ──")
+        # ── Step 2: Agents 2 & 3 in parallel ──
+        from agents.agent2_career_pages import run as run_agent2
+        from agents.agent3_linkedin_search import run as run_agent3
 
-    agent2_result = {"roles": [], "coverage": []}
-    agent3_result = {"roles": [], "queries_run": []}
+        print("\n── Step 2: Agents 2 & 3 (parallel) ──")
 
-    if dry_run:
-        run_agent2(dry_run=True)
-        run_agent3(dry_run=True)
-    else:
-        with ThreadPoolExecutor(max_workers=2) as executor:
-            future2 = executor.submit(run_agent2, dry_run=False)
-            future3 = executor.submit(run_agent3, dry_run=False)
+        agent2_result = {"roles": [], "coverage": []}
+        agent3_result = {"roles": [], "queries_run": []}
 
-            for future in as_completed([future2, future3]):
-                try:
-                    result = future.result()
-                    if future == future2:
-                        agent2_result = result
-                    else:
-                        agent3_result = result
-                except Exception as e:
-                    print(f"Agent error: {e}")
+        if dry_run:
+            run_agent2(dry_run=True)
+            run_agent3(dry_run=True)
+        else:
+            with ThreadPoolExecutor(max_workers=2) as executor:
+                future2 = executor.submit(run_agent2, dry_run=False)
+                future3 = executor.submit(run_agent3, dry_run=False)
+
+                for future in as_completed([future2, future3]):
+                    try:
+                        result = future.result()
+                        if future == future2:
+                            agent2_result = result
+                        else:
+                            agent3_result = result
+                    except Exception as e:
+                        print(f"Agent error: {e}")
 
     # ── Step 3: Merge & Deduplicate ──
     print("\n── Step 3: Merge & Deduplicate ──")
@@ -298,6 +336,23 @@ def run_orchestrator(
     elif no_email:
         print("\n--no-email flag set — skipping email.")
 
+    # ── Display matching roles ──
+    if merged:
+        print("\n" + "=" * 60)
+        print("MATCHING ROLES")
+        print("=" * 60)
+        for i, role in enumerate(merged, 1):
+            new_tag = " ✦ NEW" if role.get("isNew") else ""
+            print(f"\n  {i}. {role.get('title', '?')}{new_tag}")
+            print(f"     Company:  {role.get('company', '?')} ({role.get('stage', '?')})")
+            print(f"     Location: {role.get('location', '?')}")
+            print(f"     Comp:     {role.get('compensation', 'Not disclosed')}")
+            print(f"     Source:   {role.get('source', '?')}")
+            print(f"     Segment:  {role.get('segment', '?')}")
+            url = role.get("url", "")
+            if url:
+                print(f"     Link:     {url}")
+
     # ── Summary ──
     print("\n" + "=" * 60)
     print("RUN COMPLETE")
@@ -316,6 +371,7 @@ def main():
     parser.add_argument("--agent1-only", action="store_true", help="Run only Agent 1 (company research)")
     parser.add_argument("--skip-agent1", action="store_true", help="Skip Agent 1, use existing results")
     parser.add_argument("--no-email", action="store_true", help="Run everything but skip email")
+    parser.add_argument("--merge-only", action="store_true", help="Skip all agents, merge existing results only")
     args = parser.parse_args()
 
     run_orchestrator(
@@ -323,6 +379,7 @@ def main():
         agent1_only=args.agent1_only,
         skip_agent1=args.skip_agent1,
         no_email=args.no_email,
+        merge_only=args.merge_only,
     )
 
 
