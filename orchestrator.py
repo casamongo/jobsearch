@@ -225,6 +225,14 @@ def run_orchestrator(
     print(f"Options: dry_run={dry_run}, agent1_only={agent1_only}, skip_agent1={skip_agent1}, no_email={no_email}, merge_only={merge_only}")
     print("=" * 60)
 
+    # Validate API key early
+    if not dry_run and not merge_only:
+        api_key = os.environ.get("ANTHROPIC_API_KEY", "")
+        if not api_key:
+            print("ERROR: ANTHROPIC_API_KEY is not set. Cannot call Claude API.")
+            sys.exit(1)
+        print(f"API key: ...{api_key[-4:]}")
+
     from agents.utils import load_results
 
     if merge_only:
@@ -286,10 +294,14 @@ def run_orchestrator(
                         result = future.result()
                         if future == future2:
                             agent2_result = result
+                            print("Agent 2 completed successfully")
                         else:
                             agent3_result = result
+                            print("Agent 3 completed successfully")
                     except Exception as e:
-                        print(f"Agent error: {e}")
+                        agent_name = "Agent 2" if future == future2 else "Agent 3"
+                        print(f"\nWARNING: {agent_name} failed: {type(e).__name__}: {e}")
+                        print(f"{agent_name} results will be empty — continuing with other agent's results.")
 
     # ── Step 3: Merge & Deduplicate ──
     print("\n── Step 3: Merge & Deduplicate ──")
@@ -386,13 +398,23 @@ def main():
     parser.add_argument("--merge-only", action="store_true", help="Skip all agents, merge existing results only")
     args = parser.parse_args()
 
-    run_orchestrator(
-        dry_run=args.dry_run,
-        agent1_only=args.agent1_only,
-        skip_agent1=args.skip_agent1,
-        no_email=args.no_email,
-        merge_only=args.merge_only,
-    )
+    try:
+        run_orchestrator(
+            dry_run=args.dry_run,
+            agent1_only=args.agent1_only,
+            skip_agent1=args.skip_agent1,
+            no_email=args.no_email,
+            merge_only=args.merge_only,
+        )
+    except Exception as e:
+        print("\n" + "=" * 60)
+        print("ORCHESTRATOR FAILED")
+        print(f"Error type: {type(e).__name__}")
+        print(f"Error: {e}")
+        print("=" * 60)
+        import traceback
+        traceback.print_exc()
+        sys.exit(1)
 
 
 if __name__ == "__main__":
