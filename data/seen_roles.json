@@ -47,5 +47,61 @@
     "first_seen": "2026-02-20",
     "url": "https://www.glassdoor.com/Jobs/FactSet-Jobs-E6066.htm",
     "segment": "AssetMgmtTech"
+  },
+  "clearwater|vp, sales": {
+    "company": "Clearwater",
+    "title": "VP, Sales",
+    "first_seen": "2026-02-20",
+    "url": "https://www.linkedin.com/jobs/view/vp-sales-at-clearwater-4351177003",
+    "segment": "Unknown"
+  },
+  "capital one|product design director, card partnerships": {
+    "company": "Capital One",
+    "title": "Product Design Director, Card Partnerships",
+    "first_seen": "2026-02-20",
+    "url": "https://www.linkedin.com/jobs/view/product-design-director-card-partnerships-at-capital-one-4372249441",
+    "segment": "Unknown"
+  },
+  "thornburg investment management|director of commercialization & gtm enablement": {
+    "company": "Thornburg Investment Management",
+    "title": "Director of Commercialization & GTM Enablement",
+    "first_seen": "2026-02-20",
+    "url": "https://www.linkedin.com/jobs/view/director-of-commercialization-gtm-enablement-at-thornburg-investment-management-4372010781",
+    "segment": "Unknown"
+  },
+  "lincoln financial|sr. account director, group benefits sales": {
+    "company": "Lincoln Financial",
+    "title": "Sr. Account Director, Group Benefits Sales",
+    "first_seen": "2026-02-20",
+    "url": "https://www.linkedin.com/jobs/view/sr-account-director-group-benefits-sales-at-lincoln-financial-4374789479",
+    "segment": "Unknown"
+  },
+  "lazard asset management|vp, business development - lazard wealth": {
+    "company": "Lazard Asset Management",
+    "title": "VP, Business Development - Lazard Wealth",
+    "first_seen": "2026-02-20",
+    "url": "https://www.linkedin.com/jobs/view/vp-business-development-lazard-wealth-at-lazard-asset-management-4318924495",
+    "segment": "Unknown"
+  },
+  "nu advisory partners|chief revenue officer": {
+    "company": "NU Advisory Partners",
+    "title": "Chief Revenue Officer",
+    "first_seen": "2026-02-20",
+    "url": "https://www.linkedin.com/jobs/view/chief-revenue-officer-at-nu-advisory-partners-4373397089",
+    "segment": "Unknown"
+  },
+  "bankers financial corporation|chief revenue officer": {
+    "company": "Bankers Financial Corporation",
+    "title": "Chief Revenue Officer",
+    "first_seen": "2026-02-20",
+    "url": "https://www.linkedin.com/jobs/view/chief-revenue-officer-at-bankers-financial-corporation-4372405483",
+    "segment": "Unknown"
+  },
+  "orion solutions group|director of business development \u2013 distribution & fulfillment": {
+    "company": "Orion Solutions Group",
+    "title": "Director of Business Development \u2013 Distribution & Fulfillment",
+    "first_seen": "2026-02-20",
+    "url": "https://www.linkedin.com/jobs/view/director-of-business-development-%E2%80%93-distribution-fulfillment-at-orion-solutions-group-4333012198",
+    "segment": "WealthTech"
   }
 }

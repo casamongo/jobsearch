@@ -24,6 +24,15 @@ Run web searches using these query patterns:
 9. `"Director" OR "VP" partnerships "alternative investments" OR "private markets"`
 10. `site:wellfound.com "VP" OR "Director" OR "Head" sales fintech wealth`
 
+### Technology Companies Requiring Wealth Management Experience
+Also run searches for roles at **technology companies** (not necessarily fintech) that explicitly require **wealth management experience**:
+- `"wealth management" experience "VP" OR "Director" OR "Head" technology company`
+- `"wealth management" OR "financial advisor" experience sales technology platform`
+- `"RIA" OR "registered investment advisor" experience director OR VP technology`
+- `"asset management" experience "Head of Sales" OR "VP Sales" SaaS OR technology OR platform`
+
+These may surface roles at broader tech companies (e.g., CRM platforms, data analytics firms, cloud providers) that have wealth management verticals or require industry expertise.
+
 ### Company-Targeted Searches (for top companies from input)
 For the highest priority companies from Agent 1 input, also run:
 - `{company_name} careers "VP" OR "Director" OR "Head" sales revenue partnerships`

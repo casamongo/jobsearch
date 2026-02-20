@@ -44,6 +44,11 @@ BROAD_QUERIES = [
     ('"Head of Sales" retirement OR "401k" technology', "United States"),
     ('"VP Business Development" "asset management" technology', "United States"),
     ('"CRO" OR "Chief Revenue Officer" "investment management"', "United States"),
+    # Technology companies seeking wealth management experience
+    ('"wealth management" experience "VP" OR "Director" OR "Head" technology company', "United States"),
+    ('"wealth management" OR "financial advisor" experience sales technology platform', "United States"),
+    ('"RIA" OR "registered investment advisor" experience director OR VP technology', "United States"),
+    ('"asset management" experience "Head of Sales" OR "VP Sales" SaaS OR technology OR platform', "United States"),
 ]
 
 # Seniority keywords to filter relevant roles
@@ -66,8 +71,103 @@ EXCLUDE_KEYWORDS = [
     "accounting", "finance manager", "operations manager",
 ]
 
+# Known fintech companies from skill.md watchlist (always considered relevant)
+WATCHLIST_COMPANIES = [
+    # WealthTech
+    "Addepar", "Orion", "Envestnet", "Betterment", "Wealthfront",
+    "Riskalyze", "Nitrogen", "Advyzon", "Pontera", "Farther", "Vanilla",
+    "Savvy Wealth", "LifeYield", "Conquest Planning", "Jump", "InvestCloud",
+    "Altruist", "RightCapital", "Dynasty Financial", "Hightower",
+    # InvestmentTech
+    "iCapital", "CAIS", "YieldStreet", "Carta", "Forge Global", "Republic",
+    "Moonfare", "AngelList", "Vise", "Tegus", "AlphaSense",
+    # Asset Management Tech
+    "SEI", "Morningstar", "BlackRock", "FactSet", "MSCI",
+    "Clearwater Analytics", "Enfusion", "Arcesium",
+    # PFM / Retirement Tech
+    "Pershing", "BNY", "Empower", "Guideline", "Human Interest",
+    "Vestwell", "Capitalize", "Magnifi",
+    # Adjacent / Data / Regtech
+    "Broadridge", "FIS", "SS&C", "ComplySci", "RIA in a Box", "Aumni",
+]
+
+# Industry-relevance keywords — at least one must appear in company name or job context
+# to keep a role from a broad (non-company-targeted) search
+INDUSTRY_KEYWORDS = [
+    # Core fintech / wealth / investment terms
+    "fintech", "wealthtech", "wealth", "invest", "capital", "asset",
+    "financial", "finance", "advisory", "advisor", "fiduciary",
+    "portfolio", "fund", "trading", "brokerage", "broker",
+    "banking", "bank", "insurance", "mortgage", "lending",
+    "retirement", "401k", "pension", "annuit",
+    "robo-advis", "neobank",
+    # Tech platforms serving finance
+    "clearwater", "envestnet", "orion", "addepar", "morningstar",
+    "factset", "msci", "sei ", "betterment", "wealthfront",
+    "icapital", "cais", "carta", "vestwell", "altruist",
+    "pontera", "riskalyze", "nitrogen", "broadridge",
+    "pershing", "schwab", "fidelity", "vanguard",
+    # Broader but still relevant
+    "regtech", "compliance", "risk", "analytics",
+    "saas" , "platform",
+]
+
+# Known non-fintech company name patterns to always exclude
+NON_FINTECH_INDICATORS = [
+    "pet", "hotel", "restaurant", "food", "pharma", "therapeutic",
+    "healthcare", "medical", "biotech", "roofing", "solar",
+    "construction", "hvac", "plumbing", "trucking", "freight",
+    "logistics", "shipping", "warehouse", "retail", "fashion",
+    "apparel", "clothing", "cosmetic", "beauty", "jewelry",
+    "furniture", "real estate", "property group", "staffing",
+    "recruiting", "recruitment", "headhunt", "talent search",
+    "executive search", "sports", "athletic", "academy",
+    "entertainment", "media group", "broadcast", "radio",
+    "television", "studio", "hospitality", "resort",
+    "automotive", "motor", "car dealer", "aerospace",
+    "defense", "military", "government", "municipal",
+    "church", "ministry", "nonprofit", "ngo",
+]
+
 DELAY_MIN = 2.0
 DELAY_MAX = 5.0
+
+
+def is_fintech_relevant(company: str, known_companies: set) -> bool:
+    """Check if a company is likely in the fintech/wealth/investment space."""
+    name_lower = company.strip().lower()
+
+    if not name_lower or name_lower in ("confidential", "undisclosed", "stealth startup", "a hiring company"):
+        return False
+
+    # Known fintech company from Agent 1 → always include
+    if name_lower in known_companies:
+        return True
+
+    # Obvious non-fintech → exclude
+    if any(kw in name_lower for kw in NON_FINTECH_INDICATORS):
+        return False
+
+    # Has fintech/wealth/investment signal → include
+    if any(kw in name_lower for kw in INDUSTRY_KEYWORDS):
+        return True
+
+    # No signal either way — exclude (conservative approach for broad searches)
+    return False
+
+
+def is_wealth_experience_relevant(title: str) -> bool:
+    """Check if a job title/context indicates wealth management experience is required.
+
+    Used for the broader tech-company queries where the company itself may not
+    be fintech but the role requires wealth management domain expertise.
+    """
+    title_lower = title.lower()
+    wealth_signals = [
+        "wealth", "financial advisor", "ria", "registered investment",
+        "asset management", "investment", "portfolio", "fiduciary",
+    ]
+    return any(kw in title_lower for kw in wealth_signals)
 
 
 def human_delay(min_s=DELAY_MIN, max_s=DELAY_MAX):
@@ -219,6 +319,17 @@ def run(dry_run: bool = False, input_file: str = None, headed: bool = False) -> 
         else:
             print("No Agent 1 results found — running with broad searches only")
 
+    # Build set of known fintech companies for industry filtering
+    known_companies = set()
+    for c in companies:
+        name = c.get("company", "").strip().lower()
+        if name:
+            known_companies.add(name)
+    # Include the hardcoded watchlist from skill.md
+    for name in WATCHLIST_COMPANIES:
+        known_companies.add(name.strip().lower())
+    print(f"Known fintech companies for filtering: {len(known_companies)}")
+
     if dry_run:
         print(f"[DRY RUN] Would run {len(BROAD_QUERIES)} broad searches via Playwright")
         high = [c for c in companies if c.get("priority") == "high"]
@@ -260,6 +371,10 @@ def run(dry_run: bool = False, input_file: str = None, headed: bool = False) -> 
         page = context.new_page()
 
         # ── Broad keyword searches ──
+        # Queries at index >= WEALTH_TECH_QUERY_START are "tech companies requiring
+        # wealth management experience" — they use a different relevance filter.
+        WEALTH_TECH_QUERY_START = 10
+
         print(f"\nRunning {len(BROAD_QUERIES)} broad keyword searches...")
         for i, (keywords, location) in enumerate(BROAD_QUERIES, 1):
             print(f"  [{i}/{len(BROAD_QUERIES)}] {keywords[:60]}...")
@@ -267,13 +382,24 @@ def run(dry_run: bool = False, input_file: str = None, headed: bool = False) -> 
             raw_jobs = search_linkedin(page, keywords, location)
             matching = [j for j in raw_jobs if matches_criteria(j["title"])]
 
+            # For wealth-mgmt-at-tech-companies queries, accept any company
+            # as long as the role title signals wealth management relevance
+            is_wealth_tech_query = (i - 1) >= WEALTH_TECH_QUERY_START
+            if is_wealth_tech_query:
+                relevant = [j for j in matching
+                            if is_wealth_experience_relevant(j["title"])
+                            or is_fintech_relevant(j["company"], known_companies)]
+            else:
+                relevant = [j for j in matching if is_fintech_relevant(j["company"], known_companies)]
+
             queries_log.append({
                 "query": keywords,
                 "raw_results": len(raw_jobs),
                 "matching_results": len(matching),
+                "industry_relevant": len(relevant),
             })
 
-            for job in matching:
+            for job in relevant:
                 if job["url"] and job["url"] not in seen_urls:
                     seen_urls.add(job["url"])
                     all_roles.append({
@@ -285,10 +411,11 @@ def run(dry_run: bool = False, input_file: str = None, headed: bool = False) -> 
                         "compensation": "Not disclosed",
                         "datePosted": job["datePosted"],
                         "source": "LinkedIn",
-                        "segment": "Unknown",
+                        "segment": "WealthTech (cross-industry)" if is_wealth_tech_query else "Unknown",
                     })
 
-            print(f"    Found {len(raw_jobs)} total, {len(matching)} matching criteria")
+            skipped = len(matching) - len(relevant)
+            print(f"    Found {len(raw_jobs)} total, {len(matching)} title match, {len(relevant)} industry relevant ({skipped} non-fintech skipped)")
             human_delay()
 
         # ── Company-targeted searches ──

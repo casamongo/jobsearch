@@ -52,4 +52,4 @@ Run at least 5 web searches including:
 4. Specific company career pages for top watchlist companies
 5. Industry reports or lists of top fintech companies to watch
 
-Aim for **30+ companies** in the output, with at least 10 rated as high priority.
+Aim for **60+ companies** in the output, with at least 20 rated as high priority.

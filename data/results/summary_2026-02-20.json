@@ -2,11 +2,11 @@
   "date": "2026-02-20",
   "companies_researched": 41,
   "agent2_roles": 7,
-  "agent3_roles": 0,
-  "merged_unique": 7,
-  "new_roles": 7,
+  "agent3_roles": 8,
+  "merged_unique": 15,
+  "new_roles": 15,
   "previously_seen": 0,
-  "total_seen_all_time": 7,
+  "total_seen_all_time": 15,
   "roles": [
     {
       "company": "Addepar",
@@ -91,6 +91,102 @@
       "source": "Glassdoor",
       "isNew": true,
       "segment": "AssetMgmtTech"
+    },
+    {
+      "company": "Clearwater",
+      "stage": "Unknown",
+      "title": "VP, Sales",
+      "url": "https://www.linkedin.com/jobs/view/vp-sales-at-clearwater-4351177003",
+      "location": "Nashville, TN",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-02-14",
+      "source": "LinkedIn",
+      "segment": "Unknown",
+      "isNew": true
+    },
+    {
+      "company": "Capital One",
+      "stage": "Unknown",
+      "title": "Product Design Director, Card Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/product-design-director-card-partnerships-at-capital-one-4372249441",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-02-13",
+      "source": "LinkedIn",
+      "segment": "Unknown",
+      "isNew": true
+    },
+    {
+      "company": "Thornburg Investment Management",
+      "stage": "Unknown",
+      "title": "Director of Commercialization & GTM Enablement",
+      "url": "https://www.linkedin.com/jobs/view/director-of-commercialization-gtm-enablement-at-thornburg-investment-management-4372010781",
+      "location": "Santa Fe, NM",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-02-13",
+      "source": "LinkedIn",
+      "segment": "Unknown",
+      "isNew": true
+    },
+    {
+      "company": "Lincoln Financial",
+      "stage": "Unknown",
+      "title": "Sr. Account Director, Group Benefits Sales",
+      "url": "https://www.linkedin.com/jobs/view/sr-account-director-group-benefits-sales-at-lincoln-financial-4374789479",
+      "location": "Denver, CO",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-02-18",
+      "source": "LinkedIn",
+      "segment": "Unknown",
+      "isNew": true
+    },
+    {
+      "company": "Lazard Asset Management",
+      "stage": "Unknown",
+      "title": "VP, Business Development - Lazard Wealth",
+      "url": "https://www.linkedin.com/jobs/view/vp-business-development-lazard-wealth-at-lazard-asset-management-4318924495",
+      "location": "New York, United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-02-14",
+      "source": "LinkedIn",
+      "segment": "Unknown",
+      "isNew": true
+    },
+    {
+      "company": "NU Advisory Partners",
+      "stage": "Unknown",
+      "title": "Chief Revenue Officer",
+      "url": "https://www.linkedin.com/jobs/view/chief-revenue-officer-at-nu-advisory-partners-4373397089",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-02-18",
+      "source": "LinkedIn",
+      "segment": "Unknown",
+      "isNew": true
+    },
+    {
+      "company": "Bankers Financial Corporation",
+      "stage": "Unknown",
+      "title": "Chief Revenue Officer",
+      "url": "https://www.linkedin.com/jobs/view/chief-revenue-officer-at-bankers-financial-corporation-4372405483",
+      "location": "St. Petersburg, FL",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-02-18",
+      "source": "LinkedIn",
+      "segment": "Unknown",
+      "isNew": true
+    },
+    {
+      "company": "Orion Solutions Group",
+      "stage": "Growth",
+      "title": "Director of Business Development \u2013 Distribution & Fulfillment",
+      "url": "https://www.linkedin.com/jobs/view/director-of-business-development-%E2%80%93-distribution-fulfillment-at-orion-solutions-group-4333012198",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-02-15",
+      "source": "LinkedIn",
+      "segment": "WealthTech",
+      "isNew": true
     }
   ]
 }
