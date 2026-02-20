@@ -1,0 +1,722 @@
+[
+  {
+    "company": "Addepar",
+    "website": "https://addepar.com",
+    "careers_url": "https://job-boards.greenhouse.io/addepar1",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Surpassed $5 trillion in assets managed, 27+ open roles on careers page including multiple Sr. Account Executive positions, expanding Pune facility",
+    "priority": "high",
+    "notes": "Leading wealth management platform for RIAs and family offices, active hiring across sales and enterprise teams"
+  },
+  {
+    "company": "iCapital",
+    "website": "https://icapital.com",
+    "careers_url": "https://job-boards.greenhouse.io/icapitalnetwork",
+    "stage": "Growth",
+    "segment": "InvestmentTech",
+    "hiring_signals": "$176.3B in platform assets, multiple regional director and VP-level sales roles posted, expanding enterprise presence",
+    "priority": "high",
+    "notes": "Alternative investments platform for wealth advisors, Forbes Fintech 50 six consecutive years, active GTM hiring"
+  },
+  {
+    "company": "Nevis",
+    "website": "https://nevis.com",
+    "careers_url": "https://nevis.com/careers",
+    "stage": "Series A",
+    "segment": "WealthTech",
+    "hiring_signals": "Raised $35M Series A led by Sequoia in Dec 2025, founded by former Revolut executives, rapidly scaling advisor platform",
+    "priority": "high",
+    "notes": "AI-native platform for RIAs, manages $50B+ in client assets, likely hiring for GTM expansion"
+  },
+  {
+    "company": "Pontera",
+    "website": "https://pontera.com",
+    "careers_url": "https://pontera.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Raised $60M in Jan 2024 led by ICONIQ Growth, quadrupled revenue since last raise, total funding $220M",
+    "priority": "high",
+    "notes": "Held-away 401(k) management for advisors, thousands of advisors using platform, strong growth trajectory"
+  },
+  {
+    "company": "Vestwell",
+    "website": "https://vestwell.com",
+    "careers_url": "https://vestwell.com/careers",
+    "stage": "Series E",
+    "segment": "PFMTech",
+    "hiring_signals": "Raised $385M Series E in Jan 2026 co-led by Blue Owl and Sixth Street, $30B+ in assets, 50k+ businesses served",
+    "priority": "high",
+    "notes": "Digital savings and 401(k) platform, rapid growth in retirement market, likely expanding sales and partnerships teams"
+  },
+  {
+    "company": "401GO",
+    "website": "https://401go.com",
+    "careers_url": "https://401go.com/careers",
+    "stage": "Series B",
+    "segment": "PFMTech",
+    "hiring_signals": "Raised $33M Series B in Dec 2025 led by Centana Growth, fastest organically growing retirement provider per PlanSponsor, 5000+ customers",
+    "priority": "high",
+    "notes": "Fully-owned 401(k) platform, expanding advisor and embedded partner ecosystem, strong momentum"
+  },
+  {
+    "company": "Altruist",
+    "website": "https://altruist.com",
+    "careers_url": "https://altruist.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Digital custodian serving 1000+ advisors, grew employee count 16% in 2024, launching new products like direct indexing",
+    "priority": "high",
+    "notes": "All-in-one platform for modern RIAs, LA-based fintech, likely hiring for sales and client success roles"
+  },
+  {
+    "company": "Envestnet",
+    "website": "https://envestnet.com",
+    "careers_url": "https://careers.envestnet.com",
+    "stage": "Public",
+    "segment": "WealthTech",
+    "hiring_signals": "45 open positions including 16 sales roles, Business Development Director posted Jan 2026, serves 100k+ advisors",
+    "priority": "high",
+    "notes": "Leading wealth management platform, trillions in platform assets, active hiring in sales and partnerships"
+  },
+  {
+    "company": "Orion Advisor Solutions",
+    "website": "https://orion.com",
+    "careers_url": "https://orion.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Launching AI assistants in 2026, serves 6500+ financial professionals, comprehensive platform expansion",
+    "priority": "high",
+    "notes": "Unified wealth management platform integrating portfolio management, planning, and risk intelligence"
+  },
+  {
+    "company": "Betterment",
+    "website": "https://betterment.com",
+    "careers_url": "https://betterment.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Launched advisor platform expansion, pivoting to RIA services, open roles on careers page",
+    "priority": "medium",
+    "notes": "Robo-advisor expanding into B2B advisor platform, registered investment advisor and broker-dealer"
+  },
+  {
+    "company": "Wealthfront",
+    "website": "https://wealthfront.com",
+    "careers_url": "https://jobs.lever.co/wealthfront",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "16 open positions, filed for IPO, expanding mortgage lending operations, $20B+ in AUM",
+    "priority": "medium",
+    "notes": "Digital wealth platform, confidentially submitted IPO filing, hiring mortgage originators and product teams"
+  },
+  {
+    "company": "WealthAi",
+    "website": "https://wealthai.com",
+    "careers_url": "https://wealthai.com/careers",
+    "stage": "Pre-Seed",
+    "segment": "WealthTech",
+    "hiring_signals": "Raised $800k pre-seed from Fuel Ventures in Jan 2026, launching AI-first OS for wealth managers",
+    "priority": "medium",
+    "notes": "AI-native platform for wealth managers, private banks, and family offices, early-stage with growth potential"
+  },
+  {
+    "company": "SEI",
+    "website": "https://seic.com",
+    "careers_url": "https://seic.com/careers",
+    "stage": "Public",
+    "segment": "AssetMgmtTech",
+    "hiring_signals": "Launched alternative investment marketplace March 2025, acquired LifeYield, 250+ wealth firms on platform",
+    "priority": "high",
+    "notes": "Top-five administrator of U.S. private assets, expanding alternatives marketplace and unified managed households"
+  },
+  {
+    "company": "Morningstar",
+    "website": "https://morningstar.com",
+    "careers_url": "https://morningstar.com/careers",
+    "stage": "Public",
+    "segment": "AssetMgmtTech",
+    "hiring_signals": "Recently hired new employees, expanding retirement solutions and wealth management divisions, global growth",
+    "priority": "medium",
+    "notes": "Investment research and data provider, serves advisors and asset managers globally"
+  },
+  {
+    "company": "FactSet",
+    "website": "https://factset.com",
+    "careers_url": "https://factset.com/careers",
+    "stage": "Public",
+    "segment": "AssetMgmtTech",
+    "hiring_signals": "Q1 FY2026 revenue $600M, net increase of 2539 users, hiring in sales and technology, 91% client retention",
+    "priority": "medium",
+    "notes": "Financial data and portfolio analytics platform, 80%+ buy-side clients including wealth managers"
+  },
+  {
+    "company": "CAIS",
+    "website": "https://cais.com",
+    "careers_url": "https://cais.com/careers",
+    "stage": "Growth",
+    "segment": "InvestmentTech",
+    "hiring_signals": "Alternative investments platform for advisors, frequently mentioned alongside iCapital as market leader",
+    "priority": "high",
+    "notes": "Leading alternative investments platform serving wealth advisors and asset managers"
+  },
+  {
+    "company": "Nitrogen (formerly Riskalyze)",
+    "website": "https://nitrogenwealth.com",
+    "careers_url": "https://nitrogenwealth.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "3 open positions on Glassdoor, risk tolerance platform used by thousands of advisors",
+    "priority": "medium",
+    "notes": "Risk alignment platform for financial advisors, helps advisors win and retain clients through data"
+  },
+  {
+    "company": "RightCapital",
+    "website": "https://rightcapital.com",
+    "careers_url": "https://rightcapital.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Launched eMoney migration tool, building MoneyGuide migration for 2026, competing aggressively for market share",
+    "priority": "high",
+    "notes": "Financial planning software for advisors, one of top three platforms alongside eMoney and MoneyGuide"
+  },
+  {
+    "company": "eMoney Advisor",
+    "website": "https://emoneyadvisor.com",
+    "careers_url": "https://emoneyadvisor.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Used by 100,000+ professionals, market leader in financial planning software, continuous platform updates",
+    "priority": "medium",
+    "notes": "Leading financial planning platform, owned by Fidelity, serves advisors with comprehensive planning tools"
+  },
+  {
+    "company": "MoneyGuide",
+    "website": "https://moneyguidepro.com",
+    "careers_url": "https://moneyguidepro.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Part of Envestnet, goal-based planning platform, widely adopted among advisors",
+    "priority": "medium",
+    "notes": "Financial planning software focused on goal-based planning and insurance integration"
+  },
+  {
+    "company": "Advyzon",
+    "website": "https://advyzon.com",
+    "careers_url": "https://advyzon.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Launching financial planning software in 2026, currently offers portfolio management and CRM",
+    "priority": "medium",
+    "notes": "All-in-one platform expanding from portfolio management to comprehensive advisor tech stack"
+  },
+  {
+    "company": "Holistiplan",
+    "website": "https://holistiplan.com",
+    "careers_url": "https://holistiplan.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Tax planning software adopted by advisors, mentioned as emerging trend tool for high-net-worth clients",
+    "priority": "medium",
+    "notes": "Specialized tax planning software for financial advisors, growing adoption in wealth management"
+  },
+  {
+    "company": "FP Alpha",
+    "website": "https://fpalpha.com",
+    "careers_url": "https://fpalpha.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Integrated with Orion in 2024, estate planning software for advisors, emerging tool in holistic advice",
+    "priority": "medium",
+    "notes": "Estate planning software for financial advisors, provides time-saving tools for fiduciary advisors"
+  },
+  {
+    "company": "Income Lab",
+    "website": "https://incomelab.com",
+    "careers_url": "https://incomelab.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Launched Life Hub in Jan 2024, retirement income planning software, making strong push in market",
+    "priority": "medium",
+    "notes": "Retirement planning and income management software for advisors, founded 2018"
+  },
+  {
+    "company": "Conquest Planning",
+    "website": "https://conquestplanning.com",
+    "careers_url": "https://conquestplanning.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Newer financial planning tool gaining foothold, competing with established players",
+    "priority": "medium",
+    "notes": "Financial planning software making push into competitive planning software marketplace"
+  },
+  {
+    "company": "Elements",
+    "website": "https://elements.com",
+    "careers_url": "https://elements.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Reportedly foreclosed by creditors in Nov 2025, uncertain business status",
+    "priority": "low",
+    "notes": "Financial monitoring software, business difficulties reported, exclude from high-priority list"
+  },
+  {
+    "company": "Jump",
+    "website": "https://jump.com",
+    "careers_url": "https://jump.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Acquired Mobile Assistant, AI meeting notetaker for advisors, used by advisors for automation",
+    "priority": "medium",
+    "notes": "AI-powered workflow automation for financial advisors, meeting notes and CRM integration"
+  },
+  {
+    "company": "Dynasty Financial Partners",
+    "website": "https://dynastyfinancialpartners.com",
+    "careers_url": "https://dynastyfinancialpartners.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "RIA platform supporting advisor transitions and growth",
+    "priority": "medium",
+    "notes": "Comprehensive platform for independent financial advisors building RIA firms"
+  },
+  {
+    "company": "Hightower",
+    "website": "https://hightoweradvisors.com",
+    "careers_url": "https://hightoweradvisors.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Former CMO moved to Composition Wealth, large RIA platform with technology focus",
+    "priority": "medium",
+    "notes": "Hybrid RIA platform providing technology and support to financial advisors"
+  },
+  {
+    "company": "Farther",
+    "website": "https://farther.com",
+    "careers_url": "https://farther.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Modern wealth management firm with tech-forward approach",
+    "priority": "medium",
+    "notes": "Digital-first wealth management platform combining advisors with technology"
+  },
+  {
+    "company": "Savvy Wealth",
+    "website": "https://savvywealth.com",
+    "careers_url": "https://savvywealth.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Recently hired four advisors from Mariner, aggressive recruiting, facing litigation for poaching",
+    "priority": "high",
+    "notes": "RIA platform aggressively expanding advisor base, active in recruiting wealth management professionals"
+  },
+  {
+    "company": "Vanilla",
+    "website": "https://vanillawealth.com",
+    "careers_url": "https://vanillawealth.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Advisor technology platform on known companies watchlist",
+    "priority": "medium",
+    "notes": "Advisor technology platform for financial planning and wealth management"
+  },
+  {
+    "company": "LifeYield",
+    "website": "https://lifeyield.com",
+    "careers_url": "https://lifeyield.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Acquired by SEI in 2025, pioneer in unified managed household technology",
+    "priority": "medium",
+    "notes": "Tax optimization and UMH technology, acquired by SEI to power automated household solutions"
+  },
+  {
+    "company": "InvestCloud",
+    "website": "https://investcloud.com",
+    "careers_url": "https://investcloud.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Digital wealth management platform for financial institutions",
+    "priority": "medium",
+    "notes": "Cloud-based wealth management platform serving advisors and financial institutions"
+  },
+  {
+    "company": "Vise",
+    "website": "https://vise.com",
+    "careers_url": "https://vise.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "AI-powered portfolio management for financial advisors",
+    "priority": "medium",
+    "notes": "AI-driven investment platform helping advisors build and manage personalized portfolios"
+  },
+  {
+    "company": "YieldStreet",
+    "website": "https://yieldstreet.com",
+    "careers_url": "https://yieldstreet.com/careers",
+    "stage": "Growth",
+    "segment": "InvestmentTech",
+    "hiring_signals": "Alternative investment platform for accredited investors, serves wealth advisors",
+    "priority": "medium",
+    "notes": "Alternative investment marketplace offering private market opportunities to investors"
+  },
+  {
+    "company": "Carta",
+    "website": "https://carta.com",
+    "careers_url": "https://carta.com/careers",
+    "stage": "Growth",
+    "segment": "InvestmentTech",
+    "hiring_signals": "Private markets infrastructure, serves wealth advisors with private equity access",
+    "priority": "medium",
+    "notes": "Cap table management and private markets platform, wealth advisors use for private equity access"
+  },
+  {
+    "company": "Forge Global",
+    "website": "https://forgeglobal.com",
+    "careers_url": "https://forgeglobal.com/careers",
+    "stage": "Growth",
+    "segment": "InvestmentTech",
+    "hiring_signals": "Private securities marketplace used by wealth advisors",
+    "priority": "medium",
+    "notes": "Private securities marketplace providing access to pre-IPO companies for wealth advisors"
+  },
+  {
+    "company": "AngelList",
+    "website": "https://angellist.com",
+    "careers_url": "https://angellist.com/careers",
+    "stage": "Growth",
+    "segment": "InvestmentTech",
+    "hiring_signals": "Platform for venture capital and private markets investments",
+    "priority": "medium",
+    "notes": "Venture capital platform enabling wealth advisors to access startup investments"
+  },
+  {
+    "company": "Republic",
+    "website": "https://republic.com",
+    "careers_url": "https://republic.com/careers",
+    "stage": "Growth",
+    "segment": "InvestmentTech",
+    "hiring_signals": "On-chain investment platform, licensed across US/UK/EU, expanding private markets access",
+    "priority": "medium",
+    "notes": "Investment platform for private markets, startups, and digital assets"
+  },
+  {
+    "company": "Moonfare",
+    "website": "https://moonfare.com",
+    "careers_url": "https://moonfare.com/careers",
+    "stage": "Growth",
+    "segment": "InvestmentTech",
+    "hiring_signals": "Private equity platform serving 75,000+ members, 16+ countries, secondary market launched",
+    "priority": "medium",
+    "notes": "Private equity investing platform making top-tier funds available to wealth advisors at lower minimums"
+  },
+  {
+    "company": "Tegus",
+    "website": "https://tegus.com",
+    "careers_url": "https://tegus.com/careers",
+    "stage": "Growth",
+    "segment": "InvestmentTech",
+    "hiring_signals": "Research platform for investment professionals",
+    "priority": "medium",
+    "notes": "Investment research platform providing expert insights to asset managers and advisors"
+  },
+  {
+    "company": "AlphaSense",
+    "website": "https://alpha-sense.com",
+    "careers_url": "https://alpha-sense.com/careers",
+    "stage": "Growth",
+    "segment": "InvestmentTech",
+    "hiring_signals": "Market intelligence platform used by investment professionals",
+    "priority": "medium",
+    "notes": "AI-powered market intelligence platform for investment research and decision-making"
+  },
+  {
+    "company": "Clearwater Analytics",
+    "website": "https://clearwateranalytics.com",
+    "careers_url": "https://clearwateranalytics.com/careers",
+    "stage": "Public",
+    "segment": "AssetMgmtTech",
+    "hiring_signals": "SaaS platform for investment accounting and reporting, serving asset managers",
+    "priority": "medium",
+    "notes": "Investment accounting, reporting, and analytics for asset managers and wealth firms"
+  },
+  {
+    "company": "Enfusion",
+    "website": "https://enfusion.com",
+    "careers_url": "https://enfusion.com/careers",
+    "stage": "Public",
+    "segment": "AssetMgmtTech",
+    "hiring_signals": "Cloud-native investment management software for asset managers",
+    "priority": "medium",
+    "notes": "Integrated portfolio management, trading, and risk system for hedge funds and asset managers"
+  },
+  {
+    "company": "Arcesium",
+    "website": "https://arcesium.com",
+    "careers_url": "https://arcesium.com/careers",
+    "stage": "Growth",
+    "segment": "AssetMgmtTech",
+    "hiring_signals": "Post-trade technology and data services for asset managers",
+    "priority": "medium",
+    "notes": "Data, analytics, and operations platform for complex asset managers and hedge funds"
+  },
+  {
+    "company": "Empower",
+    "website": "https://empower.com",
+    "careers_url": "https://empower.com/careers",
+    "stage": "Growth",
+    "segment": "PFMTech",
+    "hiring_signals": "Major retirement services provider with wealth management platform",
+    "priority": "medium",
+    "notes": "Retirement and wealth management platform serving millions of participants"
+  },
+  {
+    "company": "Guideline",
+    "website": "https://guideline.com",
+    "careers_url": "https://guideline.com/careers",
+    "stage": "Growth",
+    "segment": "PFMTech",
+    "hiring_signals": "Acquired by Gusto, 401(k) platform for small businesses, rebranding to Gusto 401(k)",
+    "priority": "medium",
+    "notes": "Affordable 401(k) platform acquired by Gusto, serving small to mid-size businesses"
+  },
+  {
+    "company": "Human Interest",
+    "website": "https://humaninterest.com",
+    "careers_url": "https://humaninterest.com/careers",
+    "stage": "Growth",
+    "segment": "PFMTech",
+    "hiring_signals": "401(k) provider for small and medium businesses, Y Combinator backed",
+    "priority": "medium",
+    "notes": "Modern 401(k) platform focused on making retirement accessible to all businesses"
+  },
+  {
+    "company": "Capitalize",
+    "website": "https://hicapitalize.com",
+    "careers_url": "https://hicapitalize.com/careers",
+    "stage": "Growth",
+    "segment": "PFMTech",
+    "hiring_signals": "Retirement rollover platform helping users consolidate old 401(k)s",
+    "priority": "low",
+    "notes": "Platform for finding and rolling over old 401(k) accounts, consumer-focused"
+  },
+  {
+    "company": "Magnifi",
+    "website": "https://magnifi.com",
+    "careers_url": "https://magnifi.com/careers",
+    "stage": "Growth",
+    "segment": "PFMTech",
+    "hiring_signals": "AI-powered investment search and discovery platform",
+    "priority": "low",
+    "notes": "Investment discovery platform using AI, serves retail investors and advisors"
+  },
+  {
+    "company": "Broadridge",
+    "website": "https://broadridge.com",
+    "careers_url": "https://broadridge.com/careers",
+    "stage": "Public",
+    "segment": "Adjacent",
+    "hiring_signals": "Large financial technology provider serving asset managers and wealth firms",
+    "priority": "low",
+    "notes": "Financial services technology provider for investor communications and wealth management"
+  },
+  {
+    "company": "FIS",
+    "website": "https://fisglobal.com",
+    "careers_url": "https://fisglobal.com/careers",
+    "stage": "Public",
+    "segment": "Adjacent",
+    "hiring_signals": "Large fintech with wealth management and asset management divisions",
+    "priority": "low",
+    "notes": "Global financial technology provider with wealth and investment management solutions"
+  },
+  {
+    "company": "SS&C Technologies",
+    "website": "https://ssctech.com",
+    "careers_url": "https://ssctech.com/careers",
+    "stage": "Public",
+    "segment": "Adjacent",
+    "hiring_signals": "Large provider of software and services for financial services firms",
+    "priority": "low",
+    "notes": "Financial services technology provider with strong wealth and asset management presence"
+  },
+  {
+    "company": "Pershing",
+    "website": "https://pershing.com",
+    "careers_url": "https://pershing.com/careers",
+    "stage": "Public",
+    "segment": "WealthTech",
+    "hiring_signals": "Part of BNY Mellon, major custodian and platform provider for advisors",
+    "priority": "low",
+    "notes": "Leading provider of clearing, custody, and technology to financial advisors"
+  },
+  {
+    "company": "Opto Investments",
+    "website": "https://optoinvest.com",
+    "careers_url": "https://optoinvest.com/careers",
+    "stage": "Growth",
+    "segment": "InvestmentTech",
+    "hiring_signals": "Private markets investment platform for wealth managers, raised outsized capital, building partnerships",
+    "priority": "medium",
+    "notes": "End-to-end technology for wealth managers to build bespoke private markets programs, works with Mercer, ShoreHaven"
+  },
+  {
+    "company": "GeoWealth",
+    "website": "https://geowealth.com",
+    "careers_url": "https://geowealth.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Received $38M PE growth investment in H2 2025, turnkey asset management platform",
+    "priority": "high",
+    "notes": "TAMP platform for advisors, recent PE investment signals expansion and GTM hiring"
+  },
+  {
+    "company": "Wealthsimple",
+    "website": "https://wealthsimple.com",
+    "careers_url": "https://wealthsimple.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Raised $538M in H2 2025 led by Dragoneer and GIC, Toronto-based wealth platform",
+    "priority": "high",
+    "notes": "Canadian wealth management platform, major funding round signals US expansion potential"
+  },
+  {
+    "company": "DriveWealth",
+    "website": "https://drivewealth.com",
+    "careers_url": "https://drivewealth.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "API-based brokerage infrastructure for fintechs and advisors, Best Places to Work awards",
+    "priority": "medium",
+    "notes": "Brokerage infrastructure enabling global trading for fintech partners and wealth platforms"
+  },
+  {
+    "company": "FNZ",
+    "website": "https://fnzgroup.com",
+    "careers_url": "https://fnzgroup.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Raised $650M in 2025, UK-based wealthtech with $2.1T+ assets, 650 institutions, global expansion",
+    "priority": "high",
+    "notes": "Global wealthtech platform serving financial institutions, one of largest funding rounds in 2025"
+  },
+  {
+    "company": "Composition Wealth",
+    "website": "https://compositionwealth.com",
+    "careers_url": "https://compositionwealth.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Hired Meghan McCartan as CMO in Jan 2026 from Hightower, expanding digital-first strategies",
+    "priority": "medium",
+    "notes": "RIA platform focused on advisor growth, recent C-level hire signals GTM expansion"
+  },
+  {
+    "company": "Marloo",
+    "website": "https://marloo.com",
+    "careers_url": "https://marloo.com/careers",
+    "stage": "Pre-Seed",
+    "segment": "WealthTech",
+    "hiring_signals": "Raised $2.7M pre-seed led by Blackbird Ventures, AI-enabled workflow for UK/ANZAC advisors",
+    "priority": "low",
+    "notes": "Auckland-based, AI workflow software for advisors, international focus may limit US hiring"
+  },
+  {
+    "company": "Quantifeed",
+    "website": "https://quantifeed.com",
+    "careers_url": "https://quantifeed.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Asia-Pacific wealthtech, clients include DBS, MUFG, acquired Alpima in 2022",
+    "priority": "low",
+    "notes": "Wealthtech serving Asian financial institutions, limited US presence"
+  },
+  {
+    "company": "Titan",
+    "website": "https://titan.com",
+    "careers_url": "https://titan.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Manages $1B+ in assets, backed by a16z and General Catalyst, AI-powered wealth management",
+    "priority": "medium",
+    "notes": "Award-winning digital wealth manager putting human advisors in every pocket via AI"
+  },
+  {
+    "company": "SoFi",
+    "website": "https://sofi.com",
+    "careers_url": "https://sofi.com/careers",
+    "stage": "Public",
+    "segment": "PFMTech",
+    "hiring_signals": "10.9M members, comprehensive digital financial services including investment and wealth",
+    "priority": "medium",
+    "notes": "Digital financial services platform with wealth management and investment products, Galileo tech platform"
+  },
+  {
+    "company": "Mariner Wealth Advisors",
+    "website": "https://marinerwealthadvisors.com",
+    "careers_url": "https://marinerwealthadvisors.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Using State Street Charles River platform, large RIA with technology focus, active M&A",
+    "priority": "medium",
+    "notes": "Large RIA platform, technology integration focus, litigating against Savvy Wealth for advisor poaching"
+  },
+  {
+    "company": "FMG Suite",
+    "website": "https://fmgsuite.com",
+    "careers_url": "https://fmgsuite.com/careers",
+    "stage": "Growth",
+    "segment": "WealthTech",
+    "hiring_signals": "Named Matt Newman as CRO Jan 2026, backed by GTCR, marketing platform for advisors",
+    "priority": "high",
+    "notes": "Marketing and content platform for financial advisors, recent CRO hire signals revenue growth focus"
+  },
+  {
+    "company": "Blue Owl Capital",
+    "website": "https://blueowl.com",
+    "careers_url": "https://blueowl.com/careers",
+    "stage": "Public",
+    "segment": "InvestmentTech",
+    "hiring_signals": "Co-led Vestwell $385M Series E, major alternative asset manager with technology platform",
+    "priority": "low",
+    "notes": "Alternative asset manager, more investment firm than tech platform for wealth advisors"
+  },
+  {
+    "company": "Dispatch (Data Orchestration)",
+    "website": "https://dispatch.tech",
+    "careers_url": "https://dispatch.tech/careers",
+    "stage": "Series A",
+    "segment": "WealthTech",
+    "hiring_signals": "Raised $18M Series A for AI-driven RIA data orchestration, alternative to data warehousing",
+    "priority": "medium",
+    "notes": "AI-powered data orchestration for RIAs, emerging tech for advisor workflow automation"
+  },
+  {
+    "company": "Hamachi",
+    "website": "https://hamachi.ai",
+    "careers_url": "https://hamachi.ai/careers",
+    "stage": "Seed",
+    "segment": "WealthTech",
+    "hiring_signals": "AI investment commentary tool for advisors, recent market entry in advisor tech",
+    "priority": "low",
+    "notes": "AI-powered investment commentary for advisors, early-stage emerging technology"
+  },
+  {
+    "company": "UpMarket",
+    "website": "https://upmarket.co",
+    "careers_url": "https://upmarket.co/careers",
+    "stage": "Growth",
+    "segment": "InvestmentTech",
+    "hiring_signals": "$146M managed by UpMarket Management, alternative investment platform for accredited investors",
+    "priority": "low",
+    "notes": "Alternative investment marketplace, primarily direct-to-investor vs. advisor-facing"
+  },
+  {
+    "company": "Willow Wealth (formerly Yieldstreet)",
+    "website": "https://willowwealth.com",
+    "careers_url": "https://willowwealth.com/careers",
+    "stage": "Growth",
+    "segment": "InvestmentTech",
+    "hiring_signals": "Rebranded from Yieldstreet, private markets platform, asset management focus",
+    "priority": "low",
+    "notes": "Alternative investment platform, primarily retail vs. wealth advisor channel"
+  }
+]
