@@ -71,24 +71,48 @@ EXCLUDE_KEYWORDS = [
     "accounting", "finance manager", "operations manager",
 ]
 
-# Known fintech companies from skill.md watchlist (always considered relevant)
-WATCHLIST_COMPANIES = [
-    # WealthTech
-    "Addepar", "Orion", "Envestnet", "Betterment", "Wealthfront",
-    "Riskalyze", "Nitrogen", "Advyzon", "Pontera", "Farther", "Vanilla",
-    "Savvy Wealth", "LifeYield", "Conquest Planning", "Jump", "InvestCloud",
-    "Altruist", "RightCapital", "Dynasty Financial", "Hightower",
-    # InvestmentTech
-    "iCapital", "CAIS", "YieldStreet", "Carta", "Forge Global", "Republic",
-    "Moonfare", "AngelList", "Vise", "Tegus", "AlphaSense",
-    # Asset Management Tech
-    "SEI", "Morningstar", "BlackRock", "FactSet", "MSCI",
-    "Clearwater Analytics", "Enfusion", "Arcesium",
-    # PFM / Retirement Tech
-    "Pershing", "BNY", "Empower", "Guideline", "Human Interest",
-    "Vestwell", "Capitalize", "Magnifi",
-    # Adjacent / Data / Regtech
-    "Broadridge", "FIS", "SS&C", "ComplySci", "RIA in a Box", "Aumni",
+# Comprehensive known wealthtech companies (strict whitelist)
+KNOWN_WEALTHTECH_COMPANIES = [
+    # Core wealthtech
+    "Addepar", "Orion", "Envestnet", "Pontera", "InvestCloud", "Nitrogen",
+    "Altruist", "Advyzon", "Betterment", "Wealthfront", "Farther",
+    "Savvy Wealth", "Vanilla", "LifeYield", "RightCapital", "FP Alpha",
+    "Conquest Planning", "Jump", "AdvicePay",
+    # Alt investments / private markets
+    "CAIS", "iCapital", "YieldStreet", "Canoe Intelligence",
+    # RIA aggregators / platforms
+    "Dynasty Financial", "Hightower", "Advisor360", "AssetMark",
+    # Enterprise wealthtech
+    "SEI", "Morningstar", "Pershing", "BNY", "Broadridge", "SS&C",
+    "Vestmark", "FIS", "Fidelity",
+    # BlackRock Aladdin
+    "BlackRock", "Aladdin",
+    # Retirement tech
+    "Vestwell", "GeoWealth", "Practifi",
+    # Investment data / analytics
+    "FactSet", "MSCI", "Clearwater Analytics", "Enfusion", "Arcesium",
+    "Tegus", "AlphaSense",
+    # Investment platforms
+    "Carta", "Forge Global", "Republic", "Moonfare", "AngelList", "Vise",
+    # PFM / Retirement
+    "Empower", "Guideline", "Human Interest", "Capitalize", "Magnifi",
+    # Regtech / compliance
+    "ComplySci", "RIA in a Box", "Aumni",
+    # Big tech FS verticals
+    "Salesforce Financial Services",
+    # Investment banks with WM tech
+    "Goldman Sachs", "Morgan Stanley", "JPMorgan",
+    # Additional wealthtech
+    "Clearwater", "Wealthspire", "LearnLux", "d1g1t", "MyVest",
+    "Wealth.com", "Zoe Financial", "Osaic", "LPL Financial",
+    "Raymond James", "Cetera", "Advisor Group", "Commonwealth",
+    "Carson Group", "Buckingham", "Mariner Wealth",
+    "eMoney Advisor", "MoneyGuidePro", "Riskalyze",
+    "Capitect", "Kwanti", "YCharts", "Oranj",
+    "Redtail", "Wealthbox", "Tamarac", "Black Diamond",
+    "Croesus", "Advicement", "Asset-Map",
+    "Snappy Kraken", "FMG Suite", "Nitrogen Wealth",
+    "CircleBlack", "Docupace", "Laser App", "PreciseFP",
 ]
 
 # Industry-relevance keywords — at least one must appear in company name or job context
@@ -129,30 +153,48 @@ NON_FINTECH_INDICATORS = [
     "church", "ministry", "nonprofit", "ngo",
 ]
 
+# Strict regex patterns for title validation (used for company-targeted searches)
+VALID_TITLE_PATTERNS = [
+    r'\b(VP|Vice President|Director|Senior Director|Head of|Chief|SVP|EVP|Managing Director)\b',
+]
+
+VALID_FUNCTION_PATTERNS = [
+    r'\b(Sales|Revenue|GTM|Go.to.Market|Partnerships?|Strategic Alliances?|'
+    r'Business Development|Channel|Client Success|Client Relations|'
+    r'Relationship Management|Consulting|Advisory)\b',
+]
+
+EXCLUDE_TITLE_PATTERNS = [
+    r'\b(Engineer|Product Manager|Design|Data Scientist|Marketing Manager|'
+    r'Content|Compliance|Legal|Finance Director|HR|People|Talent|'
+    r'Operations Manager|IT Director|CTO|CPO|CMO)\b',
+]
+
 DELAY_MIN = 2.0
 DELAY_MAX = 5.0
 
 
-def is_fintech_relevant(company: str, known_companies: set) -> bool:
-    """Check if a company is likely in the fintech/wealth/investment space."""
+def is_relevant_company(company: str, known_companies: set) -> bool:
+    """Only include companies we explicitly know are wealthtech.
+
+    Strict whitelist approach: if a company is not in Agent 1's list or
+    the known wealthtech companies list, assume NOT relevant and exclude.
+    """
     name_lower = company.strip().lower()
 
     if not name_lower or name_lower in ("confidential", "undisclosed", "stealth startup", "a hiring company"):
         return False
 
-    # Known fintech company from Agent 1 → always include
+    # Check against Agent 1's researched companies
     if name_lower in known_companies:
         return True
 
-    # Obvious non-fintech → exclude
-    if any(kw in name_lower for kw in NON_FINTECH_INDICATORS):
-        return False
+    # Check against hardcoded wealthtech list (fuzzy match)
+    for known in KNOWN_WEALTHTECH_COMPANIES:
+        if known.lower() in name_lower or name_lower in known.lower():
+            return True
 
-    # Has fintech/wealth/investment signal → include
-    if any(kw in name_lower for kw in INDUSTRY_KEYWORDS):
-        return True
-
-    # No signal either way — exclude (conservative approach for broad searches)
+    # DEFAULT: Not relevant (strict whitelist)
     return False
 
 
@@ -195,6 +237,18 @@ def matches_criteria(title: str) -> bool:
         return False
 
     return True
+
+
+def is_relevant_title(title: str) -> bool:
+    """Check if title matches GTM leadership criteria using strict regex patterns.
+
+    Used for company-targeted searches where we need tighter filtering
+    since all results are from a known company.
+    """
+    has_seniority = any(re.search(p, title, re.IGNORECASE) for p in VALID_TITLE_PATTERNS)
+    has_function = any(re.search(p, title, re.IGNORECASE) for p in VALID_FUNCTION_PATTERNS)
+    is_excluded = any(re.search(p, title, re.IGNORECASE) for p in EXCLUDE_TITLE_PATTERNS)
+    return has_seniority and has_function and not is_excluded
 
 
 def extract_jobs_from_page(page) -> list:
@@ -325,8 +379,8 @@ def run(dry_run: bool = False, input_file: str = None, headed: bool = False) -> 
         name = c.get("company", "").strip().lower()
         if name:
             known_companies.add(name)
-    # Include the hardcoded watchlist from skill.md
-    for name in WATCHLIST_COMPANIES:
+    # Include the hardcoded wealthtech companies
+    for name in KNOWN_WEALTHTECH_COMPANIES:
         known_companies.add(name.strip().lower())
     print(f"Known fintech companies for filtering: {len(known_companies)}")
 
@@ -400,9 +454,9 @@ def run(dry_run: bool = False, input_file: str = None, headed: bool = False) -> 
                 if is_wealth_tech_query:
                     relevant = [j for j in matching
                                 if is_wealth_experience_relevant(j["title"])
-                                or is_fintech_relevant(j["company"], known_companies)]
+                                or is_relevant_company(j["company"], known_companies)]
                 else:
-                    relevant = [j for j in matching if is_fintech_relevant(j["company"], known_companies)]
+                    relevant = [j for j in matching if is_relevant_company(j["company"], known_companies)]
 
                 queries_log.append({
                     "query": keywords,
@@ -441,7 +495,8 @@ def run(dry_run: bool = False, input_file: str = None, headed: bool = False) -> 
                     print(f"  [{i}/{len(high_companies)}] {name}...")
 
                     raw_jobs = run_company_search(page, name)
-                    matching = [j for j in raw_jobs if matches_criteria(j["title"])]
+                    # Use strict regex-based title filter for company-targeted results
+                    matching = [j for j in raw_jobs if is_relevant_title(j["title"])]
 
                     queries_log.append({
                         "query": f"Company: {name}",
