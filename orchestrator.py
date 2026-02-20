@@ -150,7 +150,8 @@ def send_email(new_roles: list, date: str):
     """Send email alert via SendGrid with new role findings."""
     api_key = os.environ.get("SENDGRID_API_KEY")
     from_email = os.environ.get("SENDGRID_FROM_EMAIL")
-    to_email = os.environ.get("SENDGRID_TO_EMAIL")
+    to_email_raw = os.environ.get("SENDGRID_TO_EMAIL", "")
+    to_email = [e.strip() for e in to_email_raw.split(",") if e.strip()]
 
     if not all([api_key, from_email, to_email]):
         print("SendGrid not configured (missing SENDGRID_API_KEY, SENDGRID_FROM_EMAIL, or SENDGRID_TO_EMAIL)")
