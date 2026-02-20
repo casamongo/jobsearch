@@ -162,19 +162,19 @@ def send_email(new_roles: list, date: str):
     from sendgrid.helpers.mail import Mail
 
     # Build HTML email body
+    td = 'style="padding: 8px; border-bottom: 1px solid #eee;"'
     rows = ""
     for role in new_roles:
         title = role.get("title", "?")
         url = role.get("url", "")
         title_html = f'<a href="{url}">{title}</a>' if url else title
+        startup = _is_startup(role.get("stage", "Unknown"))
         rows += f"""<tr>
-            <td style="padding: 8px; border-bottom: 1px solid #eee;">{role.get('company', '?')}</td>
-            <td style="padding: 8px; border-bottom: 1px solid #eee;">{role.get('stage', '?')}</td>
-            <td style="padding: 8px; border-bottom: 1px solid #eee;">{title_html}</td>
-            <td style="padding: 8px; border-bottom: 1px solid #eee;">{role.get('location', '?')}</td>
-            <td style="padding: 8px; border-bottom: 1px solid #eee;">{role.get('compensation', 'N/A')}</td>
-            <td style="padding: 8px; border-bottom: 1px solid #eee;">{role.get('source', '?')}</td>
-            <td style="padding: 8px; border-bottom: 1px solid #eee;">{role.get('segment', '?')}</td>
+            <td {td}>{role.get('company', '?')}</td>
+            <td {td}>{startup}</td>
+            <td {td}>{title_html}</td>
+            <td {td}>{role.get('location', '?')}</td>
+            <td {td}>{role.get('datePosted', '?')}</td>
         </tr>"""
 
     html = f"""
@@ -184,12 +184,10 @@ def send_email(new_roles: list, date: str):
         <thead>
             <tr style="background: #f5f5f5;">
                 <th style="padding: 8px; text-align: left;">Company</th>
-                <th style="padding: 8px; text-align: left;">Stage</th>
-                <th style="padding: 8px; text-align: left;">Title</th>
+                <th style="padding: 8px; text-align: left;">Startup?</th>
+                <th style="padding: 8px; text-align: left;">Role Name</th>
                 <th style="padding: 8px; text-align: left;">Location</th>
-                <th style="padding: 8px; text-align: left;">Comp</th>
-                <th style="padding: 8px; text-align: left;">Source</th>
-                <th style="padding: 8px; text-align: left;">Segment</th>
+                <th style="padding: 8px; text-align: left;">Date Posted</th>
             </tr>
         </thead>
         <tbody>{rows}</tbody>
