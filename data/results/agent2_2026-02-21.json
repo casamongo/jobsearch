@@ -1,0 +1,282 @@
+{
+  "roles": [
+    {
+      "company": "Vestwell",
+      "stage": "Series E",
+      "title": "VP, National Accounts & Advisory Enterprise Sales",
+      "url": "https://vestwell.com/careers",
+      "location": "Not specified",
+      "compensation": "Not disclosed",
+      "datePosted": "Recent",
+      "source": "Built In",
+      "segment": "PFMTech"
+    },
+    {
+      "company": "Vestwell",
+      "stage": "Series E",
+      "title": "VP of Special Markets - PEO",
+      "url": "https://vestwell.com/careers",
+      "location": "Orlando, FL",
+      "compensation": "Not disclosed",
+      "datePosted": "Recent",
+      "source": "Built In",
+      "segment": "PFMTech"
+    },
+    {
+      "company": "Vestwell",
+      "stage": "Series E",
+      "title": "Director of Enterprise Relationship Management",
+      "url": "https://vestwell.com/careers",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "Recent",
+      "source": "Built In / Indeed",
+      "segment": "PFMTech"
+    },
+    {
+      "company": "Vestwell",
+      "stage": "Series E",
+      "title": "Director, Relationship Management",
+      "url": "https://vestwell.com/careers",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "Recent",
+      "source": "Built In NYC",
+      "segment": "PFMTech"
+    },
+    {
+      "company": "Jump",
+      "stage": "Series B",
+      "title": "Partnerships Manager",
+      "url": "https://builtin.com/company/jump-advisor-ai/jobs",
+      "location": "Not specified",
+      "compensation": "Not disclosed",
+      "datePosted": "Recent",
+      "source": "Built In",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Addepar",
+      "stage": "Growth",
+      "title": "Head of Client Success - Core & Strategic",
+      "url": "https://job-boards.greenhouse.io/addepar1/jobs/8341066002",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "Recent",
+      "source": "Greenhouse",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Addepar",
+      "stage": "Growth",
+      "title": "VP - Product",
+      "url": "https://job-boards.greenhouse.io/addepar1/jobs/8125202002",
+      "location": "Multiple locations",
+      "compensation": "Not disclosed",
+      "datePosted": "Recent",
+      "source": "Greenhouse",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Addepar",
+      "stage": "Growth",
+      "title": "Manager, Business Development - Inside Sales",
+      "url": "https://job-boards.greenhouse.io/addepar1/jobs/8386980002",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "Recent",
+      "source": "Greenhouse",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Altruist",
+      "stage": "Growth",
+      "title": "Director of Product Marketing",
+      "url": "https://builtin.com/company/altruist/jobs",
+      "location": "Remote (US)",
+      "compensation": "Not disclosed",
+      "datePosted": "Recent",
+      "source": "Built In",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Altruist",
+      "stage": "Growth",
+      "title": "Director of Advisor Transitions",
+      "url": "https://www.indeed.com/viewjob?jk=6516fc8026e2ebf2",
+      "location": "Los Angeles, CA",
+      "compensation": "Not disclosed",
+      "datePosted": "Recent",
+      "source": "Indeed / Built In LA",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "CAIS",
+      "stage": "Growth",
+      "title": "Director of Strategic Partnerships",
+      "url": "https://www.builtinnyc.com/job/director-strategic-partnerships/4403275",
+      "location": "New York, NY",
+      "compensation": "$200,000 - $300,000",
+      "datePosted": "Recent",
+      "source": "Built In NYC",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Orion",
+      "stage": "Growth",
+      "title": "Business Development Consultant",
+      "url": "https://careers.ta.com/companies/orion-advisor-technology/jobs/37941934-business-development-consultant",
+      "location": "IL, MO, WI, OH, MI, IN",
+      "compensation": "Not disclosed",
+      "datePosted": "Recent",
+      "source": "TA Associates Job Board",
+      "segment": "WealthTech"
+    }
+  ],
+  "coverage": [
+    {
+      "company": "Vestwell",
+      "careers_url": "https://vestwell.com/careers",
+      "status": "checked",
+      "roles_found": 4
+    },
+    {
+      "company": "Jump",
+      "careers_url": "https://jump.tech/careers",
+      "status": "checked",
+      "roles_found": 1
+    },
+    {
+      "company": "iCapital",
+      "careers_url": "https://careers.smartrecruiters.com/ICapitalNetwork",
+      "status": "checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Addepar",
+      "careers_url": "https://job-boards.greenhouse.io/addepar1",
+      "status": "checked",
+      "roles_found": 3
+    },
+    {
+      "company": "Betterment",
+      "careers_url": "https://betterment.com/careers/current-openings",
+      "status": "checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Altruist",
+      "careers_url": "https://altruist.com/careers",
+      "status": "checked",
+      "roles_found": 2
+    },
+    {
+      "company": "Orion",
+      "careers_url": "https://orion.com/careers",
+      "status": "checked",
+      "roles_found": 1
+    },
+    {
+      "company": "FINNY",
+      "careers_url": "https://finny.ai/careers",
+      "status": "checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Avantos",
+      "careers_url": "https://avantos.com/careers",
+      "status": "no_careers_page",
+      "roles_found": 0
+    },
+    {
+      "company": "Nevis",
+      "careers_url": "https://nevis.ai/careers",
+      "status": "checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Dispatch",
+      "careers_url": "https://dispatch.tech/careers",
+      "status": "not_checked",
+      "roles_found": 0
+    },
+    {
+      "company": "CAIS",
+      "careers_url": "https://cais.com/careers",
+      "status": "checked",
+      "roles_found": 1
+    },
+    {
+      "company": "Pontera",
+      "careers_url": "https://pontera.com/careers",
+      "status": "not_checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Wealthfront",
+      "careers_url": "https://wealthfront.com/careers",
+      "status": "not_checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Farther",
+      "careers_url": "https://farther.com/careers",
+      "status": "checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Vanilla",
+      "careers_url": "https://usevanilla.com/careers",
+      "status": "not_checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Savvy Wealth",
+      "careers_url": "https://savvywealth.com/careers",
+      "status": "not_checked",
+      "roles_found": 0
+    },
+    {
+      "company": "LifeYield",
+      "careers_url": "https://lifeyield.com/careers",
+      "status": "not_checked",
+      "roles_found": 0
+    },
+    {
+      "company": "RightCapital",
+      "careers_url": "https://rightcapital.com/careers",
+      "status": "not_checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Conquest Planning",
+      "careers_url": "https://conquestplanning.com/careers",
+      "status": "not_checked",
+      "roles_found": 0
+    },
+    {
+      "company": "InvestCloud",
+      "careers_url": "https://investcloud.com/careers",
+      "status": "not_checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Advyzon",
+      "careers_url": "https://advyzon.com/careers",
+      "status": "not_checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Riskalyze / Nitrogen",
+      "careers_url": "https://nitrogen.com/careers",
+      "status": "not_checked",
+      "roles_found": 0
+    },
+    {
+      "company": "Dynasty Financial",
+      "careers_url": "https://dynastyfinancialpartners.com/careers",
+      "status": "not_checked",
+      "roles_found": 0
+    }
+  ]
+}
