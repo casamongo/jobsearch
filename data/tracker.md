@@ -139,3 +139,23 @@
 | 114 | Vitori Health | Yes | [Vice President of Channel Sales](https://www.linkedin.com/jobs/view/vice-president-of-channel-sales-at-vitori-health-4374058757) | Leawood, KS | 2026-02-19 |
 | 115 | The PCA Companies | Yes | [3PL Vice President, Business Development](https://www.linkedin.com/jobs/view/3pl-vice-president-business-development-at-the-pca-companies-4374925164) | Ronkonkoma, NY | 2026-02-21 |
 | 116 | Motive Software | Yes | [Director, Sales Enablement](https://www.linkedin.com/jobs/view/director-sales-enablement-at-motive-software-4374334947) | San Francisco, CA | 2026-02-20 |
+
+## 2026-02-22 — 17 new roles
+
+| 1 | Arietis Health | Unknown | [Vice President of Sales and Marketing](https://www.linkedin.com/jobs/view/vice-president-of-sales-and-marketing-at-arietis-health-4376311859) | Fort Myers, FL | 2026-02-21 |
+| 2 | Inhance | Unknown | [Business Development Director – Experiential & Immersive](https://www.linkedin.com/jobs/view/business-development-director-%E2%80%93-experiential-immersive-at-inhance-4373616540) | Los Angeles, CA | 2026-02-19 |
+| 3 | Tellerex | Yes | [Head of Sales](https://www.linkedin.com/jobs/view/head-of-sales-at-tellerex-4374945003) | Atlanta, GA | 2026-02-21 |
+| 4 | Repairify, Inc | Yes | [VP, Sales](https://www.linkedin.com/jobs/view/vp-sales-at-repairify-inc-4374099295) | United States | 2026-02-19 |
+| 5 | proman | Yes | [Vice President of Sales](https://www.linkedin.com/jobs/view/vice-president-of-sales-at-proman-4373793481) | New York, United States | 2026-02-22 |
+| 6 | Family Office | Yes | [Vice President of Business Development - Acquisitions](https://www.linkedin.com/jobs/view/vice-president-of-business-development-acquisitions-at-family-office-4374310449) | Irvine, CA | 2026-02-20 |
+| 7 | NEXDINE Hospitality | Yes | [Vice President of Business Development](https://www.linkedin.com/jobs/view/vice-president-of-business-development-at-nexdine-hospitality-4376313667) | United States | 2026-02-21 |
+| 8 | Wunderkind | Yes | [Director of Business Development, E-commerce](https://www.linkedin.com/jobs/view/director-of-business-development-e-commerce-at-wunderkind-4373147309) | New York City Metropolitan Area | 2026-02-19 |
+| 9 | Forbes | Yes | [Director, Creator Partnerships](https://www.linkedin.com/jobs/view/director-creator-partnerships-at-forbes-4375017972) | United States | 2026-02-18 |
+| 10 | Nexthink | No | [VP, Revenue Acceleration](https://www.linkedin.com/jobs/view/vp-revenue-acceleration-at-nexthink-4367655269) | Boston, MA | 2026-02-21 |
+| 11 | CoreWeave | No | [Global Vice President, Revenue Operations](https://www.linkedin.com/jobs/view/global-vice-president-revenue-operations-at-coreweave-4356911821) | New York, NY | 2026-02-21 |
+| 12 | Ocado Group | Yes | [Senior Director of Strategic Business Development](https://www.linkedin.com/jobs/view/senior-director-of-strategic-business-development-at-ocado-group-4374439868) | United States | 2026-02-18 |
+| 13 | Crocs, Inc. | Yes | [Director, Product Development - Brand Partnerships](https://www.linkedin.com/jobs/view/director-product-development-brand-partnerships-at-crocs-inc-4357072413) | Broomfield, CO | 2026-02-21 |
+| 14 | Fortune Brands Innovations | Yes | [VP, Business Development (Connected Products)](https://www.linkedin.com/jobs/view/vp-business-development-connected-products-at-fortune-brands-innovations-4374391594) | San Francisco, CA | 2026-02-20 |
+| 15 | Santander Bank, N.A. | Yes | [Head of Latam Loan Sales, Executive Director](https://www.linkedin.com/jobs/view/head-of-latam-loan-sales-executive-director-at-santander-bank-n-a-4372484479) | New York, NY | 2026-02-18 |
+| 16 | Private Company | Yes | [Sr. Director of Sales](https://www.linkedin.com/jobs/view/sr-director-of-sales-at-private-company-4374628437) | United States | 2026-02-20 |
+| 17 | Direct Recruiters, Inc. | Yes | [Vice President of Sales](https://www.linkedin.com/jobs/view/vice-president-of-sales-at-direct-recruiters-inc-4374614180) | United States | 2026-02-20 |
