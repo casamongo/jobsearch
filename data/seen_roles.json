@@ -1034,5 +1034,985 @@
     "first_seen": "2026-02-22",
     "url": "https://www.linkedin.com/jobs/view/vice-president-of-sales-at-direct-recruiters-inc-4374614180",
     "segment": "PFMTech"
+  },
+  "salesforce|svp, global gtm finance": {
+    "company": "Salesforce",
+    "title": "SVP, Global GTM Finance",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/svp-global-gtm-finance-at-salesforce-4369446130",
+    "segment": "Unknown"
+  },
+  "vestmark|vp, asset manager channel": {
+    "company": "Vestmark",
+    "title": "VP, Asset Manager Channel",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vp-asset-manager-channel-at-vestmark-4379049858",
+    "segment": "WealthTech (cross-industry)"
+  },
+  "goldman sachs|asset & wealth management, client solutions group, wealth alternatives specialist, new york - vice president": {
+    "company": "Goldman Sachs",
+    "title": "Asset & Wealth Management, Client Solutions Group, Wealth Alternatives Specialist, New York - Vice President",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/asset-wealth-management-client-solutions-group-wealth-alternatives-specialist-new-york-vice-president-at-goldman-sachs-4354741584",
+    "segment": "WealthTech (cross-industry)"
+  },
+  "skims|director, multi brand hybrid partnerships (east or west coast)": {
+    "company": "SKIMS",
+    "title": "Director, Multi Brand Hybrid Partnerships (East or West Coast)",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-multi-brand-hybrid-partnerships-east-or-west-coast-at-skims-4377459316",
+    "segment": "WealthTech"
+  },
+  "lands' end|vice president lands' end outfitter sales": {
+    "company": "Lands' End",
+    "title": "Vice President Lands' End Outfitter Sales",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-lands-end-outfitter-sales-at-lands-%E2%80%8B-end-4374291657",
+    "segment": "WealthTech"
+  },
+  "crg search|head of sales & merchandising": {
+    "company": "CRG Search",
+    "title": "Head of Sales & Merchandising",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/head-of-sales-merchandising-at-crg-search-4377950231",
+    "segment": "WealthTech"
+  },
+  "wyze|head of sales & business development": {
+    "company": "Wyze",
+    "title": "Head of Sales & Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/head-of-sales-business-development-at-wyze-4379241020",
+    "segment": "WealthTech"
+  },
+  "mci usa|vice president, sales": {
+    "company": "MCI USA",
+    "title": "Vice President, Sales",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-sales-at-mci-usa-4360037712",
+    "segment": "WealthTech"
+  },
+  "recom|vp of sales": {
+    "company": "Recom",
+    "title": "VP of Sales",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vp-of-sales-at-recom-4378087964",
+    "segment": "WealthTech"
+  },
+  "experian|business development director - oem partnerships (remote)": {
+    "company": "Experian",
+    "title": "Business Development Director - OEM Partnerships (Remote)",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/business-development-director-oem-partnerships-remote-at-experian-4377559160",
+    "segment": "WealthTech"
+  },
+  "mosaic capital partners|vice president of business development": {
+    "company": "Mosaic Capital Partners",
+    "title": "Vice President of Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-of-business-development-at-mosaic-capital-partners-4377169959",
+    "segment": "WealthTech"
+  },
+  "instrumentum|vp of business development": {
+    "company": "Instrumentum",
+    "title": "VP of Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vp-of-business-development-at-instrumentum-4378740532",
+    "segment": "WealthTech"
+  },
+  "proactivate|vice president of sales": {
+    "company": "ProActivate",
+    "title": "Vice President of Sales",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-of-sales-at-proactivate-4374508654",
+    "segment": "WealthTech"
+  },
+  "coforge|senior vice president of sales": {
+    "company": "Coforge",
+    "title": "Senior Vice President of Sales",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/senior-vice-president-of-sales-at-coforge-4377958957",
+    "segment": "WealthTech"
+  },
+  "roboze|vp, materials & ecosystem commercial partnerships": {
+    "company": "Roboze",
+    "title": "VP, Materials & Ecosystem Commercial Partnerships",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vp-materials-ecosystem-commercial-partnerships-at-roboze-4375544105",
+    "segment": "WealthTech"
+  },
+  "la clippers|vice president of new business ticket sales": {
+    "company": "LA Clippers",
+    "title": "Vice President of New Business Ticket Sales",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-of-new-business-ticket-sales-at-la-clippers-4369274542",
+    "segment": "WealthTech"
+  },
+  "innovocommerce|vice president of business development": {
+    "company": "InnovoCommerce",
+    "title": "Vice President of Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-of-business-development-at-innovocommerce-4375319484",
+    "segment": "WealthTech"
+  },
+  "trusight, llc|vice president sales & growth": {
+    "company": "TruSight, LLC",
+    "title": "Vice President Sales & Growth",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-sales-growth-at-trusight-llc-4379290888",
+    "segment": "WealthTech"
+  },
+  "patient.com|vp of growth and partnerships": {
+    "company": "Patient.com",
+    "title": "VP of Growth and Partnerships",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vp-of-growth-and-partnerships-at-patient-com-4375272062",
+    "segment": "WealthTech"
+  },
+  "beacon embeddedworks|vice president of global sales": {
+    "company": "Beacon EmbeddedWorks",
+    "title": "Vice President of Global Sales",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-of-global-sales-at-beacon-embeddedworks-4379272001",
+    "segment": "WealthTech"
+  },
+  "recom|vice president of sales": {
+    "company": "Recom",
+    "title": "Vice President of Sales",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-of-sales-at-recom-4378008011",
+    "segment": "WealthTech"
+  },
+  "amd|sr director- business development & strategy": {
+    "company": "AMD",
+    "title": "SR Director- Business Development & Strategy",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/sr-director-business-development-strategy-at-amd-4361720555",
+    "segment": "WealthTech"
+  },
+  "valor communication|vice president of business development": {
+    "company": "Valor Communication",
+    "title": "Vice President of Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-of-business-development-at-valor-communication-4377628196",
+    "segment": "WealthTech"
+  },
+  "ripple|business development senior director - capital markets": {
+    "company": "Ripple",
+    "title": "Business Development Senior Director - Capital Markets",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/business-development-senior-director-capital-markets-at-ripple-4368003802",
+    "segment": "WealthTech"
+  },
+  "ciresimorek|vice president of sales": {
+    "company": "CiresiMorek",
+    "title": "Vice President of Sales",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-of-sales-at-ciresimorek-4377941358",
+    "segment": "WealthTech"
+  },
+  "transcend|director of business development": {
+    "company": "Transcend",
+    "title": "Director of Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-of-business-development-at-transcend-4378302643",
+    "segment": "WealthTech"
+  },
+  "mrbeast|vp of brand partnerships, agency lead": {
+    "company": "MrBeast",
+    "title": "VP of Brand Partnerships, Agency Lead",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vp-of-brand-partnerships-agency-lead-at-mrbeast-4352963155",
+    "segment": "WealthTech"
+  },
+  "luster national|vice president, business development": {
+    "company": "Luster National",
+    "title": "Vice President, Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-business-development-at-luster-national-4377511266",
+    "segment": "WealthTech"
+  },
+  "andrews cooper|director of business development": {
+    "company": "Andrews Cooper",
+    "title": "Director of Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-of-business-development-at-andrews-cooper-4376213502",
+    "segment": "WealthTech"
+  },
+  "sirio pharma|vice president sales marketing": {
+    "company": "Sirio Pharma",
+    "title": "Vice President Sales Marketing",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-sales-marketing-at-sirio-pharma-4367036940",
+    "segment": "WealthTech"
+  },
+  "ups|sr. director of business development (flex location)": {
+    "company": "UPS",
+    "title": "Sr. Director of Business Development (Flex Location)",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/sr-director-of-business-development-flex-location-at-ups-4367290063",
+    "segment": "WealthTech"
+  },
+  "decagon|director, enterprise sales": {
+    "company": "Decagon",
+    "title": "Director, Enterprise Sales",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-enterprise-sales-at-decagon-4379291099",
+    "segment": "WealthTech"
+  },
+  "metropolis technologies|director, business development - aviation": {
+    "company": "Metropolis Technologies",
+    "title": "Director, Business Development - Aviation",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-business-development-aviation-at-metropolis-technologies-4376823311",
+    "segment": "WealthTech"
+  },
+  "airswift|senior vice president business development": {
+    "company": "Airswift",
+    "title": "Senior Vice President Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/senior-vice-president-business-development-at-airswift-4374532397",
+    "segment": "WealthTech"
+  },
+  "brandpoint|vice president sales & business development": {
+    "company": "Brandpoint",
+    "title": "Vice President Sales & Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-sales-business-development-at-brandpoint-4377936542",
+    "segment": "WealthTech"
+  },
+  "10eqs|vice president of sales": {
+    "company": "10EQS",
+    "title": "Vice President of Sales",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-of-sales-at-10eqs-4375589169",
+    "segment": "WealthTech"
+  },
+  "notedsource|director of sales - enterprise r&d": {
+    "company": "NotedSource",
+    "title": "Director of Sales - Enterprise R&D",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-of-sales-enterprise-r-d-at-notedsource-4378014828",
+    "segment": "WealthTech"
+  },
+  "tmc transportation|regional vice president of business development": {
+    "company": "TMC Transportation",
+    "title": "Regional Vice President of Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/regional-vice-president-of-business-development-at-tmc-transportation-4378025601",
+    "segment": "WealthTech"
+  },
+  "chamberlain advisors|vice president of business development, construction industry general contractor": {
+    "company": "Chamberlain Advisors",
+    "title": "Vice President of Business Development, Construction Industry General Contractor",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-of-business-development-construction-industry-general-contractor-at-chamberlain-advisors-4358858698",
+    "segment": "WealthTech"
+  },
+  "noble|director, field sales - navy and marine corps": {
+    "company": "NOBLE",
+    "title": "Director, Field Sales - Navy and Marine Corps",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-field-sales-navy-and-marine-corps-at-noble-4378654799",
+    "segment": "WealthTech"
+  },
+  "stable|head of sales": {
+    "company": "Stable",
+    "title": "Head of Sales",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/head-of-sales-at-stable-4379210273",
+    "segment": "WealthTech"
+  },
+  "calix|area vice president, demand generation and business development": {
+    "company": "Calix",
+    "title": "Area Vice President, Demand Generation and Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/area-vice-president-demand-generation-and-business-development-at-calix-4374516092",
+    "segment": "PFMTech"
+  },
+  "pepsico|new business development director \u2014 crafted beverages": {
+    "company": "PepsiCo",
+    "title": "New Business Development Director \u2014 Crafted Beverages",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/new-business-development-director-%E2%80%94-crafted-beverages-at-pepsico-4374532102",
+    "segment": "PFMTech"
+  },
+  "mclane company, inc.|national business development director (remote)": {
+    "company": "McLane Company, Inc.",
+    "title": "National Business Development Director (Remote)",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/national-business-development-director-remote-at-mclane-company-inc-4379245559",
+    "segment": "PFMTech"
+  },
+  "aduro advisors|head of sales and business development \u2013 west coast": {
+    "company": "Aduro Advisors",
+    "title": "Head of Sales and Business Development \u2013 West Coast",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/head-of-sales-and-business-development-%E2%80%93-west-coast-at-aduro-advisors-4374507926",
+    "segment": "PFMTech"
+  },
+  "exl|vice president life science sales leader (new logo)": {
+    "company": "EXL",
+    "title": "Vice President Life Science Sales Leader (New Logo)",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-life-science-sales-leader-new-logo-at-exl-4376410953",
+    "segment": "PFMTech"
+  },
+  "ridgepost capital|global client solutions business development \u2013 vice president": {
+    "company": "Ridgepost Capital",
+    "title": "Global Client Solutions Business Development \u2013 Vice President",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/global-client-solutions-business-development-%E2%80%93-vice-president-at-ridgepost-capital-4375752114",
+    "segment": "PFMTech"
+  },
+  "incedo inc.|vice president of new business development (financial services)": {
+    "company": "Incedo Inc.",
+    "title": "Vice President of New Business Development (Financial Services)",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-of-new-business-development-financial-services-at-incedo-inc-4375707761",
+    "segment": "PFMTech"
+  },
+  "missionhires|director of sales \u2013 (metal forming & laser cutting)": {
+    "company": "MissionHires",
+    "title": "Director of Sales \u2013 (Metal Forming & Laser Cutting)",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-of-sales-%E2%80%93-metal-forming-laser-cutting-at-missionhires-4379019962",
+    "segment": "PFMTech"
+  },
+  "nielseniq|vice president, cpg sales solutions": {
+    "company": "NielsenIQ",
+    "title": "Vice President, CPG Sales Solutions",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-cpg-sales-solutions-at-nielseniq-4354768862",
+    "segment": "PFMTech"
+  },
+  "peraton|director, business development": {
+    "company": "Peraton",
+    "title": "Director, Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-business-development-at-peraton-4376041060",
+    "segment": "PFMTech"
+  },
+  "devexperts|director, sales and business development": {
+    "company": "Devexperts",
+    "title": "Director, Sales and Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-sales-and-business-development-at-devexperts-4377403524",
+    "segment": "PFMTech"
+  },
+  "converse|senior director, sales - converse": {
+    "company": "Converse",
+    "title": "Senior Director, Sales - Converse",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/senior-director-sales-converse-at-converse-4377558402",
+    "segment": "PFMTech"
+  },
+  "telementum global|business development director - 3d": {
+    "company": "Telementum Global",
+    "title": "Business Development Director - 3D",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/business-development-director-3d-at-telementum-global-4377813327",
+    "segment": "PFMTech"
+  },
+  "fooda|director of business development-cafeteria replacement": {
+    "company": "Fooda",
+    "title": "Director of Business Development-Cafeteria Replacement",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-of-business-development-cafeteria-replacement-at-fooda-4375734840",
+    "segment": "PFMTech"
+  },
+  "crypto.com|head / director of institutional sales": {
+    "company": "Crypto.com",
+    "title": "Head / Director of Institutional Sales",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/head-director-of-institutional-sales-at-crypto-com-4358851040",
+    "segment": "PFMTech"
+  },
+  "trinet|executive director, revenue": {
+    "company": "TriNet",
+    "title": "Executive Director, Revenue",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/executive-director-revenue-at-trinet-4377458198",
+    "segment": "PFMTech"
+  },
+  "the coca-cola company|senior director, business development": {
+    "company": "The Coca-Cola Company",
+    "title": "Senior Director, Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/senior-director-business-development-at-the-coca-cola-company-4378741442",
+    "segment": "PFMTech"
+  },
+  "king features - a unit of hearst|director of business development": {
+    "company": "King Features - A unit of Hearst",
+    "title": "Director of Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-of-business-development-at-king-features-a-unit-of-hearst-4376430412",
+    "segment": "PFMTech"
+  },
+  "s&b usa construction & fay|director, business development": {
+    "company": "S&B USA Construction & Fay",
+    "title": "Director, Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-business-development-at-s-b-usa-construction-fay-4377866485",
+    "segment": "PFMTech"
+  },
+  "cvrx | barostim|area sales director": {
+    "company": "CVRx | Barostim",
+    "title": "Area Sales Director",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/area-sales-director-at-cvrx-barostim-4378253387",
+    "segment": "PFMTech"
+  },
+  "google fiber|head of sales, nevada": {
+    "company": "Google Fiber",
+    "title": "Head of Sales, Nevada",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/head-of-sales-nevada-at-google-fiber-4379081873",
+    "segment": "InvestmentTech"
+  },
+  "wpromote|vice president, revenue operations and enablement": {
+    "company": "Wpromote",
+    "title": "Vice President, Revenue Operations and Enablement",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-revenue-operations-and-enablement-at-wpromote-4342441978",
+    "segment": "InvestmentTech"
+  },
+  "betco corporation|regional sales director": {
+    "company": "Betco Corporation",
+    "title": "Regional Sales Director",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/regional-sales-director-at-betco-corporation-4377957547",
+    "segment": "InvestmentTech"
+  },
+  "ayming|head of sales/vp of sales - usa": {
+    "company": "Ayming",
+    "title": "Head of Sales/VP of Sales - USA",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/head-of-sales-vp-of-sales-usa-at-ayming-4375208700",
+    "segment": "InvestmentTech"
+  },
+  "lensa|head of sales development": {
+    "company": "Lensa",
+    "title": "Head of Sales Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/head-of-sales-development-at-lensa-4379547086",
+    "segment": "InvestmentTech"
+  },
+  "compass surgical partners|vice president of business development (same store growth)": {
+    "company": "Compass Surgical Partners",
+    "title": "Vice President of Business Development (Same Store Growth)",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-of-business-development-same-store-growth-at-compass-surgical-partners-4330429147",
+    "segment": "InvestmentTech"
+  },
+  "hellermanntyton north america|executive director of oem sales": {
+    "company": "HellermannTyton North America",
+    "title": "Executive Director of OEM Sales",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/executive-director-of-oem-sales-at-hellermanntyton-north-america-4377622286",
+    "segment": "InvestmentTech"
+  },
+  "noble|director of business development, navy and marine corps": {
+    "company": "NOBLE",
+    "title": "Director of Business Development, Navy and Marine Corps",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-of-business-development-navy-and-marine-corps-at-noble-4378670112",
+    "segment": "InvestmentTech"
+  },
+  "wealth access|vice president of client success": {
+    "company": "Wealth Access",
+    "title": "Vice President of Client Success",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-of-client-success-at-wealth-access-4374527554",
+    "segment": "InvestmentTech"
+  },
+  "brightstar care|director of sales and business development": {
+    "company": "BrightStar Care",
+    "title": "Director of Sales And Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-of-sales-and-business-development-at-brightstar-care-4376424523",
+    "segment": "InvestmentTech"
+  },
+  "lummus technology|global director, business development - chevron lummus global": {
+    "company": "Lummus Technology",
+    "title": "Global Director, Business Development - Chevron Lummus Global",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/global-director-business-development-chevron-lummus-global-at-lummus-technology-4379053157",
+    "segment": "InvestmentTech"
+  },
+  "coldtrack - perishable fulfillment solutions|director, business development": {
+    "company": "ColdTrack - Perishable Fulfillment Solutions",
+    "title": "Director, Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-business-development-at-coldtrack-perishable-fulfillment-solutions-4377054829",
+    "segment": "InvestmentTech"
+  },
+  "orion solutions group|senior director of business development-drayage": {
+    "company": "Orion Solutions Group",
+    "title": "Senior Director of Business Development-Drayage",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/senior-director-of-business-development-drayage-at-orion-solutions-group-4257742663",
+    "segment": "InvestmentTech"
+  },
+  "goodall brazier|director of business development": {
+    "company": "Goodall Brazier",
+    "title": "Director of Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-of-business-development-at-goodall-brazier-4375751287",
+    "segment": "WealthTech"
+  },
+  "worktech180|director of business development": {
+    "company": "worktech180",
+    "title": "Director of Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-of-business-development-at-worktech180-4374825137",
+    "segment": "WealthTech"
+  },
+  "ensemble health partners|vp revenue cycle": {
+    "company": "Ensemble Health Partners",
+    "title": "VP Revenue Cycle",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vp-revenue-cycle-at-ensemble-health-partners-4375749366",
+    "segment": "WealthTech"
+  },
+  "discover international|director of business development": {
+    "company": "Discover International",
+    "title": "Director of Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-of-business-development-at-discover-international-4374295762",
+    "segment": "WealthTech"
+  },
+  "scatec asa|head of business development": {
+    "company": "Scatec ASA",
+    "title": "Head of Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/head-of-business-development-at-scatec-asa-4376802449",
+    "segment": "WealthTech"
+  },
+  "edo|director, media partnerships": {
+    "company": "EDO",
+    "title": "Director, Media Partnerships",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-media-partnerships-at-edo-4377451699",
+    "segment": "WealthTech"
+  },
+  "bondflow inc.|head of capital partnerships \u2013 us (private credit | wealth & ria distribution)": {
+    "company": "Bondflow Inc.",
+    "title": "Head of Capital Partnerships \u2013 US (Private Credit | Wealth & RIA Distribution)",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/head-of-capital-partnerships-%E2%80%93-us-private-credit-wealth-ria-distribution-at-bondflow-inc-4374294660",
+    "segment": "InvestmentTech"
+  },
+  "playfly sports|vp, corporate partnerships": {
+    "company": "Playfly Sports",
+    "title": "VP, Corporate Partnerships",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vp-corporate-partnerships-at-playfly-sports-4376431585",
+    "segment": "InvestmentTech"
+  },
+  "blue owl capital|institutional capital, business development, vice president": {
+    "company": "Blue Owl Capital",
+    "title": "Institutional Capital, Business Development, Vice President",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/institutional-capital-business-development-vice-president-at-blue-owl-capital-4378627421",
+    "segment": "InvestmentTech"
+  },
+  "shipperhq|head of agency partnerships": {
+    "company": "ShipperHQ",
+    "title": "Head of Agency Partnerships",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/head-of-agency-partnerships-at-shipperhq-4375237675",
+    "segment": "InvestmentTech"
+  },
+  "above security|head of gtm and partnerships": {
+    "company": "Above Security",
+    "title": "Head of GTM and Partnerships",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/head-of-gtm-and-partnerships-at-above-security-4377888024",
+    "segment": "InvestmentTech"
+  },
+  "united talent agency|director, licensing & business development": {
+    "company": "United Talent Agency",
+    "title": "Director, Licensing & Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-licensing-business-development-at-united-talent-agency-4374865488",
+    "segment": "InvestmentTech"
+  },
+  "rakuten rewards|vp, partnerships": {
+    "company": "Rakuten Rewards",
+    "title": "VP, Partnerships",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vp-partnerships-at-rakuten-rewards-4369245935",
+    "segment": "InvestmentTech"
+  },
+  "corner alliance|director of growth and partnerships": {
+    "company": "Corner Alliance",
+    "title": "Director of Growth and Partnerships",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-of-growth-and-partnerships-at-corner-alliance-4378082137",
+    "segment": "InvestmentTech"
+  },
+  "quinstreet|director, strategic partnerships": {
+    "company": "QuinStreet",
+    "title": "Director, Strategic Partnerships",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-strategic-partnerships-at-quinstreet-4368019767",
+    "segment": "InvestmentTech"
+  },
+  "vector media|vp, brand partnerships": {
+    "company": "Vector Media",
+    "title": "VP, Brand Partnerships",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vp-brand-partnerships-at-vector-media-4375229347",
+    "segment": "InvestmentTech"
+  },
+  "dragonfly|head of business development - dragonfly portfolio": {
+    "company": "Dragonfly",
+    "title": "Head of Business Development - Dragonfly Portfolio",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/head-of-business-development-dragonfly-portfolio-at-dragonfly-4375551240",
+    "segment": "InvestmentTech"
+  },
+  "testlio|vice president, ecosystem partnerships": {
+    "company": "Testlio",
+    "title": "Vice President, Ecosystem Partnerships",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-ecosystem-partnerships-at-testlio-4369636696",
+    "segment": "InvestmentTech"
+  },
+  "samba tv|director of business development": {
+    "company": "Samba TV",
+    "title": "Director of Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-of-business-development-at-samba-tv-4368473128",
+    "segment": "InvestmentTech"
+  },
+  "nvidia|director, business development - enterprise games industry": {
+    "company": "NVIDIA",
+    "title": "Director, Business Development - Enterprise Games Industry",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-business-development-enterprise-games-industry-at-nvidia-4377482701",
+    "segment": "InvestmentTech"
+  },
+  "17track|director of strategic partnerships (marketplace | e-commerce | saas | fintech)": {
+    "company": "17TRACK",
+    "title": "Director of Strategic Partnerships (Marketplace | E-commerce | SaaS | Fintech)",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-of-strategic-partnerships-marketplace-e-commerce-saas-fintech-at-17track-4377292906",
+    "segment": "InvestmentTech"
+  },
+  "backd business funding|vice president of partnerships": {
+    "company": "Backd Business Funding",
+    "title": "Vice President of Partnerships",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-of-partnerships-at-backd-business-funding-4375539864",
+    "segment": "InvestmentTech"
+  },
+  "the knot worldwide|vp, global partnerships & media": {
+    "company": "The Knot Worldwide",
+    "title": "VP, Global Partnerships & Media",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vp-global-partnerships-media-at-the-knot-worldwide-4377286239",
+    "segment": "InvestmentTech"
+  },
+  "herschend family entertainment|vice president, commercial partnerships": {
+    "company": "Herschend Family Entertainment",
+    "title": "Vice President, Commercial Partnerships",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-commercial-partnerships-at-herschend-family-entertainment-4376988497",
+    "segment": "InvestmentTech"
+  },
+  "zrg careers|director (turnaround & restructuring growing consulting company)": {
+    "company": "ZRG Careers",
+    "title": "Director (Turnaround & Restructuring Growing Consulting Company)",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-turnaround-restructuring-growing-consulting-company-at-zrg-careers-4376809542",
+    "segment": "WealthTech"
+  },
+  "openai|partner director, head of technology partnerships": {
+    "company": "OpenAI",
+    "title": "Partner Director, Head of Technology Partnerships",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/partner-director-head-of-technology-partnerships-at-openai-4374293548",
+    "segment": "WealthTech"
+  },
+  "google|head of learning partnerships, youtube": {
+    "company": "Google",
+    "title": "Head of Learning Partnerships, YouTube",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/head-of-learning-partnerships-youtube-at-google-4375395756",
+    "segment": "WealthTech"
+  },
+  "yates construction|industrial e&c business development director": {
+    "company": "Yates Construction",
+    "title": "Industrial E&C Business Development Director",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/industrial-e-c-business-development-director-at-yates-construction-4377411347",
+    "segment": "WealthTech"
+  },
+  "bae systems, inc.|business development director - air transport": {
+    "company": "BAE Systems, Inc.",
+    "title": "Business Development Director - Air Transport",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/business-development-director-air-transport-at-bae-systems-inc-4374529528",
+    "segment": "WealthTech"
+  },
+  "stelvio inc.|director of business development": {
+    "company": "Stelvio Inc.",
+    "title": "Director of Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-of-business-development-at-stelvio-inc-4376802433",
+    "segment": "WealthTech"
+  },
+  "nvidia|global head of business development, digital health": {
+    "company": "NVIDIA",
+    "title": "Global Head of Business Development, Digital Health",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/global-head-of-business-development-digital-health-at-nvidia-4377414881",
+    "segment": "WealthTech"
+  },
+  "rockitdata|senior director/vp of business development - military & veterans health": {
+    "company": "rockITdata",
+    "title": "Senior Director/VP of Business Development - Military & Veterans Health",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/senior-director-vp-of-business-development-military-veterans-health-at-rockitdata-4374522650",
+    "segment": "WealthTech"
+  },
+  "yates construction|e&c industrial business development director (birmingham, al)": {
+    "company": "Yates Construction",
+    "title": "E&C Industrial Business Development Director (Birmingham, AL)",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/e-c-industrial-business-development-director-birmingham-al-at-yates-construction-4377042138",
+    "segment": "WealthTech"
+  },
+  "829 studios|director of partnerships": {
+    "company": "829 Studios",
+    "title": "Director of Partnerships",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-of-partnerships-at-829-studios-4376838357",
+    "segment": "WealthTech"
+  },
+  "red nucleus|director business development, r&d services": {
+    "company": "Red Nucleus",
+    "title": "Director Business Development, R&D Services",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-business-development-r-d-services-at-red-nucleus-4374591401",
+    "segment": "WealthTech"
+  },
+  "axios|director, axios live partnerships": {
+    "company": "Axios",
+    "title": "Director, Axios Live Partnerships",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-axios-live-partnerships-at-axios-4377043070",
+    "segment": "WealthTech"
+  },
+  "slc management|managing director, u.s. business development - slc management": {
+    "company": "SLC Management",
+    "title": "Managing Director, U.S. Business Development - SLC Management",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/managing-director-u-s-business-development-slc-management-at-slc-management-4310754274",
+    "segment": "WealthTech"
+  },
+  "umotif|business development director - eclinical technology": {
+    "company": "uMotif",
+    "title": "Business Development Director - eClinical Technology",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/business-development-director-eclinical-technology-at-umotif-4376554847",
+    "segment": "WealthTech"
+  },
+  "danzas|head of business development, oms noram (us & canada)": {
+    "company": "Danzas",
+    "title": "Head of Business Development, OMS NORAM (US & Canada)",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/head-of-business-development-oms-noram-us-canada-at-danzas-4375287364",
+    "segment": "WealthTech"
+  },
+  "helen m. simpson rehabilitation hospital|director of business development - inpatient rehabilitation": {
+    "company": "Helen M. Simpson Rehabilitation Hospital",
+    "title": "Director of Business Development - Inpatient Rehabilitation",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-of-business-development-inpatient-rehabilitation-at-helen-m-simpson-rehabilitation-hospital-4377408639",
+    "segment": "WealthTech"
+  },
+  "vanco|head of payments strategy & partnerships": {
+    "company": "Vanco",
+    "title": "Head of Payments Strategy & Partnerships",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/head-of-payments-strategy-partnerships-at-vanco-4377281407",
+    "segment": "WealthTech"
+  },
+  "upmetrics|vice president of client success": {
+    "company": "UpMetrics",
+    "title": "Vice President of Client Success",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-of-client-success-at-upmetrics-4379553123",
+    "segment": "WealthTech"
+  },
+  "premarket|head of sales": {
+    "company": "Premarket",
+    "title": "Head of Sales",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/head-of-sales-at-premarket-4379571291",
+    "segment": "WealthTech"
+  },
+  "sotalent|director of national account sales - life sciences (east coast, usa)": {
+    "company": "SoTalent",
+    "title": "Director of National Account Sales - Life Sciences (East Coast, USA)",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-of-national-account-sales-life-sciences-east-coast-usa-at-sotalent-4376654436",
+    "segment": "WealthTech"
+  },
+  "bond|director, business development": {
+    "company": "Bond",
+    "title": "Director, Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-business-development-at-bond-4376936599",
+    "segment": "WealthTech"
+  },
+  "jupiter capital management llc|vp, business development & client relationships": {
+    "company": "Jupiter Capital Management LLC",
+    "title": "VP, Business Development & Client Relationships",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vp-business-development-client-relationships-at-jupiter-capital-management-llc-4377915080",
+    "segment": "WealthTech"
+  },
+  "mkg|business development director": {
+    "company": "MKG",
+    "title": "Business Development Director",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/business-development-director-at-mkg-4360041331",
+    "segment": "InvestmentTech"
+  },
+  "camp4 therapeutics|director of business development": {
+    "company": "CAMP4 Therapeutics",
+    "title": "Director of Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-of-business-development-at-camp4-therapeutics-4378069251",
+    "segment": "InvestmentTech"
+  },
+  "loopme|director of revenue operations": {
+    "company": "LoopMe",
+    "title": "Director of Revenue Operations",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-of-revenue-operations-at-loopme-4369848129",
+    "segment": "InvestmentTech"
+  },
+  "merge|director of business development": {
+    "company": "Merge",
+    "title": "Director of Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-of-business-development-at-merge-4377413301",
+    "segment": "InvestmentTech"
+  },
+  "happiest minds technologies|senior director business development": {
+    "company": "Happiest Minds Technologies",
+    "title": "Senior Director Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/senior-director-business-development-at-happiest-minds-technologies-4376713321",
+    "segment": "InvestmentTech"
+  },
+  "vaco|business development director": {
+    "company": "Vaco",
+    "title": "Business Development Director",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/business-development-director-at-vaco-4169983347",
+    "segment": "InvestmentTech"
+  },
+  "pharmaessentia|associate director, corporate strategy & business development": {
+    "company": "PharmaEssentia",
+    "title": "Associate Director, Corporate Strategy & Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/associate-director-corporate-strategy-business-development-at-pharmaessentia-4377542158",
+    "segment": "InvestmentTech"
+  },
+  "saddle creek logistics services|sr. director, business development": {
+    "company": "Saddle Creek Logistics Services",
+    "title": "Sr. Director, Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/sr-director-business-development-at-saddle-creek-logistics-services-4377874387",
+    "segment": "InvestmentTech"
+  },
+  "avixa|sr. director, global business development": {
+    "company": "AVIXA",
+    "title": "Sr. Director, Global Business Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/sr-director-global-business-development-at-avixa-4356417703",
+    "segment": "InvestmentTech"
+  },
+  "xometry|vice president, sales engineering": {
+    "company": "Xometry",
+    "title": "Vice President, Sales Engineering",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-sales-engineering-at-xometry-4275009961",
+    "segment": "InvestmentTech"
+  },
+  "gusto|head of revenue analytics": {
+    "company": "Gusto",
+    "title": "Head of Revenue Analytics",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/head-of-revenue-analytics-at-gusto-4308608592",
+    "segment": "AssetMgmtTech"
+  },
+  "convoso|[remote] sr director of revenue operations & business analytics": {
+    "company": "Convoso",
+    "title": "[Remote] Sr Director of Revenue Operations & Business Analytics",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/remote-sr-director-of-revenue-operations-business-analytics-at-convoso-4360067569",
+    "segment": "AssetMgmtTech"
+  },
+  "hhm hotels|area director of revenue management": {
+    "company": "HHM Hotels",
+    "title": "Area Director of Revenue Management",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/area-director-of-revenue-management-at-hhm-hotels-4369952374",
+    "segment": "AssetMgmtTech"
+  },
+  "pet life unlimited|director, sales-ecommerce": {
+    "company": "Pet Life Unlimited",
+    "title": "Director, Sales-Ecommerce",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-sales-ecommerce-at-pet-life-unlimited-4379082002",
+    "segment": "PFMTech"
+  },
+  "vault sports|head of performance partnerships (mobile apps \u2013 finance)": {
+    "company": "Vault Sports",
+    "title": "Head of Performance Partnerships (Mobile Apps \u2013 Finance)",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/head-of-performance-partnerships-mobile-apps-%E2%80%93-finance-at-vault-sports-4375734703",
+    "segment": "PFMTech"
+  },
+  "confido|director of sales development": {
+    "company": "Confido",
+    "title": "Director of Sales Development",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-of-sales-development-at-confido-4378260740",
+    "segment": "InvestmentTech"
+  },
+  "braze|senior sales director, strategic retail": {
+    "company": "Braze",
+    "title": "Senior Sales Director, Strategic Retail",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/senior-sales-director-strategic-retail-at-braze-4379055887",
+    "segment": "InvestmentTech"
+  },
+  "lensa|vice president - key account sales": {
+    "company": "Lensa",
+    "title": "Vice President - Key Account Sales",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-key-account-sales-at-lensa-4379530915",
+    "segment": "InvestmentTech"
+  },
+  "wilson daniels wholesale|director of sales": {
+    "company": "Wilson Daniels Wholesale",
+    "title": "Director of Sales",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/director-of-sales-at-wilson-daniels-wholesale-4377974831",
+    "segment": "InvestmentTech"
+  },
+  "synectics inc.|vice president of sales": {
+    "company": "Synectics Inc.",
+    "title": "Vice President of Sales",
+    "first_seen": "2026-03-01",
+    "url": "https://www.linkedin.com/jobs/view/vice-president-of-sales-at-synectics-inc-4373144396",
+    "segment": "InvestmentTech"
   }
 }
