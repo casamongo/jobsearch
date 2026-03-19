@@ -1,0 +1,301 @@
+{
+  "roles": [
+    {
+      "company": "Addepar",
+      "stage": "Growth/Late Stage",
+      "title": "VP - Product",
+      "url": "https://job-boards.greenhouse.io/addepar1/jobs/8125202002",
+      "location": "Not specified",
+      "compensation": "Not disclosed",
+      "datePosted": "2026",
+      "source": "Greenhouse",
+      "isNew": false,
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Addepar",
+      "stage": "Growth/Late Stage",
+      "title": "Head of Client Success - Core & Strategic",
+      "url": "https://job-boards.greenhouse.io/addepar1/jobs/8341066002",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026",
+      "source": "Greenhouse",
+      "isNew": false,
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Addepar",
+      "stage": "Growth/Late Stage",
+      "title": "Sr. Director, Core Product",
+      "url": "https://job-boards.greenhouse.io/addepar1/jobs/8143201002",
+      "location": "Not specified",
+      "compensation": "$230,000 - $325,000 + bonus + equity + benefits",
+      "datePosted": "2026",
+      "source": "Greenhouse",
+      "isNew": false,
+      "segment": "WealthTech"
+    },
+    {
+      "company": "iCapital",
+      "stage": "Growth/Late Stage",
+      "title": "Midwest Regional Director - Vice President / Senior Vice President",
+      "url": "https://job-boards.greenhouse.io/icapitalnetwork",
+      "location": "Not specified",
+      "compensation": "Not disclosed",
+      "datePosted": "2026",
+      "source": "Greenhouse",
+      "isNew": false,
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "iCapital",
+      "stage": "Growth/Late Stage",
+      "title": "Asset Manager Solutions EMEA - Vice President",
+      "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8323207002",
+      "location": "London",
+      "compensation": "Not disclosed",
+      "datePosted": "2026",
+      "source": "Greenhouse",
+      "isNew": false,
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "iCapital",
+      "stage": "Growth/Late Stage",
+      "title": "Retirement Sales and Client Services - Vice President / Senior Vice President",
+      "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8155229002",
+      "location": "Not specified",
+      "compensation": "Not disclosed",
+      "datePosted": "2026",
+      "source": "Greenhouse",
+      "isNew": false,
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Pontera",
+      "stage": "Growth",
+      "title": "VP of Sales",
+      "url": "https://www.linkedin.com/jobs/view/vp-of-sales-at-pontera-3775810215",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "Not specified",
+      "source": "LinkedIn",
+      "isNew": false,
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Altruist",
+      "stage": "Series F",
+      "title": "Senior Sales Engineering leader",
+      "url": "https://www.indeed.com/cmp/Altruist",
+      "location": "San Francisco, CA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026",
+      "source": "Indeed",
+      "isNew": false,
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Betterment",
+      "stage": "Growth/Late Stage",
+      "title": "Director, Broker-Dealer Operations",
+      "url": "https://boards.greenhouse.io/embed/job_board?for=betterment",
+      "location": "New York City",
+      "compensation": "Not disclosed",
+      "datePosted": "2026",
+      "source": "Greenhouse",
+      "isNew": false,
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Betterment",
+      "stage": "Growth/Late Stage",
+      "title": "Sr. Director, Compliance",
+      "url": "https://boards.greenhouse.io/embed/job_board?for=betterment",
+      "location": "New York City",
+      "compensation": "Not disclosed",
+      "datePosted": "2026",
+      "source": "Greenhouse",
+      "isNew": false,
+      "segment": "WealthTech"
+    }
+  ],
+  "coverage": [
+    {
+      "company": "Altruist",
+      "careers_url": "https://altruist.com/careers/",
+      "status": "checked",
+      "roles_found": 1,
+      "notes": "Found senior sales engineering leadership role; company has multiple open positions but limited GTM director+ roles posted"
+    },
+    {
+      "company": "Savvy Wealth",
+      "careers_url": "https://www.savvywealth.com/blog-posts/starting-fa-or-ria",
+      "status": "invalid_careers_url",
+      "roles_found": 0,
+      "notes": "Provided URL is not a careers page; could not locate official careers page"
+    },
+    {
+      "company": "Jump",
+      "careers_url": "Not disclosed",
+      "status": "no_careers_page",
+      "roles_found": 0,
+      "notes": "No careers URL provided in input data"
+    },
+    {
+      "company": "iCapital",
+      "careers_url": "https://icapital.com/careers/",
+      "status": "checked",
+      "roles_found": 3,
+      "notes": "Active Greenhouse board with multiple VP and Director roles in sales, client services, and business development"
+    },
+    {
+      "company": "CAIS",
+      "careers_url": "https://cais.com/careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Careers page accessible but no director+ GTM leadership roles currently posted; mainly analyst and associate level positions"
+    },
+    {
+      "company": "Yieldstreet (Willow Wealth)",
+      "careers_url": "https://www.willowwealth.com",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not checked due to search budget limitations"
+    },
+    {
+      "company": "Pontera",
+      "careers_url": "https://www.pontera.com/careers",
+      "status": "checked",
+      "roles_found": 1,
+      "notes": "Found VP of Sales role on LinkedIn; Greenhouse board available but limited director+ GTM roles"
+    },
+    {
+      "company": "Addepar",
+      "careers_url": "https://job-boards.greenhouse.io/addepar1",
+      "status": "checked",
+      "roles_found": 3,
+      "notes": "Multiple director and VP level roles in product, client success; strong hiring activity with 28+ open positions"
+    },
+    {
+      "company": "Orion Advisor Solutions",
+      "careers_url": "https://orionadvisor.wd1.myworkdayjobs.com/en-US/Orion_Careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Workday careers page accessible but no specific director+ GTM leadership roles identified during search; 17+ open roles reported"
+    },
+    {
+      "company": "Betterment",
+      "careers_url": "https://www.betterment.com/careers/current-openings",
+      "status": "checked",
+      "roles_found": 2,
+      "notes": "Found director-level roles in operations and compliance; mainly senior manager and IC roles"
+    },
+    {
+      "company": "Nitrogen (formerly Riskalyze)",
+      "careers_url": "https://nitrogenwealth.com",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not checked due to search budget limitations"
+    },
+    {
+      "company": "Envestnet",
+      "careers_url": "https://careers.envestnet.com/",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not checked due to search budget limitations"
+    },
+    {
+      "company": "Human Interest",
+      "careers_url": "https://humaninterest.com",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not checked due to search budget limitations"
+    },
+    {
+      "company": "Guideline",
+      "careers_url": "https://www.guideline.com",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not checked due to search budget limitations"
+    },
+    {
+      "company": "401GO",
+      "careers_url": "https://401go.com",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Careers page found at 401go.zohorecruit.com; leadership team includes SVP Strategic Partnerships but no current director+ GTM openings posted"
+    },
+    {
+      "company": "Vestwell",
+      "careers_url": "https://www.vestwell.com",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not checked due to search budget limitations"
+    },
+    {
+      "company": "Empower",
+      "careers_url": "https://www.empower.com",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not checked due to search budget limitations"
+    },
+    {
+      "company": "Farther",
+      "careers_url": "https://www.farther.com",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Careers page accessible but no specific director+ GTM roles posted; company has strong growth but limited public job listings"
+    },
+    {
+      "company": "RightCapital",
+      "careers_url": "https://www.rightcapital.com",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Leadership team includes SVP Sales, VP Partnerships; currently only SDR and sales associate roles posted; only 2-3 open positions"
+    },
+    {
+      "company": "Conquest Planning",
+      "careers_url": "https://www.conquestplanning.com",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Careers page exists; leadership includes VP US Distribution; no current director+ GTM openings posted"
+    },
+    {
+      "company": "Vise",
+      "careers_url": "https://www.vise.com",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not checked due to search budget limitations"
+    },
+    {
+      "company": "Hightower",
+      "careers_url": "https://hightoweradvisors.com/careers.html",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not checked due to search budget limitations"
+    },
+    {
+      "company": "Wealthfront",
+      "careers_url": "https://www.wealthfront.com",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not checked due to search budget limitations"
+    },
+    {
+      "company": "Titan",
+      "careers_url": "https://www.titan.com",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not checked due to search budget limitations"
+    },
+    {
+      "company": "SmartAsset",
+      "careers_url": "https://www.smartasset.com",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not checked due to search budget limitations"
+    }
+  ]
+}
