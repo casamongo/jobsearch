@@ -446,3 +446,47 @@
 | 139 | Pactiv Evergreen Inc. | Yes | [Director, Sales](https://www.linkedin.com/jobs/view/director-sales-at-pactiv-evergreen-inc-4387657468) | United States | 2026-03-19 |
 | 140 | XR Extreme Reach | Yes | [VP, Strategic Growth Sales](https://www.linkedin.com/jobs/view/vp-strategic-growth-sales-at-xr-extreme-reach-4387472537) | New York, NY | 2026-03-18 |
 | 141 | Kabtec Executive Search | Yes | [Sales Director / VP of Sales](https://www.linkedin.com/jobs/view/sales-director-vp-of-sales-at-kabtec-executive-search-4387609239) | United States | 2026-03-19 |
+
+## 2026-03-20 — 41 new roles
+
+| 1 | CLEAR | Unknown | [VP, Sales - GovTech](https://www.linkedin.com/jobs/view/vp-sales-govtech-at-clear-4388131964) | Washington, DC | 2026-03-19 |
+| 2 | Agora | Yes | [Director of Go-To-Market Enablement](https://www.linkedin.com/jobs/view/director-of-go-to-market-enablement-at-agora-4370991602) | New York, NY | 2026-03-19 |
+| 3 | Allocate | Unknown | [Senior Director/ Director, RIA Relationship Management (Midwest)](https://www.linkedin.com/jobs/view/senior-director-director-ria-relationship-management-midwest-at-allocate-4387659436) | Palo Alto, CA | 2026-03-19 |
+| 4 | Syneos Health Commercial Solutions | Yes | [Director, Business Development - Early Phase](https://www.linkedin.com/jobs/view/director-business-development-early-phase-at-syneos-health-commercial-solutions-4386517475) | Phoenix, AZ | 2026-03-16 |
+| 5 | The Beck Group | Yes | [Director Of Business Development](https://www.linkedin.com/jobs/view/director-of-business-development-at-the-beck-group-4385644598) | Dallas, TX | 2026-03-17 |
+| 6 | Octave | Yes | [VP of Strategic Partnerships](https://www.linkedin.com/jobs/view/vp-of-strategic-partnerships-at-octave-4385488840) | United States | 2026-03-19 |
+| 7 | Fastino Labs | Yes | [Head of AI Partnerships](https://www.linkedin.com/jobs/view/head-of-ai-partnerships-at-fastino-labs-4386316173) | San Francisco Bay Area | 2026-03-16 |
+| 8 | Sales Xceleration® | Yes | [Vice President of Sales - $300K+](https://www.linkedin.com/jobs/view/vice-president-of-sales-%24300k%2B-at-sales-xceleration%C2%AE-4385255274) | Detroit Metropolitan Area | 2026-03-20 |
+| 9 | Cogent Analytics | Yes | [Territory Manager (Regional Vice President of Sales)](https://www.linkedin.com/jobs/view/territory-manager-regional-vice-president-of-sales-at-cogent-analytics-4386781290) | Rock Hill, SC | 2026-03-17 |
+| 10 | Giga | Yes | [Regional Vice President of Sales - Dallas](https://www.linkedin.com/jobs/view/regional-vice-president-of-sales-dallas-at-giga-4363540661) | Dallas, TX | 2026-03-20 |
+| 11 | Giga | Yes | [Regional Vice President of Sales - Boston](https://www.linkedin.com/jobs/view/regional-vice-president-of-sales-boston-at-giga-4363620496) | Boston, MA | 2026-03-20 |
+| 12 | Coleto Brands | Yes | [Director of National Builder Sales](https://www.linkedin.com/jobs/view/director-of-national-builder-sales-at-coleto-brands-4388347806) | Greenville, SC | 2026-03-20 |
+| 13 | Core Talent Services | Yes | [Executive Vice President of Sales](https://www.linkedin.com/jobs/view/executive-vice-president-of-sales-at-core-talent-services-4382409896) | Birmingham, AL | 2026-03-20 |
+| 14 | Giga | Yes | [Regional Vice President of Sales - Seattle](https://www.linkedin.com/jobs/view/regional-vice-president-of-sales-seattle-at-giga-4363550599) | Seattle, WA | 2026-03-20 |
+| 15 | Lensa | Yes | [VP, Global Sales](https://www.linkedin.com/jobs/view/vp-global-sales-at-lensa-4388183498) | New York, NY | 2026-03-20 |
+| 16 | Spekit 🐙 | Yes | [VP of Sales](https://www.linkedin.com/jobs/view/vp-of-sales-at-spekit-%F0%9F%90%99-4388177920) | Denver, CO | 2026-03-20 |
+| 17 | Anton Paar USA | Yes | [Vice President Sales and Service](https://www.linkedin.com/jobs/view/vice-president-sales-and-service-at-anton-paar-usa-4377264202) | Greater Houston | 2026-03-20 |
+| 18 | Walt Disney World | Yes | [Regional Sales Director - Travel Agency Sales](https://www.linkedin.com/jobs/view/regional-sales-director-travel-agency-sales-at-walt-disney-world-4387945235) | Celebration, FL | 2026-03-20 |
+| 19 | The Ghoman Group | Yes | [Director of Sales](https://www.linkedin.com/jobs/view/director-of-sales-at-the-ghoman-group-4387853042) | Indianapolis, IN | 2026-03-19 |
+| 20 | Anvilogic | Yes | [Head of Channel](https://www.linkedin.com/jobs/view/head-of-channel-at-anvilogic-4387881827) | United States | 2026-03-19 |
+| 21 | AllWork | Yes | [VP of Beauty Brand Partnerships](https://www.linkedin.com/jobs/view/vp-of-beauty-brand-partnerships-at-allwork-4385393167) | New York City Metropolitan Area | 2026-03-13 |
+| 22 | SuiteFit LLC | Yes | [Head of Real Estate Partnerships (Co-Founder Track)](https://www.linkedin.com/jobs/view/head-of-real-estate-partnerships-co-founder-track-at-suitefit-llc-4387772706) | United States | 2026-03-20 |
+| 23 | Spindrift Beverage Co, Inc. | Yes | [Sr Director - Brand, Social & Culture Partnerships](https://www.linkedin.com/jobs/view/sr-director-brand-social-culture-partnerships-at-spindrift-beverage-co-inc-4388150007) | Newton, MA | 2026-03-19 |
+| 24 | Apprentos | Yes | [Head of Enterprise Partnerships](https://www.linkedin.com/jobs/view/head-of-enterprise-partnerships-at-apprentos-4388118832) | New York, NY | 2026-03-19 |
+| 25 | JLB | Yes | [Head of Brand Partnerships - Sports Tech](https://www.linkedin.com/jobs/view/head-of-brand-partnerships-sports-tech-at-jlb-4387897472) | New York, United States | 2026-03-19 |
+| 26 | Santa Barbara Sky FC | Yes | [VP of Ticket Sales and Service](https://www.linkedin.com/jobs/view/vp-of-ticket-sales-and-service-at-santa-barbara-sky-fc-4387776583) | Santa Barbara, CA | 2026-03-20 |
+| 27 | Google | Yes | [Head of Business Operations and Strategy, Global Partnerships](https://www.linkedin.com/jobs/view/head-of-business-operations-and-strategy-global-partnerships-at-google-4387769269) | New York, NY | 2026-03-20 |
+| 28 | Chime | Yes | [Sr. Director, Strategic Partnerships & Branded Entertainment](https://www.linkedin.com/jobs/view/sr-director-strategic-partnerships-branded-entertainment-at-chime-4384079844) | United States | 2026-03-16 |
+| 29 | Motorsport Network | Yes | [Sales Director/Sr. Director – Brand Partnerships (US)](https://www.linkedin.com/jobs/view/sales-director-sr-director-%E2%80%93-brand-partnerships-us-at-motorsport-network-4385525319) | New York, NY | 2026-03-13 |
+| 30 | Zearch | Yes | [Vice President Revenue Operations - Leading Fintech/SaaS Business ($600M+ ARR)](https://www.linkedin.com/jobs/view/vice-president-revenue-operations-leading-fintech-saas-business-%24600m%2B-arr-at-zearch-4382869621) | New York City Metropolitan Area | 2026-03-19 |
+| 31 | Datadog | Yes | [Area Vice President, Enterprise Security Sales](https://www.linkedin.com/jobs/view/area-vice-president-enterprise-security-sales-at-datadog-4362728356) | New York, NY | 2026-03-20 |
+| 32 | Sesame Workshop | No | [Vice President, Business Development & Growth Strategy](https://www.linkedin.com/jobs/view/vice-president-business-development-growth-strategy-at-sesame-workshop-4348419756) | New York, NY | 2026-03-13 |
+| 33 | Storable | No | [Director, Revenue Operations](https://www.linkedin.com/jobs/view/director-revenue-operations-at-storable-4377293309) | Austin, TX | 2026-03-20 |
+| 34 | Belatrix Software | No | [Vice President of Business Development](https://www.linkedin.com/jobs/view/vice-president-of-business-development-at-belatrix-software-4387403784) | Brandon, FL | 2026-03-18 |
+| 35 | Vertus HealthCare | No | [VP of Business Development & Sales](https://www.linkedin.com/jobs/view/vp-of-business-development-sales-at-vertus-healthcare-4387752804) | Boynton Beach, FL | 2026-03-19 |
+| 36 | Arnet Pharmaceutical Corp | No | [Vice President of Business Development](https://www.linkedin.com/jobs/view/vice-president-of-business-development-at-arnet-pharmaceutical-corp-4387866627) | Davie, FL | 2026-03-19 |
+| 37 | Lensa | Yes | [North Regional Director of Sales - Wise Foods](https://www.linkedin.com/jobs/view/north-regional-director-of-sales-wise-foods-at-lensa-4388181718) | New York, NY | 2026-03-20 |
+| 38 | Upgrade, Inc. | Yes | [Director, Sales (Home Improvement)](https://www.linkedin.com/jobs/view/director-sales-home-improvement-at-upgrade-inc-4385290872) | Atlanta, GA | 2026-03-16 |
+| 39 | American Express | Yes | [Director - Events & Partnerships](https://www.linkedin.com/jobs/view/director-events-partnerships-at-american-express-4386960571) | New York, NY | 2026-03-17 |
+| 40 | Forsyth Barnes | Yes | [Director of Strategic Sales & Partnerships Ref: 195997](https://www.linkedin.com/jobs/view/director-of-strategic-sales-partnerships-ref-195997-at-forsyth-barnes-4386568042) | United States | 2026-03-16 |
+| 41 | Upstream USA | Yes | [Vice President of Partnerships and Community Engagement (Reproductive Healthcare)](https://www.linkedin.com/jobs/view/vice-president-of-partnerships-and-community-engagement-reproductive-healthcare-at-upstream-usa-4385927524) | United States | 2026-03-17 |
