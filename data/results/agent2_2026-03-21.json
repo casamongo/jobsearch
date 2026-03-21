@@ -1,0 +1,325 @@
+{
+  "roles": [
+    {
+      "company": "iCapital",
+      "stage": "Growth",
+      "title": "Platform Partnerships - Senior Vice President / Managing Director",
+      "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8381626002",
+      "location": "New York, New York, United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-21",
+      "source": "Greenhouse",
+      "isNew": false,
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "iCapital",
+      "stage": "Growth",
+      "title": "Midwest Regional Director - Vice President / Senior Vice President",
+      "url": "https://job-boards.greenhouse.io/icapitalnetwork",
+      "location": "Midwest Region",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-21",
+      "source": "Greenhouse",
+      "isNew": false,
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "iCapital",
+      "stage": "Growth",
+      "title": "AVP/VP Business Development - Korea and Hong Kong",
+      "url": "https://builtin.com/company/icapital/jobs",
+      "location": "Korea and Hong Kong",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-21",
+      "source": "Built In",
+      "isNew": false,
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Pontera",
+      "stage": "Series D",
+      "title": "VP of Sales",
+      "url": "https://www.linkedin.com/jobs/view/vp-of-sales-at-pontera-3775810215",
+      "location": "New York, NY (Hybrid)",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-21",
+      "source": "LinkedIn",
+      "isNew": false,
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Vestwell",
+      "stage": "Series D",
+      "title": "VP, National Accounts & Advisory Enterprise Sales",
+      "url": "https://www.glassdoor.com/Jobs/Vestwell-NY-Jobs-E1935693.htm",
+      "location": "New York, NY",
+      "compensation": "$150K - $160K",
+      "datePosted": "2026-02-20",
+      "source": "Glassdoor",
+      "isNew": false,
+      "segment": "PFMTech"
+    },
+    {
+      "company": "Vestwell",
+      "stage": "Series D",
+      "title": "Director, Enterprise Relationship Management",
+      "url": "https://www.glassdoor.com/Jobs/Vestwell-NY-Jobs-E1935693.htm",
+      "location": "New York, NY",
+      "compensation": "$120K - $135K",
+      "datePosted": "2026-02-19",
+      "source": "Glassdoor",
+      "isNew": false,
+      "segment": "PFMTech"
+    },
+    {
+      "company": "Vestwell",
+      "stage": "Series D",
+      "title": "VP of Special Markets - PEO",
+      "url": "https://builtin.com/company/vestwell/jobs",
+      "location": "Orlando, FL",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-21",
+      "source": "Built In",
+      "isNew": false,
+      "segment": "PFMTech"
+    },
+    {
+      "company": "Vestwell",
+      "stage": "Series D",
+      "title": "AVP/VP Regional Sales Director - Midwest",
+      "url": "https://www.vestwell.com/careers/4218635003",
+      "location": "Midwest Region",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-21",
+      "source": "Company Site",
+      "isNew": false,
+      "segment": "PFMTech"
+    },
+    {
+      "company": "Hightower",
+      "stage": "Growth",
+      "title": "Executive Director, Head of Corporate Communications",
+      "url": "https://www.theladders.com/company/hightoweradvisors-jobs",
+      "location": "Chicago, IL (In-Person)",
+      "compensation": "$190K - $205K",
+      "datePosted": "2026-03-21",
+      "source": "The Ladders",
+      "isNew": true,
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Hightower",
+      "stage": "Growth",
+      "title": "Director of Operations",
+      "url": "https://www.theladders.com/company/hightoweradvisors-jobs",
+      "location": "Chicago, IL (In-Person)",
+      "compensation": "$160K - $180K",
+      "datePosted": "2026-02-28",
+      "source": "The Ladders",
+      "isNew": false,
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Betterment",
+      "stage": "Growth",
+      "title": "Director, Broker-Dealer Operations",
+      "url": "https://boards.greenhouse.io/embed/job_board?for=betterment",
+      "location": "New York City",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-21",
+      "source": "Greenhouse",
+      "isNew": false,
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Betterment",
+      "stage": "Growth",
+      "title": "Director of Analytics",
+      "url": "https://builtin.com/company/betterment/jobs",
+      "location": "New York City",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-21",
+      "source": "Built In",
+      "isNew": false,
+      "segment": "WealthTech"
+    }
+  ],
+  "coverage": [
+    {
+      "company": "Altruist",
+      "careers_url": "https://altruist.com/careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Careers page accessible but no Director+ GTM roles visible. Sales Development Representative roles found, but below director level."
+    },
+    {
+      "company": "iCapital",
+      "careers_url": "https://icapital.com/careers",
+      "status": "checked",
+      "roles_found": 3,
+      "notes": "Active hiring for VP/SVP/Managing Director in business development, partnerships, and regional sales on Greenhouse"
+    },
+    {
+      "company": "Addepar",
+      "careers_url": "https://addepar.com/careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "28 open positions on Glassdoor; Sr. Account Executive roles visible on LinkedIn but no Director+ GTM leadership roles found. CRO Peter O'Brien leads revenue org per company page."
+    },
+    {
+      "company": "Pontera",
+      "careers_url": "https://pontera.com/careers",
+      "status": "checked",
+      "roles_found": 1,
+      "notes": "VP of Sales role active on LinkedIn and Built In. Sr. Director Customer Support and Sr. Sales Enablement Manager also visible."
+    },
+    {
+      "company": "Savvy Wealth",
+      "careers_url": "https://savvywealth.com/careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Jobs board on Ashby found but no Director+ GTM roles. Principal Wealth Manager and Revenue Operations Lead roles visible but not traditional sales/partnerships leadership."
+    },
+    {
+      "company": "RightCapital",
+      "careers_url": "https://rightcapital.com/careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Ted Denbow is SVP Sales, Joe Cowling is VP Partnerships per ZoomInfo. Sales Development Representative roles visible but no open Director+ GTM positions found."
+    },
+    {
+      "company": "Vestwell",
+      "careers_url": "https://vestwell.com/careers",
+      "status": "checked",
+      "roles_found": 4,
+      "notes": "Multiple VP and Director-level sales and relationship management roles actively hiring across enterprise, regional, and special markets"
+    },
+    {
+      "company": "CAIS",
+      "careers_url": "https://cais.com/careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Careers page accessible, roles visible on Built In and Wellfound but focused on technical and operations roles. No Director+ GTM roles currently posted."
+    },
+    {
+      "company": "Orion Advisor Solutions",
+      "careers_url": "https://orionadvisor.com/careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Careers on Workday. Internal Sales Consultant and Business Development Consultant roles visible but below Director level."
+    },
+    {
+      "company": "Betterment",
+      "careers_url": "https://betterment.com/careers/current-openings",
+      "status": "checked",
+      "roles_found": 2,
+      "notes": "Director-level operations and analytics roles. Business Development Representative role visible. Sr. Director of Human Advice previously mentioned in Agent 1 notes."
+    },
+    {
+      "company": "Vise",
+      "careers_url": "https://vise.com/careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Wellfound job board accessible. Director of IT visible but no Director+ GTM/revenue roles currently posted."
+    },
+    {
+      "company": "Dynasty Financial Partners",
+      "careers_url": "https://dynastyfinancialpartners.com/careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "18 open positions on Glassdoor. Careers page accessible but no specific Director+ GTM roles identified."
+    },
+    {
+      "company": "Hightower",
+      "careers_url": "https://hightoweradvisors.com/careers.html",
+      "status": "checked",
+      "roles_found": 2,
+      "notes": "45 open positions on Glassdoor. Director-level roles in operations and corporate communications found."
+    },
+    {
+      "company": "Sherpas",
+      "careers_url": "https://sherpas.ai/careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Company found but appears to be Sherpa.ai (privacy AI) not the WealthTech Sherpas from the list. Unable to locate correct company careers page."
+    },
+    {
+      "company": "Wealthfront",
+      "careers_url": "https://wealthfront.com/careers",
+      "status": "not_accessed",
+      "roles_found": 0,
+      "notes": "Did not access due to search budget constraints"
+    },
+    {
+      "company": "Envestnet",
+      "careers_url": "https://envestnet.com/careers",
+      "status": "not_accessed",
+      "roles_found": 0,
+      "notes": "Did not access due to search budget constraints"
+    },
+    {
+      "company": "Vanilla",
+      "careers_url": "https://usevanilla.com/careers",
+      "status": "not_accessed",
+      "roles_found": 0,
+      "notes": "Did not access due to search budget constraints"
+    },
+    {
+      "company": "Farther",
+      "careers_url": "https://farther.com/careers",
+      "status": "not_accessed",
+      "roles_found": 0,
+      "notes": "Did not access due to search budget constraints"
+    },
+    {
+      "company": "Jump",
+      "careers_url": "https://jump.tech/careers",
+      "status": "not_accessed",
+      "roles_found": 0,
+      "notes": "Did not access due to search budget constraints"
+    },
+    {
+      "company": "SmartAsset",
+      "careers_url": "https://smartasset.com/careers",
+      "status": "not_accessed",
+      "roles_found": 0,
+      "notes": "Did not access due to search budget constraints"
+    },
+    {
+      "company": "Titan",
+      "careers_url": "https://titan.com/careers",
+      "status": "not_accessed",
+      "roles_found": 0,
+      "notes": "Did not access due to search budget constraints"
+    },
+    {
+      "company": "Guideline",
+      "careers_url": "https://guideline.com/careers",
+      "status": "not_accessed",
+      "roles_found": 0,
+      "notes": "Did not access due to search budget constraints"
+    },
+    {
+      "company": "Human Interest",
+      "careers_url": "https://humaninterest.com/careers",
+      "status": "not_accessed",
+      "roles_found": 0,
+      "notes": "Did not access due to search budget constraints"
+    },
+    {
+      "company": "Empower",
+      "careers_url": "https://empower.com/careers",
+      "status": "not_accessed",
+      "roles_found": 0,
+      "notes": "Did not access due to search budget constraints"
+    },
+    {
+      "company": "Capitalize",
+      "careers_url": "https://hicapitalize.com/careers",
+      "status": "not_accessed",
+      "roles_found": 0,
+      "notes": "Did not access due to search budget constraints"
+    }
+  ]
+}
