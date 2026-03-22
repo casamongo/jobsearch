@@ -1,0 +1,241 @@
+{
+  "roles": [
+    {
+      "company": "iCapital",
+      "stage": "Growth",
+      "title": "Platform Partnerships - Senior Vice President / Managing Director",
+      "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8381626002",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03",
+      "source": "Greenhouse",
+      "isNew": true,
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "iCapital",
+      "stage": "Growth",
+      "title": "Midwest Regional Director - Vice President / Senior Vice President",
+      "url": "https://job-boards.greenhouse.io/icapitalnetwork",
+      "location": "Midwest, US",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03",
+      "source": "Greenhouse",
+      "isNew": true,
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Savvy Wealth",
+      "stage": "Series B",
+      "title": "Director of Client Experience",
+      "url": "https://jobs.ashbyhq.com/savvy/49f14077-e3fe-4296-b38f-e0abb32e0e58",
+      "location": "Remote (US)",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03",
+      "source": "Ashby",
+      "isNew": true,
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Wealthsimple",
+      "stage": "Growth",
+      "title": "Director of Strategic Partnerships",
+      "url": "https://builtin.com/company/wealthsimple/jobs",
+      "location": "Canada / Remote",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03",
+      "source": "Built In",
+      "isNew": true,
+      "segment": "WealthTech"
+    },
+    {
+      "company": "CAIS",
+      "stage": "Growth",
+      "title": "Director of Asset Management Partnerships",
+      "url": "https://www.linkedin.com/company/cais/jobs",
+      "location": "New York, NY",
+      "compensation": "$175,000 - $225,000",
+      "datePosted": "2026-01",
+      "source": "LinkedIn",
+      "isNew": false,
+      "segment": "InvestmentTech"
+    }
+  ],
+  "coverage": [
+    {
+      "company": "GeoWealth",
+      "careers_url": "https://geowealth.com/careers/",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Only found VP Product Manager (not GTM); other open roles in Client Service, IT, Billing"
+    },
+    {
+      "company": "Savvy Wealth",
+      "careers_url": "https://jobs.ashbyhq.com/savvy",
+      "status": "checked",
+      "roles_found": 1,
+      "notes": "Found Director of Client Experience; other roles were ops/product focused"
+    },
+    {
+      "company": "Gridline",
+      "careers_url": "https://www.gridline.com/careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Wrong company - found fleet telematics company and financial modeling company, not the investment tech platform"
+    },
+    {
+      "company": "WealthAi",
+      "careers_url": "https://www.wealthai.com/careers",
+      "status": "no_careers_page",
+      "roles_found": 0,
+      "notes": "Could not find active careers page or job listings"
+    },
+    {
+      "company": "Addepar",
+      "careers_url": "https://addepar.com/careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Multiple Sr. Account Executive roles found but these are individual contributor, not Director+ leadership"
+    },
+    {
+      "company": "Altruist",
+      "careers_url": "https://www.altruist.com/careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Careers page accessible but no GTM leadership roles visible"
+    },
+    {
+      "company": "iCapital",
+      "careers_url": "https://icapital.com/careers/",
+      "status": "checked",
+      "roles_found": 2,
+      "notes": "Found Platform Partnerships SVP/MD and Midwest Regional Director VP/SVP roles"
+    },
+    {
+      "company": "CAIS",
+      "careers_url": "https://www.caisgroup.com/careers",
+      "status": "checked",
+      "roles_found": 1,
+      "notes": "Found Director of Asset Management Partnerships on LinkedIn (posted 1 month ago)"
+    },
+    {
+      "company": "Pontera",
+      "careers_url": "https://job-boards.greenhouse.io/pontera",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Only Revenue Operations Analyst roles (not Director+)"
+    },
+    {
+      "company": "Betterment",
+      "careers_url": "https://www.betterment.com/careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Sr. Director B2B Revenue Operations role found but from 2023; current roles are Director Broker-Dealer Ops, BDR (not GTM leadership)"
+    },
+    {
+      "company": "Wealthfront",
+      "careers_url": "https://www.wealthfront.com/careers",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not searched due to budget constraints"
+    },
+    {
+      "company": "Orion",
+      "careers_url": "https://www.orionadvisor.com/careers",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not searched due to budget constraints"
+    },
+    {
+      "company": "Envestnet",
+      "careers_url": "https://www.envestnet.com/careers",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not searched due to budget constraints"
+    },
+    {
+      "company": "Luna Technologies",
+      "careers_url": "https://www.lunatechnologies.com/careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Wrong company - found Luna Innovations (fiber optics) and Luna Physical Therapy, not the wealth management platform"
+    },
+    {
+      "company": "Ethic",
+      "careers_url": "https://www.ethicinvesting.com/careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Careers page accessible but no GTM leadership roles posted; only product, engineering, ops roles visible"
+    },
+    {
+      "company": "Mercury",
+      "careers_url": "https://mercury.com/careers",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not searched due to budget constraints"
+    },
+    {
+      "company": "Plaid",
+      "careers_url": "https://plaid.com/careers",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not searched due to budget constraints"
+    },
+    {
+      "company": "FNZ",
+      "careers_url": "https://www.fnz.com/careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Workday-based ATS; general job categories visible but no specific Director+ GTM roles found"
+    },
+    {
+      "company": "Wealthsimple",
+      "careers_url": "https://www.wealthsimple.com/careers",
+      "status": "checked",
+      "roles_found": 1,
+      "notes": "Found Director of Strategic Partnerships; Lever ATS showed no current openings"
+    },
+    {
+      "company": "Conquest Planning",
+      "careers_url": "https://www.conquestplanning.com/careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Careers page accessible but directs to email; no public job listings for GTM roles"
+    },
+    {
+      "company": "Vanilla",
+      "careers_url": "https://www.vanillatech.com/careers",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not searched due to budget constraints"
+    },
+    {
+      "company": "Farther",
+      "careers_url": "https://www.farther.com/careers",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not searched due to budget constraints"
+    },
+    {
+      "company": "Riskalyze (Nitrogen)",
+      "careers_url": "https://www.nitrogen.com/careers",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not searched due to budget constraints"
+    },
+    {
+      "company": "Advyzon",
+      "careers_url": "https://www.advyzon.com/careers",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not searched due to budget constraints"
+    },
+    {
+      "company": "RightCapital",
+      "careers_url": "https://www.rightcapital.com/careers",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not searched due to budget constraints"
+    }
+  ]
+}

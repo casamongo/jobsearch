@@ -546,3 +546,35 @@
 | 51 | Direct Recruiters, Inc. | Yes | [Head of Sales - Capital Equipment](https://www.linkedin.com/jobs/view/head-of-sales-capital-equipment-at-direct-recruiters-inc-4387974403) | United States | 2026-03-20 |
 | 52 | Evotrex | Yes | [VP of Sales](https://www.linkedin.com/jobs/view/vp-of-sales-at-evotrex-4388195510) | Los Angeles Metropolitan Area | 2026-03-20 |
 | 53 | C5i | Yes | [Director of Business Development - CPG](https://www.linkedin.com/jobs/view/director-of-business-development-cpg-at-c5i-4377263302) | Texas, United States | 2026-03-19 |
+
+## 2026-03-22 — 29 new roles
+
+| 1 | Savvy Wealth | Yes | [Director of Client Experience](https://jobs.ashbyhq.com/savvy/49f14077-e3fe-4296-b38f-e0abb32e0e58) | Remote (US) | 2026-03 |
+| 2 | Wealthsimple | Yes | [Director of Strategic Partnerships](https://builtin.com/company/wealthsimple/jobs) | Canada / Remote | 2026-03 |
+| 3 | CAIS | Yes | [Director of Asset Management Partnerships](https://www.linkedin.com/company/cais/jobs) | New York, NY | 2026-01 |
+| 4 | Quake Global | Yes | [Vice President of Sales - Industrial](https://www.linkedin.com/jobs/view/vice-president-of-sales-industrial-at-quake-global-4387759011) | San Diego, CA | 2026-03-19 |
+| 5 | Intellisense Systems, Inc. | Yes | [Vice President, Business Development and Sales](https://www.linkedin.com/jobs/view/vice-president-business-development-and-sales-at-intellisense-systems-inc-4387917201) | Torrance, CA | 2026-03-20 |
+| 6 | Evvolve & Partners | Yes | [VP of Sales Venture Capital](https://www.linkedin.com/jobs/view/vp-of-sales-venture-capital-at-evvolve-partners-4386612750) | United States | 2026-03-22 |
+| 7 | Sotheby's Institute of Art | Yes | [Director of Strategic Finance and Business Development](https://www.linkedin.com/jobs/view/director-of-strategic-finance-and-business-development-at-sotheby-s-institute-of-art-4388753140) | New York, United States | 2026-03-21 |
+| 8 | Kaiser Associates | Yes | [Vice President, Strategy Consulting, Private Equity](https://www.linkedin.com/jobs/view/vice-president-strategy-consulting-private-equity-at-kaiser-associates-4387653560) | New York, NY | 2026-03-19 |
+| 9 | Arcadia Investment Partners | Yes | [Vice President of Investor Relations and Business Development](https://www.linkedin.com/jobs/view/vice-president-of-investor-relations-and-business-development-at-arcadia-investment-partners-4386340852) | New York, NY | 2026-03-16 |
+| 10 | Black Dragon Capital | Yes | [VP of Sales & Marketing](https://www.linkedin.com/jobs/view/vp-of-sales-marketing-at-black-dragon-capital-4387972358) | Boynton Beach, FL | 2026-03-20 |
+| 11 | Morgan Stanley | Yes | [Executive Director & Relationship Manager, Fixed Income Sales](https://www.linkedin.com/jobs/view/executive-director-relationship-manager-fixed-income-sales-at-morgan-stanley-4377609428) | San Francisco, CA | 2026-03-20 |
+| 12 | Infinum | Yes | [Business Development Director (US)](https://www.linkedin.com/jobs/view/business-development-director-us-at-infinum-4372838586) | United States | 2026-03-18 |
+| 13 | Newrez | Yes | [Director Corporate Business Development](https://www.linkedin.com/jobs/view/director-corporate-business-development-at-newrez-4386556301) | Fort Washington, PA | 2026-03-16 |
+| 14 | Soul Equity Solutions | Yes | [Head of Business Development](https://www.linkedin.com/jobs/view/head-of-business-development-at-soul-equity-solutions-4384075293) | Boston, MA | 2026-03-16 |
+| 15 | JobGini | Yes | [IT Staffing Sales Hunter / Business Development Director](https://www.linkedin.com/jobs/view/it-staffing-sales-hunter-business-development-director-at-jobgini-4386723963) | Boston, MA | 2026-03-17 |
+| 16 | United Petroleum Transports | Yes | [Regional Sales Director - Chemical](https://www.linkedin.com/jobs/view/regional-sales-director-chemical-at-united-petroleum-transports-4388591381) | Baytown, TX | 2026-03-20 |
+| 17 | Diagnostic Imaging Centers of Texas | Yes | [Director of Business Development](https://www.linkedin.com/jobs/view/director-of-business-development-at-diagnostic-imaging-centers-of-texas-4385935387) | El Paso, TX | 2026-03-17 |
+| 18 | Acutronic Group | Yes | [Head of Business Development](https://www.linkedin.com/jobs/view/head-of-business-development-at-acutronic-group-4385489627) | Austin, TX | 2026-03-19 |
+| 19 | Robert Half | Yes | [Head of Business Development](https://www.linkedin.com/jobs/view/head-of-business-development-at-robert-half-4385259560) | United States | 2026-03-16 |
+| 20 | Hayden AI | Yes | [Senior Director of Sales and Customer Success](https://www.linkedin.com/jobs/view/senior-director-of-sales-and-customer-success-at-hayden-ai-4388585830) | United States | 2026-03-21 |
+| 21 | Oscilar | Yes | [Senior Manager/Director, Revenue Operations](https://www.linkedin.com/jobs/view/senior-manager-director-revenue-operations-at-oscilar-4370178710) | United States | 2026-03-22 |
+| 22 | Restaurant Zone Recruiting | Yes | [Director of Sales & Events – High-End Restaurant F&B](https://www.linkedin.com/jobs/view/director-of-sales-events-%E2%80%93-high-end-restaurant-f-b-at-restaurant-zone-recruiting-4388504259) | New York City Metropolitan Area | 2026-03-20 |
+| 23 | Aarki | Yes | [Global VP/Head of Sales](https://www.linkedin.com/jobs/view/global-vp-head-of-sales-at-aarki-4386875371) | San Francisco, CA | 2026-03-18 |
+| 24 | LexisNexis | Yes | [VP, Global Sales](https://www.linkedin.com/jobs/view/vp-global-sales-at-lexisnexis-4387325588) | North Carolina, United States | 2026-03-19 |
+| 25 | Choice Hotels International | Yes | [Corporate Sales Director](https://www.linkedin.com/jobs/view/corporate-sales-director-at-choice-hotels-international-4388580275) | Washington DC-Baltimore Area | 2026-03-20 |
+| 26 | Mastercard | Yes | [Sales Director, Loyalty Consulting & Strategic Partnerships](https://www.linkedin.com/jobs/view/sales-director-loyalty-consulting-strategic-partnerships-at-mastercard-4357861451) | California, United States | 2026-03-18 |
+| 27 | Forsyth Barnes | Yes | [Director of Strategic Sales & Partnerships (Ref: 195997)](https://www.linkedin.com/jobs/view/director-of-strategic-sales-partnerships-ref-195997-at-forsyth-barnes-4386568042) | United States | 2026-03-16 |
+| 28 | The Walt Disney Company | Yes | [Regional Sales Director - Travel Agency Sales](https://www.linkedin.com/jobs/view/regional-sales-director-travel-agency-sales-at-the-walt-disney-company-4387374779) | Celebration, FL | 2026-03-19 |
+| 29 | Ascendion | Yes | [Director of Private Equity Sales](https://www.linkedin.com/jobs/view/director-of-private-equity-sales-at-ascendion-4388207411) | United States | 2026-03-20 |
