@@ -1,0 +1,1946 @@
+{
+  "roles": [
+    {
+      "company": "Clearwater",
+      "stage": "Unknown",
+      "title": "VP, Sales",
+      "url": "https://www.linkedin.com/jobs/view/vp-sales-at-clearwater-4351177003",
+      "location": "Nashville, TN",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-18",
+      "source": "LinkedIn",
+      "segment": "Unknown"
+    },
+    {
+      "company": "CLEAR",
+      "stage": "Unknown",
+      "title": "VP, Sales - GovTech",
+      "url": "https://www.linkedin.com/jobs/view/vp-sales-govtech-at-clear-4388131964",
+      "location": "Washington, DC",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-19",
+      "source": "LinkedIn",
+      "segment": "Unknown"
+    },
+    {
+      "company": "FIDELITY INVESTMENTS VARIABLE LIFE ACCOUNT I",
+      "stage": "Unknown",
+      "title": "Chief Revenue Officer",
+      "url": "https://www.linkedin.com/jobs/view/chief-revenue-officer-at-fidelity-investments-variable-life-account-i-4389047128",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-23",
+      "source": "LinkedIn",
+      "segment": "Unknown"
+    },
+    {
+      "company": "ARK",
+      "stage": "Unknown",
+      "title": "Hotel Area Sales Director",
+      "url": "https://www.linkedin.com/jobs/view/hotel-area-sales-director-at-ark-4385770322",
+      "location": "Tampa, FL",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "WealthTech (cross-industry)"
+    },
+    {
+      "company": "ARK",
+      "stage": "Unknown",
+      "title": "Director of Sales",
+      "url": "https://www.linkedin.com/jobs/view/director-of-sales-at-ark-4385763497",
+      "location": "Tampa, FL",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "WealthTech (cross-industry)"
+    },
+    {
+      "company": "Vestmark",
+      "stage": "Unknown",
+      "title": "VP, Asset Manager Channel",
+      "url": "https://www.linkedin.com/jobs/view/vp-asset-manager-channel-at-vestmark-4379049858",
+      "location": "Greater Boston",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-21",
+      "source": "LinkedIn",
+      "segment": "WealthTech (cross-industry)"
+    },
+    {
+      "company": "Morgan Stanley",
+      "stage": "Unknown",
+      "title": "Structure and Execution Management Group (Commercial Real Estate), FID Secured Lending - Executive Director/Vice President",
+      "url": "https://www.linkedin.com/jobs/view/structure-and-execution-management-group-commercial-real-estate-fid-secured-lending-executive-director-vice-president-at-morgan-stanley-4377266367",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "WealthTech (cross-industry)"
+    },
+    {
+      "company": "Goldman Sachs",
+      "stage": "Unknown",
+      "title": "Asset & Wealth Management, Client Solutions Group, Wealth Alternatives Specialist, New York - Vice President",
+      "url": "https://www.linkedin.com/jobs/view/asset-wealth-management-client-solutions-group-wealth-alternatives-specialist-new-york-vice-president-at-goldman-sachs-4354741584",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech (cross-industry)"
+    },
+    {
+      "company": "LPL Financial",
+      "stage": "Unknown",
+      "title": "VP, Enterprise Technology Integration Lead",
+      "url": "https://www.linkedin.com/jobs/view/vp-enterprise-technology-integration-lead-at-lpl-financial-4376829673",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech (cross-industry)"
+    },
+    {
+      "company": "LPL Financial",
+      "stage": "Unknown",
+      "title": "VP, Enterprise Technology Integration Lead",
+      "url": "https://www.linkedin.com/jobs/view/vp-enterprise-technology-integration-lead-at-lpl-financial-4376838205",
+      "location": "Austin, TX",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech (cross-industry)"
+    },
+    {
+      "company": "LPL Financial",
+      "stage": "Unknown",
+      "title": "VP, Enterprise Technology Integration Lead",
+      "url": "https://www.linkedin.com/jobs/view/vp-enterprise-technology-integration-lead-at-lpl-financial-4376825784",
+      "location": "San Diego, CA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech (cross-industry)"
+    },
+    {
+      "company": "F. Walther Electric Corp",
+      "stage": "Series B",
+      "title": "Director of Sales",
+      "url": "https://www.linkedin.com/jobs/view/director-of-sales-at-f-walther-electric-corp-4389075739",
+      "location": "Somerset, NJ",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-23",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "XDS",
+      "stage": "Series B",
+      "title": "Director of Sales",
+      "url": "https://www.linkedin.com/jobs/view/director-of-sales-at-xds-4389062451",
+      "location": "Santa Monica, CA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-23",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "NetFortris, A Sangoma Company",
+      "stage": "Series B",
+      "title": "Director of Distribution Channel - Remote",
+      "url": "https://www.linkedin.com/jobs/view/director-of-distribution-channel-remote-at-netfortris-a-sangoma-company-4386688008",
+      "location": "Dallas, TX",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-23",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Iopa Solutions",
+      "stage": "Series B",
+      "title": "Vice President of Sales",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-of-sales-at-iopa-solutions-4388694984",
+      "location": "New York, United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-23",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "ArkTalents",
+      "stage": "Series B",
+      "title": "Sales Director",
+      "url": "https://www.linkedin.com/jobs/view/sales-director-at-arktalents-4389070705",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-23",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "New York Technology Partners",
+      "stage": "Series B",
+      "title": "Sales Director",
+      "url": "https://www.linkedin.com/jobs/view/sales-director-at-new-york-technology-partners-4389089591",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-23",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Hunter + Esquire\u00ae",
+      "stage": "Series B",
+      "title": "Sales Director",
+      "url": "https://www.linkedin.com/jobs/view/sales-director-at-hunter-%2B-esquire%C2%AE-4389200118",
+      "location": "Colorado, United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-23",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Addison Group",
+      "stage": "Series B",
+      "title": "VP of Sales",
+      "url": "https://www.linkedin.com/jobs/view/vp-of-sales-at-addison-group-4385923382",
+      "location": "Phoenix, AZ",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Exponential Power",
+      "stage": "Series B",
+      "title": "Vice President of Business Development - Datacenter Division",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-of-business-development-datacenter-division-at-exponential-power-4386501151",
+      "location": "Washington DC-Baltimore Area",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-16",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "WENCOR",
+      "stage": "Series B",
+      "title": "Director of Sales",
+      "url": "https://www.linkedin.com/jobs/view/director-of-sales-at-wencor-4388212555",
+      "location": "Tampa, FL",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Google",
+      "stage": "Series B",
+      "title": "Head of Business Operations and Strategy, Global Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/head-of-business-operations-and-strategy-global-partnerships-at-google-4387769269",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Lenovo",
+      "stage": "Series B",
+      "title": "Global Vice President of Sales \u2013 Global Accounts & Verticals",
+      "url": "https://www.linkedin.com/jobs/view/global-vice-president-of-sales-%E2%80%93-global-accounts-verticals-at-lenovo-4385928042",
+      "location": "North Carolina, United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Crossley Scott",
+      "stage": "Series B",
+      "title": "Vice President of Sales & Business Development - EV Charging",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-of-sales-business-development-ev-charging-at-crossley-scott-4385036078",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-18",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Protect Group",
+      "stage": "Series B",
+      "title": "VP, Global Airline Sales & Revenue Growth",
+      "url": "https://www.linkedin.com/jobs/view/vp-global-airline-sales-revenue-growth-at-protect-group-4386703930",
+      "location": "Texas, United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Albert Bow",
+      "stage": "Series B",
+      "title": "Head of Business Development",
+      "url": "https://www.linkedin.com/jobs/view/head-of-business-development-at-albert-bow-4279882897",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-23",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Paradigm Healthcare",
+      "stage": "Growth/Late-stage",
+      "title": "Vice President of Business Development",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-of-business-development-at-paradigm-healthcare-4386383661",
+      "location": "Houston, TX",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-16",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "SPAR Group",
+      "stage": "Growth/Late-stage",
+      "title": "VP New Business Development",
+      "url": "https://www.linkedin.com/jobs/view/vp-new-business-development-at-spar-group-4385264924",
+      "location": "Atlanta, GA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-16",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "SPAR Group",
+      "stage": "Growth/Late-stage",
+      "title": "VP New Business Development",
+      "url": "https://www.linkedin.com/jobs/view/vp-new-business-development-at-spar-group-4386553705",
+      "location": "Greater Houston",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-16",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Samba TV",
+      "stage": "Growth/Late-stage",
+      "title": "Director of Business Development",
+      "url": "https://www.linkedin.com/jobs/view/director-of-business-development-at-samba-tv-4368473128",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Nuvollo Corp.",
+      "stage": "Growth/Late-stage",
+      "title": "Vice President of Sales",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-of-sales-at-nuvollo-corp-4385941528",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Tree Top Staffing LLC",
+      "stage": "Growth/Late-stage",
+      "title": "Vice President of Sales",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-of-sales-at-tree-top-staffing-llc-4386530552",
+      "location": "Detroit Metropolitan Area",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-16",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Lenovo",
+      "stage": "Growth/Late-stage",
+      "title": "Global Vice President of Sales \u2013 Global Accounts & Verticals",
+      "url": "https://www.linkedin.com/jobs/view/global-vice-president-of-sales-%E2%80%93-global-accounts-verticals-at-lenovo-4385916195",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Confidential",
+      "stage": "Growth/Late-stage",
+      "title": "VP, Medicare Advantage Revenue Integrity",
+      "url": "https://www.linkedin.com/jobs/view/vp-medicare-advantage-revenue-integrity-at-confidential-4385919226",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Airties",
+      "stage": "Growth/Late-stage",
+      "title": "Head of Business Development/Sales",
+      "url": "https://www.linkedin.com/jobs/view/head-of-business-development-sales-at-airties-4384048656",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-16",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "DualEntry",
+      "stage": "Growth/Late-stage",
+      "title": "VP Sales",
+      "url": "https://www.linkedin.com/jobs/view/vp-sales-at-dualentry-4386525874",
+      "location": "New York City Metropolitan Area",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-16",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "MedCore Partners",
+      "stage": "Growth/Late-stage",
+      "title": "Senior VP of Business Development",
+      "url": "https://www.linkedin.com/jobs/view/senior-vp-of-business-development-at-medcore-partners-4386923216",
+      "location": "Dallas, TX",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Lectra T\u00fcrkiye",
+      "stage": "Growth/Late-stage",
+      "title": "Senior VP Sales",
+      "url": "https://www.linkedin.com/jobs/view/senior-vp-sales-at-lectra-t%C3%BCrkiye-4386709324",
+      "location": "Atlanta, GA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "LinkedIn",
+      "stage": "Growth/Late-stage",
+      "title": "Account Director, Key Accounts, Professional & Financial Services - LinkedIn Sales Solutions",
+      "url": "https://www.linkedin.com/jobs/view/account-director-key-accounts-professional-financial-services-linkedin-sales-solutions-at-linkedin-4387469097",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-18",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Vestwell",
+      "stage": "Growth/Late-stage",
+      "title": "VP, Accounting Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/vp-accounting-partnerships-at-vestwell-4384498411",
+      "location": "King of Prussia, PA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Amwell",
+      "stage": "Growth/Late-stage",
+      "title": "VP, Payer Sales",
+      "url": "https://www.linkedin.com/jobs/view/vp-payer-sales-at-amwell-4385942824",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Soul Equity Solutions",
+      "stage": "Growth/Late-stage",
+      "title": "Business Development Vice President - Pittsburgh",
+      "url": "https://www.linkedin.com/jobs/view/business-development-vice-president-pittsburgh-at-soul-equity-solutions-4384077191",
+      "location": "Pittsburgh, PA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-16",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Black Dragon Capital",
+      "stage": "Growth/Late-stage",
+      "title": "VP of\u00a0Sales & Marketing",
+      "url": "https://www.linkedin.com/jobs/view/vp-of%C2%A0sales-marketing-at-black-dragon-capital-4385471110",
+      "location": "Boynton Beach, FL",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-18",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Mogul & Co.",
+      "stage": "Growth/Late-stage",
+      "title": "VP, Strategic Growth, New Business & Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/vp-strategic-growth-new-business-partnerships-at-mogul-co-4386918760",
+      "location": "Chicago, IL",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "VITL",
+      "stage": "Growth/Late-stage",
+      "title": "Head of Business Development",
+      "url": "https://www.linkedin.com/jobs/view/head-of-business-development-at-vitl-4386701026",
+      "location": "Nashville, TN",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Vestwell",
+      "stage": "Growth/Late-stage",
+      "title": "VP, Accounting Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/vp-accounting-partnerships-at-vestwell-4384706067",
+      "location": "Austin, TX",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Lakeview Loan Servicing, LLC.",
+      "stage": "Growth/Late-stage",
+      "title": "VP, Sales Production",
+      "url": "https://www.linkedin.com/jobs/view/vp-sales-production-at-lakeview-loan-servicing-llc-4386588211",
+      "location": "Dallas, TX",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Joul\u00e9",
+      "stage": "Growth/Late-stage",
+      "title": "Director of Business Development",
+      "url": "https://www.linkedin.com/jobs/view/director-of-business-development-at-joul%C3%A9-4386773342",
+      "location": "Raleigh, NC",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Cogent Analytics",
+      "stage": "Growth/Late-stage",
+      "title": "Territory Manager (Regional Vice President of Sales)",
+      "url": "https://www.linkedin.com/jobs/view/territory-manager-regional-vice-president-of-sales-at-cogent-analytics-4386781290",
+      "location": "Rock Hill, SC",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Vestwell",
+      "stage": "Growth/Late-stage",
+      "title": "VP, Accounting Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/vp-accounting-partnerships-at-vestwell-4384487860",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Ripple Talent",
+      "stage": "Growth/Late-stage",
+      "title": "Director of Business Development",
+      "url": "https://www.linkedin.com/jobs/view/director-of-business-development-at-ripple-talent-4386392788",
+      "location": "Atlanta Metropolitan Area",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-16",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "DNA Partners",
+      "stage": "Growth/Late-stage",
+      "title": "Director of Marketing & Business Development",
+      "url": "https://www.linkedin.com/jobs/view/director-of-marketing-business-development-at-dna-partners-4386779364",
+      "location": "New York City Metropolitan Area",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Vestwell",
+      "stage": "Growth/Late-stage",
+      "title": "VP, Accounting Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/vp-accounting-partnerships-at-vestwell-4384484983",
+      "location": "Phoenix, AZ",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "AppGate",
+      "stage": "Growth/Late-stage",
+      "title": "Regional Sales Director",
+      "url": "https://www.linkedin.com/jobs/view/regional-sales-director-at-appgate-4386384950",
+      "location": "Atlanta, GA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-16",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Simon Property Group",
+      "stage": "Growth/Late-stage",
+      "title": "Director, Marketing & Business Development",
+      "url": "https://www.linkedin.com/jobs/view/director-marketing-business-development-at-simon-property-group-4386369986",
+      "location": "Tampa, FL",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-16",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Marriott International",
+      "stage": "Growth/Late-stage",
+      "title": "Vice President of Sales & Marketing",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-of-sales-marketing-at-marriott-international-4386781611",
+      "location": "Fairhope, AL",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Detroit Pistons",
+      "stage": "Growth",
+      "title": "Director, Premium Sales & Service",
+      "url": "https://www.linkedin.com/jobs/view/director-premium-sales-service-at-detroit-pistons-4388516029",
+      "location": "Detroit, MI",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Nigel Wright Group",
+      "stage": "Growth",
+      "title": "VP Sales",
+      "url": "https://www.linkedin.com/jobs/view/vp-sales-at-nigel-wright-group-4387275821",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-18",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Twin-Star International",
+      "stage": "Growth",
+      "title": "Vice President of Sales",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-of-sales-at-twin-star-international-4386515983",
+      "location": "Boca Raton, FL",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Festool USA",
+      "stage": "Growth",
+      "title": "Director of Sales - South",
+      "url": "https://www.linkedin.com/jobs/view/director-of-sales-south-at-festool-usa-4386126144",
+      "location": "Asheville, NC",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-21",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Hope's Cookies",
+      "stage": "Growth",
+      "title": "Sales Director",
+      "url": "https://www.linkedin.com/jobs/view/sales-director-at-hope-s-cookies-4386419761",
+      "location": "Florida, United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-18",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "LA Clippers",
+      "stage": "Growth",
+      "title": "Vice President of New Business Ticket Sales",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-of-new-business-ticket-sales-at-la-clippers-4369274542",
+      "location": "Inglewood, CA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-19",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "OptimizeRx",
+      "stage": "Growth",
+      "title": "VP, Sales Pharma",
+      "url": "https://www.linkedin.com/jobs/view/vp-sales-pharma-at-optimizerx-4387480369",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-18",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Inside Lighting",
+      "stage": "Growth",
+      "title": "Regional Vice President of Sales",
+      "url": "https://www.linkedin.com/jobs/view/regional-vice-president-of-sales-at-inside-lighting-4386985784",
+      "location": "Amarillo, TX",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Coleto Brands",
+      "stage": "Growth",
+      "title": "Director of National Builder Sales",
+      "url": "https://www.linkedin.com/jobs/view/director-of-national-builder-sales-at-coleto-brands-4388347806",
+      "location": "Greenville, SC",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Snatch UP Jobs",
+      "stage": "Growth",
+      "title": "Head of Sales",
+      "url": "https://www.linkedin.com/jobs/view/head-of-sales-at-snatch-up-jobs-4386102770",
+      "location": "Fort Lauderdale, FL",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-21",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "LoopMe",
+      "stage": "Growth",
+      "title": "Vice President, Enterprise Sales",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-enterprise-sales-at-loopme-4381895641",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-23",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Lummus Technology",
+      "stage": "Growth",
+      "title": "Global Director, Business Development - Chevron Lummus Global",
+      "url": "https://www.linkedin.com/jobs/view/global-director-business-development-chevron-lummus-global-at-lummus-technology-4379053157",
+      "location": "Greater Houston",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-21",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Consolidated Human Resources - CHR",
+      "stage": "Growth",
+      "title": "Vice President of National Sales",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-of-national-sales-at-consolidated-human-resources-chr-4385758967",
+      "location": "Park Ridge, NJ",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Octave",
+      "stage": "Growth",
+      "title": "VP of Strategic Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/vp-of-strategic-partnerships-at-octave-4385488840",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-19",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "LoopMe",
+      "stage": "Growth",
+      "title": "Vice President, Enterprise Sales",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-enterprise-sales-at-loopme-4381897564",
+      "location": "San Francisco, CA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-23",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "LoopMe",
+      "stage": "Growth",
+      "title": "Vice President Sales - Central",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-sales-central-at-loopme-4376793447",
+      "location": "Chicago, IL",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-23",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Giga",
+      "stage": "Growth",
+      "title": "Regional Vice President of Sales - Atlanta",
+      "url": "https://www.linkedin.com/jobs/view/regional-vice-president-of-sales-atlanta-at-giga-4363520615",
+      "location": "Atlanta, GA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-21",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Zekelman Industries",
+      "stage": "Growth",
+      "title": "Vice President, Sales",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-sales-at-zekelman-industries-4388567024",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Walt Disney World",
+      "stage": "Growth",
+      "title": "Regional Sales Director - Travel Agency Sales",
+      "url": "https://www.linkedin.com/jobs/view/regional-sales-director-travel-agency-sales-at-walt-disney-world-4387945235",
+      "location": "Celebration, FL",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Superlogic",
+      "stage": "Growth",
+      "title": "Director, Enterprise Sales & Partnership Development",
+      "url": "https://www.linkedin.com/jobs/view/director-enterprise-sales-partnership-development-at-superlogic-4387622277",
+      "location": "Miami, FL",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-18",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Quake Global",
+      "stage": "Growth",
+      "title": "Vice President of Sales - Industrial",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-of-sales-industrial-at-quake-global-4387759011",
+      "location": "San Diego, CA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-19",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Ripple",
+      "stage": "Growth",
+      "title": "Business Development Senior Director - Capital Markets",
+      "url": "https://www.linkedin.com/jobs/view/business-development-senior-director-capital-markets-at-ripple-4368003802",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-18",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Secret Mission",
+      "stage": "Growth",
+      "title": "Sales Director",
+      "url": "https://www.linkedin.com/jobs/view/sales-director-at-secret-mission-4387898052",
+      "location": "New York, United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Pasona N A, Inc.",
+      "stage": "Growth",
+      "title": "Vice President of Sales",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-of-sales-at-pasona-n-a-inc-4388116686",
+      "location": "El Segundo, CA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-19",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Babich & Associates",
+      "stage": "Growth",
+      "title": "Vice President of Sales",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-of-sales-at-babich-associates-4376113867",
+      "location": "Dallas-Fort Worth Metroplex",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-21",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Valor Front",
+      "stage": "Growth",
+      "title": "Vice President of Sales",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-of-sales-at-valor-front-4386479153",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Intellisense Systems, Inc.",
+      "stage": "Growth",
+      "title": "Vice President, Business Development and Sales",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-business-development-and-sales-at-intellisense-systems-inc-4387917201",
+      "location": "Torrance, CA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Evotrex",
+      "stage": "Growth",
+      "title": "VP of Sales",
+      "url": "https://www.linkedin.com/jobs/view/vp-of-sales-at-evotrex-4388195510",
+      "location": "Los Angeles Metropolitan Area",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Communications Engineering Company (CEC)",
+      "stage": "Growth",
+      "title": "Executive Director of Sales",
+      "url": "https://www.linkedin.com/jobs/view/executive-director-of-sales-at-communications-engineering-company-cec-4388797939",
+      "location": "Iowa, United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-22",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Ayming",
+      "stage": "Growth",
+      "title": "Head of Sales/VP of Sales - USA",
+      "url": "https://www.linkedin.com/jobs/view/head-of-sales-vp-of-sales-usa-at-ayming-4375208700",
+      "location": "Houston, TX",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-18",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Ameriflex",
+      "stage": "Growth",
+      "title": "Vice President of Sales, West Region (AZ or ID)",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-of-sales-west-region-az-or-id-at-ameriflex-4386979684",
+      "location": "Arizona, United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Compass Surgical Partners",
+      "stage": "Growth",
+      "title": "Vice President of Business Development (Same Store Growth)",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-of-business-development-same-store-growth-at-compass-surgical-partners-4330429147",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Happiest Minds Technologies",
+      "stage": "Growth",
+      "title": "Senior Director Business Development",
+      "url": "https://www.linkedin.com/jobs/view/senior-director-business-development-at-happiest-minds-technologies-4387704233",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-19",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Hayden AI",
+      "stage": "Growth",
+      "title": "Senior Director of Sales and Customer Success",
+      "url": "https://www.linkedin.com/jobs/view/senior-director-of-sales-and-customer-success-at-hayden-ai-4388585830",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-21",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Melink Corporation",
+      "stage": "Growth",
+      "title": "Vice President of Sales & Marketing",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-of-sales-marketing-at-melink-corporation-4388249268",
+      "location": "Milford, OH",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-21",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Resource Innovations",
+      "stage": "Growth",
+      "title": "Vice President, Sales & Strategic Accounts",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-sales-strategic-accounts-at-resource-innovations-4377097460",
+      "location": "Chicago, IL",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "QP Group",
+      "stage": "Growth",
+      "title": "Vice President of Sales",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-of-sales-at-qp-group-4386867793",
+      "location": "New York, United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-18",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Spekit \ud83d\udc19",
+      "stage": "Growth",
+      "title": "VP of Sales",
+      "url": "https://www.linkedin.com/jobs/view/vp-of-sales-at-spekit-%F0%9F%90%99-4388177920",
+      "location": "Denver, CO",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Dexory",
+      "stage": "Growth",
+      "title": "Sales Director US",
+      "url": "https://www.linkedin.com/jobs/view/sales-director-us-at-dexory-4387835844",
+      "location": "Minneapolis, MN",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-19",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Ameriflex",
+      "stage": "Growth",
+      "title": "Vice President of Sales, West Region (AZ or ID)",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-of-sales-west-region-az-or-id-at-ameriflex-4386991145",
+      "location": "Idaho, United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Wpromote",
+      "stage": "Growth",
+      "title": "Vice President, Revenue Operations and Enablement",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-revenue-operations-and-enablement-at-wpromote-4342441978",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-22",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Playfly Sports",
+      "stage": "Growth/Late-stage",
+      "title": "VP, Corporate Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/vp-corporate-partnerships-at-playfly-sports-4376431585",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-22",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Mason Alexander",
+      "stage": "Growth/Late-stage",
+      "title": "Head of Commercial Partnerships & Client Solutions",
+      "url": "https://www.linkedin.com/jobs/view/head-of-commercial-partnerships-client-solutions-at-mason-alexander-4387266589",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-18",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Port.io",
+      "stage": "Growth/Late-stage",
+      "title": "Head of Channel Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/head-of-channel-partnerships-at-port-io-4388394854",
+      "location": "Boston, MA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-21",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "LoopMe",
+      "stage": "Growth/Late-stage",
+      "title": "VP, Agency Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/vp-agency-partnerships-at-loopme-4382451562",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-23",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "United Talent Agency",
+      "stage": "Growth/Late-stage",
+      "title": "Director, Licensing & Business Development",
+      "url": "https://www.linkedin.com/jobs/view/director-licensing-business-development-at-united-talent-agency-4374865488",
+      "location": "Los Angeles Metropolitan Area",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-18",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "HASI",
+      "stage": "Growth/Late-stage",
+      "title": "Director - Capital Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/director-capital-partnerships-at-hasi-4385926680",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Rakuten Rewards",
+      "stage": "Growth/Late-stage",
+      "title": "VP, Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/vp-partnerships-at-rakuten-rewards-4369245935",
+      "location": "San Mateo, CA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-19",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Ladenburg Thalmann",
+      "stage": "Growth/Late-stage",
+      "title": "Managing Director / VP Institutional Sales",
+      "url": "https://www.linkedin.com/jobs/view/managing-director-vp-institutional-sales-at-ladenburg-thalmann-4365319171",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-16",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Port.io",
+      "stage": "Growth/Late-stage",
+      "title": "Head of Channel Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/head-of-channel-partnerships-at-port-io-4388506350",
+      "location": "Austin, TX",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Tech One IT",
+      "stage": "Growth/Late-stage",
+      "title": "Director/ Sr. Director / VP \u2013 Business Development",
+      "url": "https://www.linkedin.com/jobs/view/director-sr-director-vp-%E2%80%93-business-development-at-tech-one-it-4387112741",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-18",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Iopa Solutions",
+      "stage": "Growth/Late-stage",
+      "title": "Business Development Director (Capital Markets)",
+      "url": "https://www.linkedin.com/jobs/view/business-development-director-capital-markets-at-iopa-solutions-4387934396",
+      "location": "New York, United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "QuinStreet",
+      "stage": "Growth/Late-stage",
+      "title": "Director, Strategic Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/director-strategic-partnerships-at-quinstreet-4368019767",
+      "location": "Foster City, CA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-18",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Zeta Global",
+      "stage": "Growth/Late-stage",
+      "title": "Vice President, Client Partnerships - Media",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-client-partnerships-media-at-zeta-global-4377280529",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Mogul & Co.",
+      "stage": "Growth/Late-stage",
+      "title": "VP, Strategic Growth, New Business & Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/vp-strategic-growth-new-business-partnerships-at-mogul-co-4386947923",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Omega Systems",
+      "stage": "Growth/Late-stage",
+      "title": "VP, Channel & Alliances",
+      "url": "https://www.linkedin.com/jobs/view/vp-channel-alliances-at-omega-systems-4386502143",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-16",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Ridgepost Capital",
+      "stage": "Growth/Late-stage",
+      "title": "Global Client Solutions Business Development \u2013 Vice President",
+      "url": "https://www.linkedin.com/jobs/view/global-client-solutions-business-development-%E2%80%93-vice-president-at-ridgepost-capital-4375752114",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-23",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Boost Mobile",
+      "stage": "Growth/Late-stage",
+      "title": "VP, Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/vp-partnerships-at-boost-mobile-4376004750",
+      "location": "Littleton, CO",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Chime",
+      "stage": "Growth/Late-stage",
+      "title": "Sr. Director, Strategic Partnerships & Branded Entertainment",
+      "url": "https://www.linkedin.com/jobs/view/sr-director-strategic-partnerships-branded-entertainment-at-chime-4384079844",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-16",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Morgan Stanley",
+      "stage": "Growth/Late-stage",
+      "title": "Executive Director & Relationship Manager, Fixed Income Sales",
+      "url": "https://www.linkedin.com/jobs/view/executive-director-relationship-manager-fixed-income-sales-at-morgan-stanley-4377609428",
+      "location": "San Francisco, CA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Base",
+      "stage": "Growth/Late-stage",
+      "title": "Head of Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/head-of-partnerships-at-base-4387473904",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-18",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Coterie Insurance",
+      "stage": "Growth/Late-stage",
+      "title": "VP, Strategic Technology Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/vp-strategic-technology-partnerships-at-coterie-insurance-4387241998",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-18",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "JPMorganChase",
+      "stage": "Growth/Late-stage",
+      "title": "Vice President, Corporate Development & Strategic Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-corporate-development-strategic-partnerships-at-jpmorganchase-4369201323",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Alloy Therapeutics, Inc.",
+      "stage": "Growth/Private Equity",
+      "title": "Director / Senior Director of Business Development",
+      "url": "https://www.linkedin.com/jobs/view/director-senior-director-of-business-development-at-alloy-therapeutics-inc-4386902467",
+      "location": "Waltham, MA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "ForgeNow",
+      "stage": "Growth/Private Equity",
+      "title": "Head of Revenue Operations",
+      "url": "https://www.linkedin.com/jobs/view/head-of-revenue-operations-at-forgenow-4385940433",
+      "location": "Lewisville, TX",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Mount Sinai Health System",
+      "stage": "Growth/Private Equity",
+      "title": "Director, Internal Business Development & Operations Support",
+      "url": "https://www.linkedin.com/jobs/view/director-internal-business-development-operations-support-at-mount-sinai-health-system-4385637548",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Day & Zimmermann",
+      "stage": "Growth/Private Equity",
+      "title": "Director, Business Development \u2013Nuclear Infrastructure & New Build",
+      "url": "https://www.linkedin.com/jobs/view/director-business-development-%E2%80%93nuclear-infrastructure-new-build-at-day-zimmermann-4384068176",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-16",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Multi Image Group (MIG)",
+      "stage": "Growth/Private Equity",
+      "title": "Director of Business Development",
+      "url": "https://www.linkedin.com/jobs/view/director-of-business-development-at-multi-image-group-mig-4385603739",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-16",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Arrayo",
+      "stage": "Growth/Private Equity",
+      "title": "Director of Business Development - Financial Services",
+      "url": "https://www.linkedin.com/jobs/view/director-of-business-development-financial-services-at-arrayo-4386930640",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Astroscale U.S.",
+      "stage": "Growth/Private Equity",
+      "title": "Director of Business Development",
+      "url": "https://www.linkedin.com/jobs/view/director-of-business-development-at-astroscale-u-s-4384097552",
+      "location": "El Segundo, CA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-16",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Orion Solutions Group",
+      "stage": "Growth/Private Equity",
+      "title": "Senior Director of Business Development-Drayage",
+      "url": "https://www.linkedin.com/jobs/view/senior-director-of-business-development-drayage-at-orion-solutions-group-4257742663",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "GHR Healthcare",
+      "stage": "Growth/Private Equity",
+      "title": "Managing Director, Enterprise Business Development (Healthcare SaaS)",
+      "url": "https://www.linkedin.com/jobs/view/managing-director-enterprise-business-development-healthcare-saas-at-ghr-healthcare-4386502118",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-16",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Theoris",
+      "stage": "Growth/Private Equity",
+      "title": "DIRECTOR \u2013 BUSINESS DEVELOPMENT & CLIENT SERVICES",
+      "url": "https://www.linkedin.com/jobs/view/director-%E2%80%93-business-development-client-services-at-theoris-4385604528",
+      "location": "Raleigh, NC",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-16",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "LeaderHub",
+      "stage": "Growth",
+      "title": "Sales Director - Fintech/BFSI",
+      "url": "https://www.linkedin.com/jobs/view/sales-director-fintech-bfsi-at-leaderhub-4386776552",
+      "location": "New York, United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Discover International",
+      "stage": "Growth",
+      "title": "Director of Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/director-of-partnerships-at-discover-international-4384467943",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "The Trade Desk",
+      "stage": "Late-stage/Pre-IPO",
+      "title": "Vice President, Business Development - Independent Agencies",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-business-development-independent-agencies-at-the-trade-desk-4332212234",
+      "location": "New York, United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-18",
+      "source": "LinkedIn",
+      "segment": "Adjacent"
+    },
+    {
+      "company": "Lemonade",
+      "stage": "Late-stage/Pre-IPO",
+      "title": "Head of Business Development",
+      "url": "https://www.linkedin.com/jobs/view/head-of-business-development-at-lemonade-4360620078",
+      "location": "New York, United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-16",
+      "source": "LinkedIn",
+      "segment": "Adjacent"
+    },
+    {
+      "company": "Nexxen",
+      "stage": "Late-stage/Pre-IPO",
+      "title": "Director, Partnerships (Sales & Business Development)",
+      "url": "https://www.linkedin.com/jobs/view/director-partnerships-sales-business-development-at-nexxen-4385652649",
+      "location": "Buffalo-Niagara Falls Area",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "Adjacent"
+    },
+    {
+      "company": "Kimball International",
+      "stage": "Late-stage/Pre-IPO",
+      "title": "Regional Sales Director- Pacific Region",
+      "url": "https://www.linkedin.com/jobs/view/regional-sales-director-pacific-region-at-kimball-international-4386758368",
+      "location": "Los Angeles, CA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "Adjacent"
+    },
+    {
+      "company": "JobGini",
+      "stage": "Late-stage/Pre-IPO",
+      "title": "IT Staffing Sales Hunter / Business Development Director",
+      "url": "https://www.linkedin.com/jobs/view/it-staffing-sales-hunter-business-development-director-at-jobgini-4386723963",
+      "location": "Boston, MA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "Adjacent"
+    },
+    {
+      "company": "Snatch UP Jobs",
+      "stage": "Seed",
+      "title": "Head of Sales",
+      "url": "https://www.linkedin.com/jobs/view/head-of-sales-at-snatch-up-jobs-4386101779",
+      "location": "Boston, KY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-21",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Kaiyiee Global Talent",
+      "stage": "Series A",
+      "title": "Retail Sales Director (Offline Stores) \u2013 Beauty & Fashion Retail",
+      "url": "https://www.linkedin.com/jobs/view/retail-sales-director-offline-stores-%E2%80%93-beauty-fashion-retail-at-kaiyiee-global-talent-4386679793",
+      "location": "New York, United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-23",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Spindrift Beverage Co, Inc.",
+      "stage": "Series A",
+      "title": "Sr Director - Brand, Social & Culture Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/sr-director-brand-social-culture-partnerships-at-spindrift-beverage-co-inc-4388150007",
+      "location": "Newton, MA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-19",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "AdParlor",
+      "stage": "Series A",
+      "title": "VP, Sales (Creator Marketing)",
+      "url": "https://www.linkedin.com/jobs/view/vp-sales-creator-marketing-at-adparlor-4387707193",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-19",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Google",
+      "stage": "Growth",
+      "title": "Head of Business Operations and Strategy, Global Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/head-of-business-operations-and-strategy-global-partnerships-at-google-4387769267",
+      "location": "San Francisco, CA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Google",
+      "stage": "Growth",
+      "title": "Head of Business Operations and Strategy, Global Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/head-of-business-operations-and-strategy-global-partnerships-at-google-4387774099",
+      "location": "Los Angeles, CA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Google",
+      "stage": "Growth",
+      "title": "Head of Business Operations and Strategy, Global Partnerships",
+      "url": "https://www.linkedin.com/jobs/view/head-of-business-operations-and-strategy-global-partnerships-at-google-4387766423",
+      "location": "Mountain View, CA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "RevOptimal",
+      "stage": "Growth",
+      "title": "Director of Business Development",
+      "url": "https://www.linkedin.com/jobs/view/director-of-business-development-at-revoptimal-4387978947",
+      "location": "New York City Metropolitan Area",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Scientific Search",
+      "stage": "Growth",
+      "title": "Head of Business Development",
+      "url": "https://www.linkedin.com/jobs/view/head-of-business-development-at-scientific-search-4374515772",
+      "location": "San Francisco, CA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Parfums Christian Dior",
+      "stage": "Series D",
+      "title": "Northeast Regional Sales Director",
+      "url": "https://www.linkedin.com/jobs/view/northeast-regional-sales-director-at-parfums-christian-dior-4370118248",
+      "location": "New York, United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-21",
+      "source": "LinkedIn",
+      "segment": "PFMTech"
+    },
+    {
+      "company": "TruHearing",
+      "stage": "Series D",
+      "title": "VP, Insurance Operations & Revenue Life Cycle",
+      "url": "https://www.linkedin.com/jobs/view/vp-insurance-operations-revenue-life-cycle-at-truhearing-4385779265",
+      "location": "Draper, UT",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-21",
+      "source": "LinkedIn",
+      "segment": "PFMTech"
+    },
+    {
+      "company": "Kaiser Associates",
+      "stage": "Series D",
+      "title": "Vice President, Strategy Consulting, Private Equity",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-strategy-consulting-private-equity-at-kaiser-associates-4387653560",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-19",
+      "source": "LinkedIn",
+      "segment": "PFMTech"
+    },
+    {
+      "company": "Higharc",
+      "stage": "Series D",
+      "title": "Director of Business Development, LBM",
+      "url": "https://www.linkedin.com/jobs/view/director-of-business-development-lbm-at-higharc-4386583864",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "PFMTech"
+    },
+    {
+      "company": "Four Seasons Hotels and Resorts",
+      "stage": "Series D",
+      "title": "Director, Residential Development, Marketing & Sales - Americas",
+      "url": "https://www.linkedin.com/jobs/view/director-residential-development-marketing-sales-americas-at-four-seasons-hotels-and-resorts-4388702369",
+      "location": "Miami, FL",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-21",
+      "source": "LinkedIn",
+      "segment": "PFMTech"
+    },
+    {
+      "company": "McLane Company, Inc.",
+      "stage": "Series D",
+      "title": "National Business Development Director (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/national-business-development-director-remote-at-mclane-company-inc-4379245559",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-22",
+      "source": "LinkedIn",
+      "segment": "PFMTech"
+    },
+    {
+      "company": "MeeDerby",
+      "stage": "Series D",
+      "title": "Vice President of National Sales, Light Industrial Staffing - Remote",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-of-national-sales-light-industrial-staffing-remote-at-meederby-4387966191",
+      "location": "Dallas, TX",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "PFMTech"
+    },
+    {
+      "company": "Lightbits Labs",
+      "stage": "Growth",
+      "title": "VP of Product & Business Development \u2013 AI Inference",
+      "url": "https://www.linkedin.com/jobs/view/vp-of-product-business-development-%E2%80%93-ai-inference-at-lightbits-labs-4386668754",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-23",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Virgin Hotels",
+      "stage": "Growth",
+      "title": "Director of Sales & Marketing",
+      "url": "https://www.linkedin.com/jobs/view/director-of-sales-marketing-at-virgin-hotels-4386792976",
+      "location": "Dallas, TX",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-17",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Plastic Executive Recruiters",
+      "stage": "Growth",
+      "title": "Sales Director",
+      "url": "https://www.linkedin.com/jobs/view/sales-director-at-plastic-executive-recruiters-4386175499",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-21",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Picarro",
+      "stage": "Growth",
+      "title": "Senior Director, Sales Operations & Commercial Excellence",
+      "url": "https://www.linkedin.com/jobs/view/senior-director-sales-operations-commercial-excellence-at-picarro-4389037542",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-23",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "The Vertex Companies LLC",
+      "stage": "Growth",
+      "title": "Vice President, Go-to-Market Strategy",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-go-to-market-strategy-at-the-vertex-companies-llc-4389041876",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-23",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "The Vertex Companies LLC",
+      "stage": "Growth",
+      "title": "Vice President, Go-to-Market Strategy",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-go-to-market-strategy-at-the-vertex-companies-llc-4389062065",
+      "location": "United States",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-23",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Santa Barbara Sky FC",
+      "stage": "Public",
+      "title": "VP of Ticket Sales and Service",
+      "url": "https://www.linkedin.com/jobs/view/vp-of-ticket-sales-and-service-at-santa-barbara-sky-fc-4387776583",
+      "location": "Santa Barbara, CA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Santa Barbara Sky FC",
+      "stage": "Public",
+      "title": "VP of Ticket Sales and Service",
+      "url": "https://www.linkedin.com/jobs/view/vp-of-ticket-sales-and-service-at-santa-barbara-sky-fc-4387770818",
+      "location": "Santa Barbara, CA",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-20",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    },
+    {
+      "company": "HHM Hotels",
+      "stage": "Public",
+      "title": "Area Director of Revenue Management",
+      "url": "https://www.linkedin.com/jobs/view/area-director-of-revenue-management-at-hhm-hotels-4369952374",
+      "location": "Washington DC-Baltimore Area",
+      "compensation": "Not disclosed",
+      "datePosted": "2026-03-22",
+      "source": "LinkedIn",
+      "segment": "WealthTech"
+    }
+  ],
+  "queries_run": [
+    {
+      "query": "\"VP Sales\" OR \"Head of Sales\" wealthtech fintech",
+      "raw_results": 70,
+      "matching_results": 70,
+      "industry_relevant": 3
+    },
+    {
+      "query": "\"Chief Revenue Officer\" wealth management fintech",
+      "raw_results": 1,
+      "matching_results": 1,
+      "industry_relevant": 0
+    },
+    {
+      "query": "\"Head of Business Development\" financial technology",
+      "raw_results": 1,
+      "matching_results": 1,
+      "industry_relevant": 0
+    },
+    {
+      "query": "\"VP GTM\" OR \"Head of GTM\" fintech",
+      "raw_results": 11,
+      "matching_results": 4,
+      "industry_relevant": 0
+    },
+    {
+      "query": "\"Director Partnerships\" OR \"Head of Partnerships\" wealthtech",
+      "raw_results": 70,
+      "matching_results": 66,
+      "industry_relevant": 0
+    },
+    {
+      "query": "\"VP Sales\" \"portfolio management\" OR \"investment platform\"",
+      "raw_results": 70,
+      "matching_results": 7,
+      "industry_relevant": 0
+    },
+    {
+      "query": "\"Director\" OR \"VP\" \"alternative investments\" sales partnerships",
+      "raw_results": 66,
+      "matching_results": 11,
+      "industry_relevant": 0
+    },
+    {
+      "query": "\"Head of Sales\" retirement OR \"401k\" technology",
+      "raw_results": 70,
+      "matching_results": 33,
+      "industry_relevant": 0
+    },
+    {
+      "query": "\"VP Business Development\" \"asset management\" technology",
+      "raw_results": 1,
+      "matching_results": 1,
+      "industry_relevant": 0
+    },
+    {
+      "query": "\"CRO\" OR \"Chief Revenue Officer\" \"investment management\"",
+      "raw_results": 70,
+      "matching_results": 27,
+      "industry_relevant": 2
+    },
+    {
+      "query": "\"wealth management\" experience \"VP\" OR \"Director\" OR \"Head\" technology company",
+      "raw_results": 70,
+      "matching_results": 16,
+      "industry_relevant": 4
+    },
+    {
+      "query": "\"wealth management\" OR \"financial advisor\" experience sales technology platform",
+      "raw_results": 70,
+      "matching_results": 1,
+      "industry_relevant": 0
+    },
+    {
+      "query": "\"RIA\" OR \"registered investment advisor\" experience director OR VP technology",
+      "raw_results": 69,
+      "matching_results": 13,
+      "industry_relevant": 4
+    },
+    {
+      "query": "\"asset management\" experience \"Head of Sales\" OR \"VP Sales\" SaaS OR technology OR platform",
+      "raw_results": 70,
+      "matching_results": 3,
+      "industry_relevant": 0
+    },
+    {
+      "query": "Company: Jump",
+      "raw_results": 70,
+      "matching_results": 15
+    },
+    {
+      "query": "Company: Addepar",
+      "raw_results": 69,
+      "matching_results": 39
+    },
+    {
+      "query": "Company: Pontera",
+      "raw_results": 70,
+      "matching_results": 59
+    },
+    {
+      "query": "Company: Gridline",
+      "raw_results": 70,
+      "matching_results": 59
+    },
+    {
+      "query": "Company: iCapital",
+      "raw_results": 70,
+      "matching_results": 43
+    },
+    {
+      "query": "Company: Orion",
+      "raw_results": 70,
+      "matching_results": 42
+    },
+    {
+      "query": "Company: Altruist",
+      "raw_results": 69,
+      "matching_results": 31
+    },
+    {
+      "query": "Company: Plaid",
+      "raw_results": 70,
+      "matching_results": 51
+    },
+    {
+      "query": "Company: Sherpas",
+      "raw_results": 70,
+      "matching_results": 59
+    },
+    {
+      "query": "Company: Sidekick",
+      "raw_results": 70,
+      "matching_results": 37
+    },
+    {
+      "query": "Company: CAIS",
+      "raw_results": 70,
+      "matching_results": 37
+    },
+    {
+      "query": "Company: Guideline",
+      "raw_results": 70,
+      "matching_results": 24
+    },
+    {
+      "query": "Company: Vestwell",
+      "raw_results": 70,
+      "matching_results": 40
+    },
+    {
+      "query": "Company: Titan",
+      "raw_results": 70,
+      "matching_results": 60
+    },
+    {
+      "query": "Company: Nitrogen (formerly Riskalyze)",
+      "raw_results": 69,
+      "matching_results": 28
+    },
+    {
+      "query": "Company: Robinhood",
+      "raw_results": 69,
+      "matching_results": 21
+    },
+    {
+      "query": "Company: SoFi",
+      "raw_results": 69,
+      "matching_results": 34
+    }
+  ]
+}

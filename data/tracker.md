@@ -578,3 +578,35 @@
 | 27 | Forsyth Barnes | Yes | [Director of Strategic Sales & Partnerships (Ref: 195997)](https://www.linkedin.com/jobs/view/director-of-strategic-sales-partnerships-ref-195997-at-forsyth-barnes-4386568042) | United States | 2026-03-16 |
 | 28 | The Walt Disney Company | Yes | [Regional Sales Director - Travel Agency Sales](https://www.linkedin.com/jobs/view/regional-sales-director-travel-agency-sales-at-the-walt-disney-company-4387374779) | Celebration, FL | 2026-03-19 |
 | 29 | Ascendion | Yes | [Director of Private Equity Sales](https://www.linkedin.com/jobs/view/director-of-private-equity-sales-at-ascendion-4388207411) | United States | 2026-03-20 |
+
+## 2026-03-23 — 29 new roles
+
+| 1 | Vestwell | Yes | [VP of Special Markets](https://builtin.com/company/vestwell/jobs) | Not disclosed | 2026 |
+| 2 | Vestwell | Yes | [SVP, Head Of Strategic Partnerships](https://theorg.com/org/vestwell/offices/hq) | New York, NY | 2026 |
+| 3 | Jump | Yes | [Head of/VP of Marketing](https://careers.jumpapp.com/34831) | Remote | 2026 |
+| 4 | FIDELITY INVESTMENTS VARIABLE LIFE ACCOUNT I | Unknown | [Chief Revenue Officer](https://www.linkedin.com/jobs/view/chief-revenue-officer-at-fidelity-investments-variable-life-account-i-4389047128) | United States | 2026-03-23 |
+| 5 | F. Walther Electric Corp | Yes | [Director of Sales](https://www.linkedin.com/jobs/view/director-of-sales-at-f-walther-electric-corp-4389075739) | Somerset, NJ | 2026-03-23 |
+| 6 | XDS | Yes | [Director of Sales](https://www.linkedin.com/jobs/view/director-of-sales-at-xds-4389062451) | Santa Monica, CA | 2026-03-23 |
+| 7 | NetFortris, A Sangoma Company | Yes | [Director of Distribution Channel - Remote](https://www.linkedin.com/jobs/view/director-of-distribution-channel-remote-at-netfortris-a-sangoma-company-4386688008) | Dallas, TX | 2026-03-23 |
+| 8 | Iopa Solutions | Yes | [Vice President of Sales](https://www.linkedin.com/jobs/view/vice-president-of-sales-at-iopa-solutions-4388694984) | New York, United States | 2026-03-23 |
+| 9 | ArkTalents | Yes | [Sales Director](https://www.linkedin.com/jobs/view/sales-director-at-arktalents-4389070705) | United States | 2026-03-23 |
+| 10 | New York Technology Partners | Yes | [Sales Director](https://www.linkedin.com/jobs/view/sales-director-at-new-york-technology-partners-4389089591) | United States | 2026-03-23 |
+| 11 | Hunter + Esquire® | Yes | [Sales Director](https://www.linkedin.com/jobs/view/sales-director-at-hunter-%2B-esquire%C2%AE-4389200118) | Colorado, United States | 2026-03-23 |
+| 12 | Albert Bow | Yes | [Head of Business Development](https://www.linkedin.com/jobs/view/head-of-business-development-at-albert-bow-4279882897) | United States | 2026-03-23 |
+| 13 | Marriott International | Yes | [Vice President of Sales & Marketing](https://www.linkedin.com/jobs/view/vice-president-of-sales-marketing-at-marriott-international-4386781611) | Fairhope, AL | 2026-03-17 |
+| 14 | LoopMe | Yes | [Vice President, Enterprise Sales](https://www.linkedin.com/jobs/view/vice-president-enterprise-sales-at-loopme-4381895641) | New York, NY | 2026-03-23 |
+| 15 | Zekelman Industries | Yes | [Vice President, Sales](https://www.linkedin.com/jobs/view/vice-president-sales-at-zekelman-industries-4388567024) | United States | 2026-03-20 |
+| 16 | LoopMe | Yes | [VP, Agency Partnerships](https://www.linkedin.com/jobs/view/vp-agency-partnerships-at-loopme-4382451562) | New York, NY | 2026-03-23 |
+| 17 | Coterie Insurance | Yes | [VP, Strategic Technology Partnerships](https://www.linkedin.com/jobs/view/vp-strategic-technology-partnerships-at-coterie-insurance-4387241998) | United States | 2026-03-18 |
+| 18 | JPMorganChase | Yes | [Vice President, Corporate Development & Strategic Partnerships](https://www.linkedin.com/jobs/view/vice-president-corporate-development-strategic-partnerships-at-jpmorganchase-4369201323) | New York, NY | 2026-03-20 |
+| 19 | Kaiyiee Global Talent | Yes | [Retail Sales Director (Offline Stores) – Beauty & Fashion Retail](https://www.linkedin.com/jobs/view/retail-sales-director-offline-stores-%E2%80%93-beauty-fashion-retail-at-kaiyiee-global-talent-4386679793) | New York, United States | 2026-03-23 |
+| 20 | AdParlor | Yes | [VP, Sales (Creator Marketing)](https://www.linkedin.com/jobs/view/vp-sales-creator-marketing-at-adparlor-4387707193) | New York, NY | 2026-03-19 |
+| 21 | Parfums Christian Dior | Yes | [Northeast Regional Sales Director](https://www.linkedin.com/jobs/view/northeast-regional-sales-director-at-parfums-christian-dior-4370118248) | New York, United States | 2026-03-21 |
+| 22 | TruHearing | Yes | [VP, Insurance Operations & Revenue Life Cycle](https://www.linkedin.com/jobs/view/vp-insurance-operations-revenue-life-cycle-at-truhearing-4385779265) | Draper, UT | 2026-03-21 |
+| 23 | Four Seasons Hotels and Resorts | Yes | [Director, Residential Development, Marketing & Sales - Americas](https://www.linkedin.com/jobs/view/director-residential-development-marketing-sales-americas-at-four-seasons-hotels-and-resorts-4388702369) | Miami, FL | 2026-03-21 |
+| 24 | MeeDerby | Yes | [Vice President of National Sales, Light Industrial Staffing - Remote](https://www.linkedin.com/jobs/view/vice-president-of-national-sales-light-industrial-staffing-remote-at-meederby-4387966191) | Dallas, TX | 2026-03-20 |
+| 25 | Lightbits Labs | Yes | [VP of Product & Business Development – AI Inference](https://www.linkedin.com/jobs/view/vp-of-product-business-development-%E2%80%93-ai-inference-at-lightbits-labs-4386668754) | United States | 2026-03-23 |
+| 26 | Virgin Hotels | Yes | [Director of Sales & Marketing](https://www.linkedin.com/jobs/view/director-of-sales-marketing-at-virgin-hotels-4386792976) | Dallas, TX | 2026-03-17 |
+| 27 | Plastic Executive Recruiters | Yes | [Sales Director](https://www.linkedin.com/jobs/view/sales-director-at-plastic-executive-recruiters-4386175499) | United States | 2026-03-21 |
+| 28 | Picarro | Yes | [Senior Director, Sales Operations & Commercial Excellence](https://www.linkedin.com/jobs/view/senior-director-sales-operations-commercial-excellence-at-picarro-4389037542) | United States | 2026-03-23 |
+| 29 | The Vertex Companies LLC | Yes | [Vice President, Go-to-Market Strategy](https://www.linkedin.com/jobs/view/vice-president-go-to-market-strategy-at-the-vertex-companies-llc-4389041876) | United States | 2026-03-23 |

@@ -1,0 +1,277 @@
+{
+  "roles": [
+    {
+      "company": "iCapital",
+      "stage": "Growth/Late-stage",
+      "title": "Midwest Regional Director - Vice President / Senior Vice President",
+      "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8012960002",
+      "location": "Remote (US)",
+      "compensation": "$200,000 - $250,000 base + commission + equity",
+      "datePosted": "2026",
+      "source": "Greenhouse",
+      "isNew": true,
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "iCapital",
+      "stage": "Growth/Late-stage",
+      "title": "Platform Partnerships - Senior Vice President / Managing Director",
+      "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8381626002",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026",
+      "source": "Greenhouse",
+      "isNew": true,
+      "segment": "InvestmentTech"
+    },
+    {
+      "company": "Addepar",
+      "stage": "Growth/Late-stage",
+      "title": "Head of Client Success - Core & Strategic",
+      "url": "https://job-boards.greenhouse.io/addepar1/jobs/8341066002",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026",
+      "source": "Greenhouse",
+      "isNew": true,
+      "segment": "WealthTech"
+    },
+    {
+      "company": "Vestwell",
+      "stage": "Series D",
+      "title": "VP, National Accounts & Advisory Enterprise Sales",
+      "url": "https://www.builtinnyc.com/company/vestwell/jobs",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026",
+      "source": "Built In",
+      "isNew": true,
+      "segment": "PFMTech"
+    },
+    {
+      "company": "Vestwell",
+      "stage": "Series D",
+      "title": "VP of Special Markets",
+      "url": "https://builtin.com/company/vestwell/jobs",
+      "location": "Not disclosed",
+      "compensation": "Not disclosed",
+      "datePosted": "2026",
+      "source": "Built In",
+      "isNew": true,
+      "segment": "PFMTech"
+    },
+    {
+      "company": "Vestwell",
+      "stage": "Series D",
+      "title": "SVP, Head Of Strategic Partnerships",
+      "url": "https://theorg.com/org/vestwell/offices/hq",
+      "location": "New York, NY",
+      "compensation": "Not disclosed",
+      "datePosted": "2026",
+      "source": "The Org",
+      "isNew": true,
+      "segment": "PFMTech"
+    },
+    {
+      "company": "Vestwell",
+      "stage": "Series D",
+      "title": "Director of Enterprise Relationship Management",
+      "url": "https://builtin.com/company/vestwell/jobs",
+      "location": "Not disclosed",
+      "compensation": "Not disclosed",
+      "datePosted": "2026",
+      "source": "Built In",
+      "isNew": true,
+      "segment": "PFMTech"
+    },
+    {
+      "company": "Jump",
+      "stage": "Series B",
+      "title": "Head of/VP of Marketing",
+      "url": "https://careers.jumpapp.com/34831",
+      "location": "Remote",
+      "compensation": "Not disclosed",
+      "datePosted": "2026",
+      "source": "Jump Careers",
+      "isNew": true,
+      "segment": "WealthTech"
+    }
+  ],
+  "coverage": [
+    {
+      "company": "Jump",
+      "careers_url": "https://careers.jumpapp.com/",
+      "status": "checked",
+      "roles_found": 1,
+      "notes": "Found Head of/VP Marketing role with GTM responsibilities. Career site active but limited senior GTM roles posted."
+    },
+    {
+      "company": "Addepar",
+      "careers_url": "https://job-boards.greenhouse.io/addepar1",
+      "status": "checked",
+      "roles_found": 1,
+      "notes": "Very active hiring with 238 open roles reported. Found Head of Client Success role. Multiple other senior roles but primarily product/tech focused."
+    },
+    {
+      "company": "Pontera",
+      "careers_url": "https://job-boards.greenhouse.io/pontera",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Checked Greenhouse board. Found revenue operations and analyst roles but no Director+ GTM leadership positions currently posted."
+    },
+    {
+      "company": "Gridline",
+      "careers_url": "https://gridline.rippling-ats.com/",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Recently raised $18.5M Series A but no senior GTM roles posted. Career page accessible but limited listings."
+    },
+    {
+      "company": "iCapital",
+      "careers_url": "https://job-boards.greenhouse.io/icapitalnetwork",
+      "status": "checked",
+      "roles_found": 2,
+      "notes": "Active hiring across multiple senior GTM roles. Found Midwest Regional Director and Platform Partnerships SVP/MD roles."
+    },
+    {
+      "company": "Orion",
+      "careers_url": "https://orion.com/careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Career site accessible but no specific Director+ GTM roles identified in search results. May have roles but not discoverable via standard search."
+    },
+    {
+      "company": "Altruist",
+      "careers_url": "https://altruist.com/careers/",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Career page active with multiple openings but no Director+ GTM leadership roles found. Primarily product and technical positions."
+    },
+    {
+      "company": "Plaid",
+      "careers_url": "https://plaid.com/careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Recently raised funding at $8B valuation. Did not find specific Director+ GTM roles in search results."
+    },
+    {
+      "company": "Nitrogen",
+      "careers_url": "https://nitrogenwealth.com/careers/",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Career page accessible. Leadership includes VP Enterprise Sales per LinkedIn but no open Director+ GTM roles found in current search."
+    },
+    {
+      "company": "CAIS",
+      "careers_url": "https://www.caisgroup.com/our-company/careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Career page accessible, hiring across multiple roles but no Director+ GTM leadership positions found in search results."
+    },
+    {
+      "company": "Guideline",
+      "careers_url": "https://www.guideline.com/careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Revenue org includes Sales, Strategic Partnerships, Marketing teams. No Director+ GTM roles found in current search. Recently appointed CMO."
+    },
+    {
+      "company": "Vestwell",
+      "careers_url": "https://www.vestwell.com/careers",
+      "status": "checked",
+      "roles_found": 4,
+      "notes": "Strong GTM hiring activity. Found multiple Director and VP level roles including VP National Accounts, VP Special Markets, SVP Strategic Partnerships, and Director Enterprise Relationship Management."
+    },
+    {
+      "company": "Titan",
+      "careers_url": "https://www.titan.com/careers",
+      "status": "checked",
+      "roles_found": 0,
+      "notes": "Career page exists but no specific Director+ GTM leadership roles identified in search results."
+    },
+    {
+      "company": "Sherpas",
+      "careers_url": "https://sherpas.ai/careers",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Pre-seed stage company ($3.2M raised Feb 2026). Too early for senior GTM leadership hires beyond founders."
+    },
+    {
+      "company": "WealthAi",
+      "careers_url": "https://wealthai.com/careers",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Pre-seed stage company ($800K raised Jan 2026). Too early for senior GTM leadership hires."
+    },
+    {
+      "company": "Sidekick",
+      "careers_url": "https://sidekick.money/careers",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "UK-based with Cardiff operations. Series A stage. Not checked due to international focus and location."
+    },
+    {
+      "company": "BIP Wealth",
+      "careers_url": "https://bipwealth.com/careers",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Traditional RIA firm, not pure fintech. Lower priority for search."
+    },
+    {
+      "company": "Betterment",
+      "careers_url": "https://betterment.com/careers",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not checked in detail due to search limit constraints."
+    },
+    {
+      "company": "Wealthfront",
+      "careers_url": "https://wealthfront.com/careers",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not checked in detail due to search limit constraints."
+    },
+    {
+      "company": "Human Interest",
+      "careers_url": "https://humaninterest.com/careers",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not checked in detail due to search limit constraints."
+    },
+    {
+      "company": "Envestnet",
+      "careers_url": "https://envestnet.com/careers",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not checked in detail due to search limit constraints."
+    },
+    {
+      "company": "Vise",
+      "careers_url": "https://viseai.com/careers",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not checked in detail due to search limit constraints."
+    },
+    {
+      "company": "Advyzon",
+      "careers_url": "https://advyzon.com/careers",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not checked in detail due to search limit constraints."
+    },
+    {
+      "company": "RightCapital",
+      "careers_url": "https://rightcapital.com/careers",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not checked in detail due to search limit constraints."
+    },
+    {
+      "company": "eMoney Advisor",
+      "careers_url": "https://emoney.com/careers",
+      "status": "not_checked",
+      "roles_found": 0,
+      "notes": "Not checked in detail due to search limit constraints."
+    }
+  ]
+}
